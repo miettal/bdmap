@@ -1,0 +1,3 @@
+recursive-include bdmap/templates *
+recursive-include bdmap/static *
+recursive-include bdmap/data *

@@ -1,0 +1,158 @@
+<html>
+    <head>
+        <title>献血マップ - 最寄りの献血ルーム、献血バス(今日と明日)を一瞬で調べます</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-457P1B24W5"></script>
+                <script>
+                      window.dataLayer = window.dataLayer || [];
+                      function gtag(){dataLayer.push(arguments);}
+                      gtag('js', new Date());
+
+                      gtag('config', 'G-457P1B24W5');
+                </script>
+    </head>
+    <body>
+<h1>献血マップ<font size=3>最寄りの献血ルーム、献血バス(今日と明日)を一瞬で調べます</font></h1>
+<tt><a href="https://github.com/miettal/bdmap">src: https://github.com/miettal/bdmap</a></tt>
+<div id=map style="height: 500px;"></div>
+
+<button id='gotoneardonationplace'><h2>近くの献血ルーム、献血バスを調べる!</h2>(位置情報取得の許可ボタンが出ますので許可願います)</button></br>
+
+<!-- jquery -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<!-- reflet-->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="{{ url_for('static', filename='leaflet.sprite.js') }}"></script>
+
+<script>
+'strict';
+function distance(lat1, lng1, lat2, lng2) {
+  lat1 *= Math.PI / 180;
+  lng1 *= Math.PI / 180;
+  lat2 *= Math.PI / 180;
+  lng2 *= Math.PI / 180;
+  return 6371 * Math.acos(Math.cos(lat1) * Math.cos(lat2) * Math.cos(lng2 - lng1) + Math.sin(lat1) * Math.sin(lat2));
+}
+$(function(){
+    var center_list = {{ center_list|tojson }};
+    var map = L.map('map', {
+      center: [35.6769883, 139.7588499], // 外苑1-1
+      zoom: 6,
+    });
+    var tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+    });
+    tileLayer.addTo(map);
+
+    $('#gotoneardonationplace').click(function(){
+        if(!navigator.geolocation){
+alert('調べられませんでした。あなたのコンピュータ、ブラウザでは位置情報を取得できないようです。');
+return;
+
+        }
+        navigator.geolocation.getCurrentPosition(function(position){
+            map.flyTo([position.coords.latitude, position.coords.longitude], 12, { duration: 1 });
+            L.marker([position.coords.latitude, position.coords.longitude],{icon: L.spriteIcon('blue')}).addTo(map);
+            var donation_place_list = [];
+            for(var i = 0; i < center_list.length; i++){
+                if(center_list[i].block){
+                    continue;
+                }
+                for(var j = 0; j < center_list[i].room_list.length; j++){
+                    if(!center_list[i].room_list[j].location) continue;
+                    center_list[i].room_list[j].location.distance = distance(
+                        position.coords.latitude, position.coords.longitude,
+                        center_list[i].room_list[j].location.lat, center_list[i].room_list[j].location.lng);
+                    donation_place_list.push(center_list[i].room_list[j]);
+
+                }
+                for(var j = 0; j < center_list[i].bus_list.length; j++){
+                    if(!center_list[i].bus_list[j].location) continue;
+                    if(!(center_list[i].bus_list[j].date == '{{ today }}' || center_list[i].bus_list[j].date == '{{ tomorrow }}')) continue;
+                    center_list[i].bus_list[j].location.distance = distance(
+                        position.coords.latitude, position.coords.longitude,
+                        center_list[i].bus_list[j].location.lat, center_list[i].bus_list[j].location.lng);
+                    donation_place_list.push(center_list[i].bus_list[j]);
+                }
+            }
+            donation_place_list.sort(function(a, b){
+                return a.location.distance - b.location.distance;
+            });
+            var top10 = donation_place_list.slice(0, 10);
+$("#neardonationplacelist").empty();
+            for(var i = 0; i < top10.length; i++){
+var div = $("<div>");
+if(top10[i].name){
+div.append($("<a>").attr('href', top10[i].url).text('献血ルーム: ' + top10[i].name));
+div.append($("<span>　</span>"));
+div.append($("<a>").attr('href', 'https://www.google.com/maps?q=' + top10[i].name).text('GoogleMap'));
+}else{
+if(top10[i].date == "{{ today }}"){
+div.append($("<a>").attr('href', top10[i].url).text('献血バス(今日 {{ today }}: ' + top10[i].area + ' ' + top10[i].address));
+}else{
+div.append($("<a>").attr('href', top10[i].url).text('献血バス(明日 {{ tomorrow }}: ' + top10[i].area + ' ' + top10[i].address));
+}
+div.append($("<span>　</span>"));
+div.append($("<a>").attr('href', 'https://www.google.com/maps?q=' + top10[i].address).text('GoogleMap'));
+}
+$("#neardonationplacelist").append(div);
+            }
+         });
+    });
+{% for center in center_list %}
+    {% if center.block == False %}
+        {% for room in center.room_list %}
+            {% if room.location %}
+            L.marker([{{room.location.lat}}, {{room.location.lng}}], {icon: L.spriteIcon('red')}).bindPopup("献血ルーム: {{room.name}}<br>場所: {{(room.address|replace('\n', '<br>')|tojson)[1:-1]}}<br>受付期間: {{(room.reception_time|replace('\n', '<br>')|tojson)[1:-1]}}<br>定休日: {{(room.regular_holiday|replace('\n', '<br>')|tojson)[1:-1]}}<br>URL: <a href=\"{{room.url}}\">{{room.url}}</a>").addTo(map);
+{% endif %}
+        {% endfor %}
+        {% for bus in center.bus_list %}
+            {% if bus.date == today %}
+            {% if bus.location %}
+                L.marker([{{bus.location.lat}}, {{bus.location.lng}}], {icon: L.spriteIcon('red')}).bindPopup("献血バス(今日 {{ today }})<br> 市区町村: {{bus.area}}<br> 場所: {{(bus.address|replace('\n', '<br>')|tojson)[1:-1]}}<br>受付期間: {{(bus.reception_time|replace('\n', '<br>')|tojson)[1:-1]}}<br>URL: <a href=\"{{bus.url}}\">{{bus.url}}</a>" ).addTo(map);
+{% endif %}
+            {% endif %}
+        {% endfor %}
+        {% for bus in center.bus_list %}
+            {% if bus.date == tomorrow %}
+            {% if bus.location %}
+                L.marker([{{bus.location.lat}}, {{bus.location.lng}}], {icon: L.spriteIcon('red')}).bindPopup("献血バス(明日 {{ tomorrow }})<br> 市区町村: {{bus.area}}<br> 場所: {{(bus.address|replace('\n', '<br>')|tojson)[1:-1]}}<br>受付期間: {{(bus.reception_time|replace('\n', '<br>')|tojson)[1:-1]}}<br>URL: <a href=\"{{bus.url}}\">{{bus.url}}</a>" ).addTo(map);
+{% endif %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+});
+</script>
+<h2>献血できる場所の一覧（近い順）</h1>
+<div id=neardonationplacelist>
+↑のボタンをクリックすると表示されます。
+</diV>
+
+<h2>
+献血できる場所の一覧
+</h2>
+{% for center in center_list %}
+    {% if center.block == False %}
+        <h3>{{ center.name }}</h3>
+        <h4>献血ルーム</h4></br>
+        {% for room in center.room_list %}
+            <a href="{{room.url}}">{{ room.name }}</a><span>　</span> <a href="https://www.google.com/maps?q={{room.name}}">GoogleMap</a><br><br>
+        {% endfor %}
+        <h4>今日({{today}})の献血バス</h4></br>
+        {% for bus in center.bus_list %}
+            {% if bus.date == today %}
+                <a href="{{bus.url}}">{{ bus.area }} {{ bus.address }}</a><span>　</span> <a href="https://www.google.com/maps?q={{bus.address}}">GoogleMap</a><br>
+            {% endif %}
+        {% endfor %}
+        <h4>明日({{tomorrow}})の献血バス</h4></br>
+        {% for bus in center.bus_list %}
+            {% if bus.date == tomorrow %}
+                <a href="{{bus.url}}">{{ bus.area }} {{ bus.address }}</a><span>　</span> <a href="https://www.google.com/maps?q={{bus.address}}">GoogleMap</a><br>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+    </body>
+</html>
