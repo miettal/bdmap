@@ -83,6 +83,7 @@ return;
 $("#neardonationplacelist").empty();
             for(var i = 0; i < top10.length; i++){
 var div = $("<div>");
+div.append($("<span>").text(Math.round(top10[i].location.distance*10)/10.0 + 'km'));
 if(top10[i].name){
 div.append($("<a>").attr('href', top10[i].url).text('献血ルーム: ' + top10[i].name));
 div.append($("<span>　</span>"));
