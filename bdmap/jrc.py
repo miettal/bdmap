@@ -185,7 +185,7 @@ def get_bus_list(url):
                             break
             if bus != {}:
                 bus['url'] = bus_url
-                bus['date'] = date
+                bus['date'] = date.isoformat()
                 bus_list.append(bus)
 
     return bus_list
