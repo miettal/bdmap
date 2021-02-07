@@ -11,3 +11,4 @@ jobs:
       - run: wget https://raw.githubusercontent.com/hottolink/pydams/master/patch/dams-4.3.4.diff
       - run: tar zxf dams-4.3.4.tgz
       - run: patch -d ./dams-4.3.4 -p1 < ./dams-4.3.4.diff
+      - run: pip install .

@@ -9,5 +9,6 @@ setup(
     zip_safe=False,
     install_requires=[
         'Flask',
+        'dams @ git+https://github.com/hottolink/pydams.git@master',
     ],
 )
