@@ -16,7 +16,6 @@ DAMS.init_dams()
 
 def geocode(place):
     geocoded = DAMS.geocode(place)
-    pretty_print(geocoded)
 
     if len(geocoded['candidates']) == 0:
         return None
