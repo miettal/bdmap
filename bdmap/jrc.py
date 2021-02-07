@@ -22,7 +22,10 @@ def geocode(place):
 
     if len(geocoded['candidates']) == 0:
         return None
-    return geocoded['candidates'][0][-1]
+    return {
+        'lat': geocoded['candidates'][-1]['y'],
+        'lng': geocoded['candidates'][-1]['x'],
+    }
 
 
 def get_center_list():
