@@ -1,0 +1,10 @@
+name: main
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    container: python
+    steps:
+      - uses: actions/checkout@v2
+      - run: ls
