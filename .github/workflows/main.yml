@@ -13,9 +13,9 @@ jobs:
       - run: patch -d ./dams-4.3.4 -p1 < ./dams-4.3.4.diff
       - run: cd dams-4.3.4
       - run: pwd
-      - run: ./configure
-      - run: make
-      - run: make dic
-      - run: make install
-      - run: make install-dic
+      - run: cd dams-4.3.4 && ./configure
+      - run: cd dams-4.3.4 && make
+      - run: cd dams-4.3.4 && make dic
+      - run: cd dams-4.3.4 && make install
+      - run: cd dams-4.3.4 && make install-dic
       - run: pip install .
