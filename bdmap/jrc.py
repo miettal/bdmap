@@ -23,8 +23,8 @@ def geocode(place):
     if len(geocoded['candidates']) == 0:
         return None
     return {
-        'lat': geocoded['candidates'][-1]['y'],
-        'lng': geocoded['candidates'][-1]['x'],
+        'lat': geocoded['candidates'][-1][0]['y'],
+        'lng': geocoded['candidates'][-1][0]['x'],
     }
 
 
