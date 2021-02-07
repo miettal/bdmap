@@ -21,8 +21,8 @@ def geocode(place):
         return None
     print(geocoded['candidates'][-1][0]['y'])
     return {
-        'lat': geocoded['candidates'][-1][0]['y'],
-        'lng': geocoded['candidates'][-1][0]['x'],
+        'lat': float(geocoded['candidates'][-1][0]['y']),
+        'lng': float(geocoded['candidates'][-1][0]['x']),
     }
 
 
