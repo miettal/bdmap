@@ -18,6 +18,7 @@ jobs:
       - run: cd dams-4.3.4 && make dic
       - run: cd dams-4.3.4 && make install
       - run: cd dams-4.3.4 && make install-dic
+      - run: ldconfig
       - run: pip install cython
       - run: pip install .
       - run: python -m bdmap.jrc
