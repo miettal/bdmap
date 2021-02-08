@@ -27,5 +27,7 @@ jobs:
       - run: python -m bdmap.jrc
       - run: git diff
       - run: git add bdmap/data/center_list.json
+      - run: git config --global user.email "iharahiromasa@gmail.com"
+      - run: git config --global user.name "Hiromasa Ihara"
       - run: git commit -m 'update bdmap/data/center_list.json'
       - run: git push 
