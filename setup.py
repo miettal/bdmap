@@ -11,6 +11,6 @@ setup(
         'Flask',
         'requests',
         'beautifulsoup4',
-        'pydams @ git+https://github.com/hottolink/pydams.git@master',
+        # 'pydams @ git+https://github.com/hottolink/pydams.git@master',
     ],
 )
