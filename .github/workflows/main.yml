@@ -1,5 +1,8 @@
-name: main
-on: [push]
+name: cron
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
 
 jobs:
   test:
@@ -23,3 +26,6 @@ jobs:
       - run: pip install .
       - run: python -m bdmap.jrc
       - run: git diff
+      - run: git add bdmap/data/center_list.json
+      - run: git commit -m 'update bdmap/data/center_list.json'
+      - run: git push 
