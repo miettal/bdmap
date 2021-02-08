@@ -1,0 +1,33 @@
+name: cron
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    container: python
+    steps:
+      - uses: actions/checkout@v2
+      - run: wget http://newspat.csis.u-tokyo.ac.jp/download/dams-4.3.4.tgz
+      - run: tar zxf dams-4.3.4.tgz
+      - run: wget https://raw.githubusercontent.com/hottolink/pydams/master/patch/dams-4.3.4.diff
+      - run: patch -d ./dams-4.3.4 -p1 < ./dams-4.3.4.diff
+      - run: cd dams-4.3.4
+      - run: pwd
+      - run: cd dams-4.3.4 && ./configure
+      - run: cd dams-4.3.4 && make
+      - run: cd dams-4.3.4 && make dic
+      - run: cd dams-4.3.4 && make install
+      - run: cd dams-4.3.4 && make install-dic
+      - run: ldconfig
+      - run: pip install cython
+      - run: pip install .
+      - run: python -m bdmap.jrc
+      - run: git diff
+      - run: git add bdmap/data/center_list.json
+      - run: git config --global user.email "iharahiromasa@gmail.com"
+      - run: git config --global user.name "Hiromasa Ihara"
+      - run: git commit -m 'update bdmap/data/center_list.json'
+      - run: git push 

@@ -9,5 +9,8 @@ setup(
     zip_safe=False,
     install_requires=[
         'Flask',
+        'requests',
+        'beautifulsoup4',
+        'pydams @ git+https://github.com/hottolink/pydams.git@master',
     ],
 )
