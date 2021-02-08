@@ -212,5 +212,5 @@ if __name__ == '__main__':
         center_list[i]['room_list'] = get_room_list(center['url'])
         center_list[i]['bus_list'] = get_bus_list(center['url'])
 
-    with open('center_list.json', 'w') as f:
+    with open('bdmap/data/center_list.json', 'w') as f:
         f.write(json.dumps(center_list))
