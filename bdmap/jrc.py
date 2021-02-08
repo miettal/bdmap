@@ -6,7 +6,6 @@ import re
 import requests
 
 from pydams import DAMS
-from pydams.helpers import pretty_print
 
 from bs4 import BeautifulSoup
 
@@ -19,10 +18,10 @@ def geocode(place):
 
     if len(geocoded['candidates']) == 0:
         return None
-    print(geocoded['candidates'][-1][0]['y'])
+
     return {
-        'lat': float(geocoded['candidates'][-1][0]['y']),
-        'lng': float(geocoded['candidates'][-1][0]['x']),
+        'lat': geocoded['candidates'][-1][0]['y'],
+        'lng': geocoded['candidates'][-1][0]['x'],
     }
 
 
@@ -79,6 +78,7 @@ def get_center_status(url):
             status[donation_type][blood_type] = amount
 
     return status
+
 
 def get_room_list(url):
     # parse top page
