@@ -3924,61 +3924,6 @@
         "date": "2020-01-01"
       },
       {
-        "area": "\u3080\u3064\u5e02",
-        "address": "\u30de\u30a8\u30c0\u30b9\u30c8\u30a2\u3080\u3064\u4e2d\u592e\u5e97\n\u3080\u3064\u5e02\u5341\u4e8c\u6797\uff16\uff0d\uff11[MAP]",
-        "location": {
-          "lat": 40.82516098022461,
-          "lng": 140.73976135253906
-        },
-        "reception_time": "10:45\uff5e12:0013:30\uff5e16:30",
-        "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
-        "date": "2020-02-06"
-      },
-      {
-        "area": "\u304a\u3044\u3089\u305b\u753a",
-        "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u4e0b\u7530\n\u304a\u3044\u3089\u305b\u753a\u4e2d\u91ce\u5e73\uff14\uff10\uff0d\uff11[MAP]",
-        "location": {
-          "lat": 35.60456085205078,
-          "lng": 140.12310791015625
-        },
-        "reception_time": "10:00\uff5e12:0013:30\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
-        "date": "2020-02-07"
-      },
-      {
-        "area": "\u3080\u3064\u5e02",
-        "address": "\u30e6\u30cb\u30d0\u30fc\u30b9\u3080\u3064\u67f3\u753a\u5e97\n\u3080\u3064\u5e02\u67f3\u753a\uff13\uff0d\uff11\uff17\uff0d\uff11[MAP]",
-        "location": {
-          "lat": 40.82516098022461,
-          "lng": 140.73976135253906
-        },
-        "reception_time": "09:30\uff5e12:0013:30\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
-        "date": "2020-02-07"
-      },
-      {
-        "area": "\u516b\u6238\u5e02",
-        "address": "\u30e9\u30d4\u30a2\n\u516b\u6238\u5e02\u6c5f\u967d\uff12\uff0d\uff11\uff14\uff0d\uff11[MAP]\n\u203b\u9aa8\u9ac4\u30d0\u30f3\u30af\u30c9\u30ca\u30fc\u767b\u9332\u4f1a\u5b9f\u65bd",
-        "location": {
-          "lat": 40.82516098022461,
-          "lng": 140.73976135253906
-        },
-        "reception_time": "10:00\uff5e12:0013:30\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
-        "date": "2020-02-07"
-      },
-      {
-        "area": "\u9752\u68ee\u5e02",
-        "address": "\u3231\u30de\u30c4\u30c0\u30a2\u30f3\u30d5\u30a3\u30cb\u9752\u68ee\u554f\u5c4b\u753a\u5e97\n\u9752\u68ee\u5e02\u554f\u5c4b\u753a\uff11\uff0d\uff13\uff0d\uff11\uff17[MAP]",
-        "location": {
-          "lat": 40.82516098022461,
-          "lng": 140.73976135253906
-        },
-        "reception_time": "14:45\uff5e16:30",
-        "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
-        "date": "2020-02-08"
-      },
-      {
         "area": "\u516b\u6238\u5e02",
         "address": "\u516b\u6238\u5e02\u7acb\u5e02\u6c11\u75c5\u9662\n\u516b\u6238\u5e02\u7530\u5411\uff13\uff0d\uff11\uff0d\uff11[MAP]",
         "location": {
@@ -4583,17 +4528,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u4e00\u95a2\u5e02",
-        "address": "\u85e4\u6ca2\u4fdd\u5065\u30bb\u30f3\u30bf\u30fc\n\u5ca9\u624b\u770c\u4e00\u95a2\u5e02\u85e4\u6ca2\u753a\u85e4\u6ca2\u5b57\u753a\u88cf\uff11\uff10\uff15[MAP]\n\u203b\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u30b5\u30a4\u30c8\u304b\u3089\uff14\uff10\uff10\uff4d\uff2c\u732e\u8840\u306e\u3054\u4e88\u7d04\u304c\u53ef\u80fd\u3067\u3059\u3002\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
-        "location": {
-          "lat": 39.703041076660156,
-          "lng": 141.1527099609375
-        },
-        "reception_time": "13:30\uff5e16:30",
-        "url": "https://www.bs.jrc.or.jp/th/iwate/place/m1_03_bus.html",
-        "date": "2020-02-08"
-      },
       {
         "area": "\u4e00\u95a2\u5e02",
         "address": "\u4e00\u95a2\u4fdd\u5065\u30bb\u30f3\u30bf\u30fc\n\u5ca9\u624b\u770c\u4e00\u95a2\u5e02\u5c71\u76ee\u5b57\u524d\u7530\uff11\uff13\uff0d\uff11[MAP]\n\u203b\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u30b5\u30a4\u30c8\u304b\u3089\uff14\uff10\uff10\uff4d\uff2c\u732e\u8840\u306e\u3054\u4e88\u7d04\u304c\u53ef\u80fd\u3067\u3059\u3002\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
@@ -5917,28 +5851,6 @@
     ],
     "bus_list": [
       {
-        "area": "\u5929\u7ae5\u5e02",
-        "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u5929\u7ae5\n\u5c71\u5f62\u770c\u5929\u7ae5\u5e02\u82b3\u8cc0\u30bf\u30a6\u30f3\u5317\u56db\u4e01\u76ee1\u756a1\u53f7[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\u30bb\u30f3\u30bf\u30fc\u30b3\u30fc\u30c8\n\u203b\u6ce8\u610f\u203b \u901a\u5e38\u3068\u53d7\u4ed8\u5834\u6240\u304c\u7570\u306a\u308a\u307e\u3059\u3002\n\u226aWEB\u3067\u306e\u4e8b\u524d\u4e88\u7d04\u304c\u3067\u304d\u307e\u3059\u226b\n\u203b\u901a\u5e38\u306e\u3054\u6765\u5834\u3082\u53ef\u80fd\u3067\u3059",
-        "location": {
-          "lat": 35.60456085205078,
-          "lng": 140.12310791015625
-        },
-        "reception_time": "WEB\u4e88\u7d04\u21d2\n10:00\uff5e12:0013:30\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
-        "date": "2020-02-07"
-      },
-      {
-        "area": "\u5c71\u5f62\u5e02",
-        "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u5c71\u5f62\u5357\n\u5c71\u5f62\u770c\u5c71\u5f62\u5e02\u82e5\u5bae\uff13\uff0d\uff17\uff0d\uff18[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\u897f\u5c02\u9580\u5e97\u5165\u53e3\n\u226aWEB\u3067\u306e\u4e8b\u524d\u4e88\u7d04\u304c\u3067\u304d\u307e\u3059\u226b\n\u203b\u901a\u5e38\u306e\u3054\u6765\u5834\u3082\u53ef\u80fd\u3067\u3059",
-        "location": {
-          "lat": 35.60456085205078,
-          "lng": 140.12310791015625
-        },
-        "reception_time": "WEB\u4e88\u7d04\u21d2\n10:00\uff5e11:3013:00\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
-        "date": "2020-02-07"
-      },
-      {
         "area": "\u9152\u7530\u5e02",
         "address": "JA\u5e84\u5185\u307f\u3069\u308a\u672c\u6240\n\u5c71\u5f62\u770c\u9152\u7530\u5e02\u66d9\u753a\uff11\uff0d\uff11[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\uff12\u968e\u4f1a\u8b70\u5ba4",
         "location": {
@@ -6025,6 +5937,94 @@
         "reception_time": "9:30\uff5e11:3013:00\uff5e15:30",
         "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
         "date": "2020-02-17"
+      },
+      {
+        "area": "\u9db4\u5ca1\u5e02",
+        "address": "\u9db4\u5ca1\u5e02\u4e0a\u4e0b\u6c34\u9053\u90e8\n\u5c71\u5f62\u770c\u9db4\u5ca1\u5e02\u306e\u305e\u307f\u753a\uff12\uff0d\uff11\uff10[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a2\u968e\u4f1a\u8b70\u5ba4",
+        "location": {
+          "lat": 38.24066925048828,
+          "lng": 140.3634033203125
+        },
+        "reception_time": "9:00\uff5e11:00",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-17"
+      },
+      {
+        "area": "\u9db4\u5ca1\u5e02",
+        "address": "\u9db4\u5ca1\u5e02\u7acb\u8358\u5185\u75c5\u9662\n\u5c71\u5f62\u770c\u9db4\u5ca1\u5e02\u6cc9\u753a\uff14\uff0d\uff12\uff10[MAP]",
+        "location": {
+          "lat": 38.24066925048828,
+          "lng": 140.3634033203125
+        },
+        "reception_time": "14:00\uff5e15:30",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-18"
+      },
+      {
+        "area": "\u5929\u7ae5\u5e02",
+        "address": "\u5929\u7ae5\u5e02\u5f79\u6240\n\u5c71\u5f62\u770c\u5929\u7ae5\u5e02\u8001\u91ce\u68ee\uff11\uff0d\uff11\uff0d\uff11[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\u5e02\u5e81\u820e\u30d4\u30ed\u30c6\u30a3\u30fc",
+        "location": {
+          "lat": 38.24066925048828,
+          "lng": 140.3634033203125
+        },
+        "reception_time": "9:30\uff5e15:30",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-19"
+      },
+      {
+        "area": "\u9577\u4e95\u5e02",
+        "address": "\u90a3\u9808\u5efa\u8a2d\u682a\u5f0f\u4f1a\u793e\n\u5c71\u5f62\u770c\u9577\u4e95\u5e02\u5c4b\u57ce\u753a\uff17\uff0d\uff11[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\uff11\u968e\u4e8b\u52d9\u6240\u30ed\u30d3\u30fc",
+        "location": {
+          "lat": 36.564579010009766,
+          "lng": 139.88339233398438
+        },
+        "reception_time": "9:30\uff5e11:30",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-19"
+      },
+      {
+        "area": "\u9577\u4e95\u5e02",
+        "address": "\u9577\u4e95\u4e2d\u592e\u9752\u679c\u682a\u5f0f\u4f1a\u793e\n\u5c71\u5f62\u770c\u9577\u4e95\u5e02\u4eca\u6cc9\uff15\uff16\uff13[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\uff11\u968e\u5fdc\u63a5\u5ba4",
+        "location": {
+          "lat": 38.24066925048828,
+          "lng": 140.3634033203125
+        },
+        "reception_time": "13:30\uff5e15:30",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-19"
+      },
+      {
+        "area": "\u5929\u7ae5\u5e02",
+        "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u5929\u7ae5\n\u5c71\u5f62\u770c\u5929\u7ae5\u5e02\u82b3\u8cc0\u30bf\u30a6\u30f3\u5317\u56db\u4e01\u76ee1\u756a1\u53f7[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\u30b0\u30ea\u30fc\u30f3\u30b3\u30fc\u30c8\uff08\u53e3\u798f\u5802\u524d\uff09\n\u226aWEB\u3067\u306e\u4e8b\u524d\u4e88\u7d04\u304c\u3067\u304d\u307e\u3059\u226b\n\u203b\u901a\u5e38\u306e\u3054\u6765\u5834\u3082\u53ef\u80fd\u3067\u3059\n\u203b\u9aa8\u9ac4\u767b\u9332\u4f1a\u5b9f\u65bd",
+        "location": {
+          "lat": 35.60456085205078,
+          "lng": 140.12310791015625
+        },
+        "reception_time": "WEB\u4e88\u7d04\u21d2\n10:00\uff5e12:0013:30\uff5e16:00",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-21"
+      },
+      {
+        "area": "\u7c73\u6ca2\u5e02",
+        "address": "\u30e4\u30de\u30b6\u30ef\u4e2d\u7530\u753a\u5e97\n\u5c71\u5f62\u770c\u7c73\u6ca2\u5e02\u4e2d\u7530\u753a\uff19\uff19\uff17\uff0d\uff11[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\u30d5\u30fc\u30c9\u30b3\u30fc\u30c8",
+        "location": {
+          "lat": 38.24066925048828,
+          "lng": 140.3634033203125
+        },
+        "reception_time": "10:00\uff5e12:0013:30\uff5e16:00",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-21"
+      },
+      {
+        "area": "\u9152\u7530\u5e02",
+        "address": "\u30a4\u30aa\u30f3\u9152\u7530\u5e97\n\u5c71\u5f62\u770c\u9152\u7530\u5e02\u3042\u304d\u307b\u753a\uff11\uff12\uff10\uff0d\uff11[MAP]\n\u53d7\u4ed8\u5834\u6240\uff1a\u5357\u53e3\u30b2\u30fc\u30e0\u30bb\u30f3\u30bf\u30fc\u4ed8\u8fd1",
+        "location": {
+          "lat": 35.60456085205078,
+          "lng": 140.12310791015625
+        },
+        "reception_time": "9:30\uff5e12:0013:30\uff5e15:30",
+        "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
+        "date": "2020-02-21"
       }
     ]
   },
@@ -8529,6 +8529,24 @@
           "lng": 139.65078735351562
         },
         "reception_time": "13:30-16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
+        "date": "2020-02-22"
+      },
+      {
+        "area": "\u718a\u8c37\u5e02",
+        "address": "\uff2a\uff21\u304f\u307e\u304c\u3084\u672c\u5e97\n[MAP]",
+        "reception_time": "13:30-16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
+        "date": "2020-02-22"
+      },
+      {
+        "area": "\u52a0\u9808\u5e02",
+        "address": "\u5927\u5229\u6839\u7dcf\u5408\u652f\u6240\n[MAP]",
+        "location": {
+          "lat": 35.857181549072266,
+          "lng": 139.65078735351562
+        },
+        "reception_time": "9:30-11:30",
         "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
         "date": "2020-02-22"
       },
@@ -11244,6 +11262,17 @@
         "reception_time": "11:00\uff5e15:30",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
         "date": "2020-02-28"
+      },
+      {
+        "area": "\u6e2f\u533a",
+        "address": "\u65b0\u7530\u753a\u30d3\u30eb  \u897f\u5074\u901a\u8def\n\u6e2f\u533a\u829d\uff15\uff0d\uff13\uff14\uff0d\uff16[MAP]\n\u203bWeb\u4e88\u7d04\u306f\u3053\u3061\u3089(\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1)",
+        "location": {
+          "lat": 36.39118957519531,
+          "lng": 139.0616912841797
+        },
+        "reception_time": "10:00\uff5e11:1512:30\uff5e16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
+        "date": "2020-03-17"
       }
     ]
   },
@@ -11507,7 +11536,7 @@
       },
       {
         "area": "\u6a2a\u9808\u8cc0\u5e02",
-        "address": "\u4eac\u6025\u6a2a\u9808\u8cc0\u4e2d\u592e\u99c5\u6771\u53e3\n\u6a2a\u9808\u8cc0\u5e02\u82e5\u677e\u753a\uff12\uff0d\uff12\uff15[MAP]",
+        "address": "\u4eac\u6025\u6a2a\u9808\u8cc0\u4e2d\u592e\u99c5\u6771\u53e3\n\u6a2a\u9808\u8cc0\u5e02\u82e5\u677e\u753a\uff12\uff0d\uff12\uff15[MAP]\n \u203b400mL\u732e\u8840\u306e\u3054\u4e88\u7d04\u3092\u53d7\u3051\u4ed8\u3051\u3066\u304a\u308a\u307e\u3059\u3002\n\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
         "location": {
           "lat": 35.022071838378906,
           "lng": 135.75570678710938
@@ -11792,6 +11821,28 @@
         "date": "2020-02-17"
       },
       {
+        "area": "\u5c0f\u7530\u539f\u5e02",
+        "address": "\u76f8\u6d0b\u7523\u696d\u682a\u5f0f\u4f1a\u793e\n\u5c0f\u7530\u539f\u5e02\u4e45\u91ce\uff11\uff11\uff11\u756a\u5730[MAP]",
+        "location": {
+          "lat": 35.44770812988281,
+          "lng": 139.64256286621094
+        },
+        "reception_time": "09\uff1a30\uff5e11\uff1a00",
+        "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
+        "date": "2020-02-18"
+      },
+      {
+        "area": "\u5e73\u585a\u5e02",
+        "address": "\u5e73\u585a\u99c5\u5317\u53e3\n\u5e73\u585a\u5e02\u5b9d\u753a\uff11\uff0d\uff11[MAP]\n\u8d64\u5341\u5b57\u00d7\u6e58\u5357\u30d9\u30eb\u30de\u30fc\u30ec\u3000\n\u30aa\u30ea\u30b8\u30ca\u30eb\u30b3\u30e9\u30dc\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u3000\u30d7\u30ec\u30bc\u30f3\u30c8\uff01\n\u53d7\u4ed8\u6642\u306b\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u5e0c\u671b\u3068\u304a\u7533\u3057\u51fa\u304f\u3060\u3055\u3044\u3002",
+        "location": {
+          "lat": 35.44770812988281,
+          "lng": 139.64256286621094
+        },
+        "reception_time": "10\uff1a00\uff5e12\uff1a0013\uff1a30\uff5e16\uff1a00",
+        "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
+        "date": "2020-02-18"
+      },
+      {
         "area": "\u8305\u30b1\u5d0e\u5e02",
         "address": "\u8305\u30f6\u5d0e\u5e02\u4fdd\u5065\u6240\n\u8305\u30f6\u5d0e\u5e02\u8305\u30f6\u5d0e\uff11\uff0d\uff18\uff0d\uff17[MAP]",
         "location": {
@@ -11803,8 +11854,19 @@
         "date": "2020-02-18"
       },
       {
+        "area": "\u6a2a\u6d5c\u5e02\u3000\u3000\u6e2f\u5317\u533a",
+        "address": "\u795e\u5948\u5ddd\u770c\u8d64\u5341\u5b57\u8840\u6db2\u30bb\u30f3\u30bf\u30fc\n\u6a2a\u6d5c\u5e02\u6e2f\u5317\u533a\u5927\u8c46\u6238\u753a680-7[MAP]\n\u203b3\u5bc6\u3092\u907f\u3051\u308b\u305f\u3081\u3054\u4e88\u7d04\u306e\u3046\u3048\u304a\u8d8a\u3057\u304f\u3060\u3055\u3044\u3002\n\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u30b5\u30a4\u30c8\u3067\u3054\u4e88\u7d04\u3000\u21d2\u3000\u3053\u3061\u3089\n\u30d5\u30ea\u30fc\u30c0\u30a4\u30e4\u30eb\u3067\u3054\u4e88\u7d04\u3000\u21d2\u30000120-80-9995\uff08\u5e73\u65e59\uff1a00\uff5e17\uff1a00\uff09",
+        "location": {
+          "lat": 35.44770812988281,
+          "lng": 139.64256286621094
+        },
+        "reception_time": "10:30\uff5e16:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
+        "date": "2020-02-19"
+      },
+      {
         "area": "\u5c0f\u7530\u539f\u5e02",
-        "address": "\u30c0\u30a4\u30ca\u30b7\u30c6\u30a3\u30fb\u30a4\u30fc\u30b9\u30c8\n\u5c0f\u7530\u539f\u5e02\u4e2d\u91cc\uff12\uff19\uff16\uff0d\uff11[MAP]\n\u8d64\u5341\u5b57\u00d7\u6e58\u5357\u30d9\u30eb\u30de\u30fc\u30ec\u3000\n\u30aa\u30ea\u30b8\u30ca\u30eb\u30b3\u30e9\u30dc\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u3000\u30d7\u30ec\u30bc\u30f3\u30c8\uff01\n\u53d7\u4ed8\u6642\u306b\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u5e0c\u671b\u3068\u304a\u7533\u3057\u51fa\u304f\u3060\u3055\u3044\u3002\n \u203b400mL\u732e\u8840\u306e\u3054\u4e88\u7d04\u3092\u53d7\u3051\u4ed8\u3051\u3066\u304a\u308a\u307e\u3059\u3002\n\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
+        "address": "\u30c0\u30a4\u30ca\u30b7\u30c6\u30a3\u30fb\u30a4\u30fc\u30b9\u30c8\n\u5c0f\u7530\u539f\u5e02\u4e2d\u91cc\uff12\uff19\uff16\uff0d\uff11[MAP]\n\n\u203b\u9aa8\u9ac4\u30d0\u30f3\u30af\u30c9\u30ca\u30fc\u767b\u9332\u4f1a\u5b9f\u65bd\n\n\u8d64\u5341\u5b57\u00d7\u6e58\u5357\u30d9\u30eb\u30de\u30fc\u30ec\u3000\n\u30aa\u30ea\u30b8\u30ca\u30eb\u30b3\u30e9\u30dc\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u3000\u30d7\u30ec\u30bc\u30f3\u30c8\uff01\n\u53d7\u4ed8\u6642\u306b\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u5e0c\u671b\u3068\u304a\u7533\u3057\u51fa\u304f\u3060\u3055\u3044\u3002\n \u203b400mL\u732e\u8840\u306e\u3054\u4e88\u7d04\u3092\u53d7\u3051\u4ed8\u3051\u3066\u304a\u308a\u307e\u3059\u3002\n\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
         "location": {
           "lat": 35.44770812988281,
           "lng": 139.64256286621094
@@ -12002,7 +12064,7 @@
       },
       {
         "area": "\u6a2a\u9808\u8cc0\u5e02",
-        "address": "\u4eac\u6025\u6a2a\u9808\u8cc0\u4e2d\u592e\u99c5\u6771\u53e3\n\u6a2a\u9808\u8cc0\u5e02\u82e5\u677e\u753a\uff12\uff0d\uff12\uff15[MAP]",
+        "address": "\u4eac\u6025\u6a2a\u9808\u8cc0\u4e2d\u592e\u99c5\u6771\u53e3\n\u6a2a\u9808\u8cc0\u5e02\u82e5\u677e\u753a\uff12\uff0d\uff12\uff15[MAP]\n \u203b400mL\u732e\u8840\u306e\u3054\u4e88\u7d04\u3092\u53d7\u3051\u4ed8\u3051\u3066\u304a\u308a\u307e\u3059\u3002\n\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
         "location": {
           "lat": 35.022071838378906,
           "lng": 135.75570678710938
@@ -12112,7 +12174,7 @@
       },
       {
         "area": "\u6a2a\u9808\u8cc0\u5e02",
-        "address": "\u4eac\u6025\u6a2a\u9808\u8cc0\u4e2d\u592e\u99c5\u6771\u53e3\n\u6a2a\u9808\u8cc0\u5e02\u82e5\u677e\u753a\uff12\uff0d\uff12\uff15[MAP]",
+        "address": "\u4eac\u6025\u6a2a\u9808\u8cc0\u4e2d\u592e\u99c5\u6771\u53e3\n\u6a2a\u9808\u8cc0\u5e02\u82e5\u677e\u753a\uff12\uff0d\uff12\uff15[MAP]\n \u203b400mL\u732e\u8840\u306e\u3054\u4e88\u7d04\u3092\u53d7\u3051\u4ed8\u3051\u3066\u304a\u308a\u307e\u3059\u3002\n\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
         "location": {
           "lat": 35.022071838378906,
           "lng": 135.75570678710938
@@ -12164,6 +12226,17 @@
         "reception_time": "10\uff1a00\uff5e11\uff1a3013\uff1a00\uff5e16\uff1a00",
         "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
         "date": "2020-02-27"
+      },
+      {
+        "area": "\u5e73\u585a\u5e02",
+        "address": "\u5e73\u585a\u99c5\u5317\u53e3\n\u5e73\u585a\u5e02\u5b9d\u753a\uff11\uff0d\uff11[MAP]\n\u8d64\u5341\u5b57\u00d7\u6e58\u5357\u30d9\u30eb\u30de\u30fc\u30ec\u3000\n\u30aa\u30ea\u30b8\u30ca\u30eb\u30b3\u30e9\u30dc\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u3000\u30d7\u30ec\u30bc\u30f3\u30c8\uff01\n\u53d7\u4ed8\u6642\u306b\u30c8\u30fc\u30c8\u30d0\u30c3\u30b0\u5e0c\u671b\u3068\u304a\u7533\u3057\u51fa\u304f\u3060\u3055\u3044\u3002",
+        "location": {
+          "lat": 35.44770812988281,
+          "lng": 139.64256286621094
+        },
+        "reception_time": "10\uff1a00\uff5e12\uff1a0013\uff1a30\uff5e16\uff1a00",
+        "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
+        "date": "2020-02-28"
       },
       {
         "area": "\u6a2a\u6d5c\u5e02\u3000\u3000\u6e2f\u5317\u533a",
@@ -12298,17 +12371,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u65b0\u6f5f\u770c\u65b0\u6f5f\u5e02\u3000\u6c5f\u5357\u533a",
-        "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u65b0\u6f5f\u5357\n\u65b0\u6f5f\u770c\u65b0\u6f5f\u5e02\u6c5f\u5357\u533a\u4e0b\u65e9\u901a\u67f3\u7530\uff11\uff0d\uff11\uff0d\uff11[MAP]\n\u203b\u4e88\u7d04\u53d7\u4ed8\u4f1a\u5834\u3067\u3059\uff08\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u9650\u5b9a\uff09\n\u30e9\u30d6\u30e9\u30c3\u30c9\u3078\u306e\u65b0\u898f\u767b\u9332\u30fb\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089",
-        "location": {
-          "lat": 35.60456085205078,
-          "lng": 140.12310791015625
-        },
-        "reception_time": "10:00\uff5e11:4513:00\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
-        "date": "2020-02-08"
-      },
       {
         "area": "\u65b0\u6f5f\u770c\u6771\u84b2\u539f\u90e1\u3000\u963f\u8cc0\u753a",
         "address": "\u963f\u8cc0\u753a\u5f79\u5834\n\u65b0\u6f5f\u770c\u6771\u84b2\u539f\u90e1\u963f\u8cc0\u753a\u6d25\u5ddd\uff15\uff18\uff10[MAP]",
@@ -12634,17 +12696,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u8acf\u8a2a\u5e02",
-        "address": "\u8acf\u8a2a\u5e02\u5f79\u6240\n\u9577\u91ce\u770c\u8acf\u8a2a\u5e02\u9ad8\u5cf6\uff11\uff0d\uff12\uff12\uff0d\uff13\uff10[MAP]\n400mL\u732e\u8840\u9650\u5b9a",
-        "location": {
-          "lat": 36.65085983276367,
-          "lng": 138.18292236328125
-        },
-        "reception_time": "09:30\uff5e11:5013:00\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/nagano/./place/m1_02_01_index.html",
-        "date": "2020-02-08"
-      },
       {
         "area": "\u6771\u5fa1\u5e02",
         "address": "\u6771\u5fa1\u5e02\u7dcf\u5408\u798f\u7949\u30bb\u30f3\u30bf\uff0d\n\u9577\u91ce\u770c\u6771\u5fa1\u5e02\u978d\u639b\uff11\uff19\uff17[MAP]\n400mL\u732e\u8840\u9650\u5b9a\n\u9aa8\u9ac4\u30d0\u30f3\u30af\u30c9\u30ca\u30fc\u767b\u9332\u4f1a",
@@ -15085,17 +15136,6 @@
     ],
     "bus_list": [
       {
-        "area": "\u87f9\u6c5f\u753a",
-        "address": "\u3010\u4e2d\u6b62\u3011\u3000\u87f9\u6c5f\u4e2d\u592e\u516c\u6c11\u9928\n\u87f9\u6c5f\u753a\u5b66\u62383\uff0d3[MAP]\n\u203b\u7533\u3057\u8a33\u3054\u3056\u3044\u307e\u305b\u3093\u304c\u3001\u90fd\u5408\u306b\u3088\u308a\u4e2d\u6b62\u3044\u305f\u3057\u307e\u3059\u3002",
-        "location": {
-          "lat": 35.180938720703125,
-          "lng": 136.9065399169922
-        },
-        "reception_time": "",
-        "url": "https://www.bs.jrc.or.jp/tkhr/aichi/place/m1_03_index.html",
-        "date": "2020-02-07"
-      },
-      {
         "area": "\u5929\u767d\u533a",
         "address": "\u611b\u77e5\u770c\u8b66\u5bdf\u904b\u8ee2\u514d\u8a31\u8a66\u9a13\u5834\n\u5929\u767d\u533a\u5e73\u91dd\u53573-605[MAP]\n\u203b400\uff4dL\u732e\u8840\u306e\u307f\u306e\u53d7\u4ed8\u3068\u306a\u308a\u307e\u3059\u3002\n\u9014\u4e2d\u3067\u663c\u4f11\u61a9\u3092\u3044\u305f\u3060\u304d\u307e\u3059\u3002\u99d0\u8eca\u5834\u306f\u3054\u3056\u3044\u307e\u305b\u3093\u3002\u90fd\u5408\u306b\u3088\u308a\u4e2d\u6b62\u3059\u308b\u5834\u5408\u304c\u3054\u3056\u3044\u307e\u3059\u306e\u3067\u3001\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002",
         "location": {
@@ -16059,17 +16099,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u6ecb\u8cc0\u770c\u6e56\u5357\u5e02",
-        "address": "\u30a4\u30aa\u30f3\u30bf\u30a6\u30f3\u6e56\u5357\n\u6ecb\u8cc0\u770c\u6e56\u5357\u5e02\u5ca9\u6839\uff14\uff15\uff18\uff10\u756a\u5730[MAP]\n\u53d7\u4ed8\u6642\u9593\u306f\u72b6\u6cc1\u306b\u3088\u308a\u5909\u66f4\u3059\u308b\u5834\u5408\u304c\u3054\u3056\u3044\u307e\u3059\u3002",
-        "location": {
-          "lat": 35.60456085205078,
-          "lng": 140.12310791015625
-        },
-        "reception_time": "09:30\uff5e11:4513:00\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/kk/shiga/place/m1_03_index.html",
-        "date": "2020-02-07"
-      },
       {
         "area": "\u6ecb\u8cc0\u770c\u5b88\u5c71\u5e02",
         "address": "\u6ecb\u8cc0\u770c\u7acb\u7dcf\u5408\u75c5\u9662\n\u6ecb\u8cc0\u770c\u5b88\u5c71\u5e02\u5b88\u5c71\uff15\uff0d\uff14\uff0d\uff13\uff10[MAP]\n\u53d7\u4ed8\u6642\u9593\u306f\u72b6\u6cc1\u306b\u3088\u308a\u5909\u66f4\u3059\u308b\u5834\u5408\u304c\u3054\u3056\u3044\u307e\u3059\u3002",
@@ -18151,6 +18180,17 @@
         "date": "2020-02-18"
       },
       {
+        "area": "\u5927\u962a\u5e9c\u9ad8\u77f3\u5e02",
+        "address": "\u5927\u962a\u5e9c\u9ad8\u77f3\u8b66\u5bdf\u7f72\n\u5927\u962a\u5e9c\u9ad8\u77f3\u5e02\u7fbd\u8863\uff14\uff0d\uff12\uff0d\uff12\uff13[MAP]",
+        "location": {
+          "lat": 34.68635177612305,
+          "lng": 135.5204315185547
+        },
+        "reception_time": "9:30\uff5e11:30\n400mL\u732e\u8840\u9650\u5b9a",
+        "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
+        "date": "2020-02-18"
+      },
+      {
         "area": "\u5927\u962a\u5e9c\u5927\u6771\u5e02",
         "address": "\u30c0\u30a4\u30a8\u30fc\u56db\u6761\u7577\u5e97\u524d\n\u5927\u962a\u5e9c\u5927\u6771\u5e02\u5317\u6960\u306e\u91cc\u753a\uff12\uff14\uff0d\uff12\uff10[MAP]\n\u25c6\u30c8\u30df\u30ab\u5f15\u63db\u4f1a\u5834\u25c6\n\u203b\u5f15\u63db\u306b\u306f\u5f15\u63db\u5238\uff08\u914d\u4ed8\u7d42\u4e86\uff09\u3068Web\u4e88\u7d04\u304c\u5fc5\u8981\u3067\u3059\u3002 \u25c6Web\u4e88\u7d04\u25c6\n \u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u306e\u65b9\u306f\u30e9\u30d6\u30e9\u30c3\u30c9\u30b5\u30a4\u30c8\u304b\u3089\u3054\u4e88\u7d04\u53ef\u80fd\u3067\u3059\u3002",
         "location": {
@@ -18530,17 +18570,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u660e\u77f3\u5e02",
-        "address": "\u660e\u77f3\u5e02\u516c\u8a2d\u5730\u65b9\u5378\u58f2\u5e02\u5834\n\u660e\u77f3\u5e02\u85e4\u6c5f\uff12\uff10\uff12\uff19\u756a\u5730\u306e\uff11[MAP]",
-        "location": {
-          "lat": 34.69118881225586,
-          "lng": 135.18310546875
-        },
-        "reception_time": "09:30\uff5e11:30",
-        "url": "https://www.bs.jrc.or.jp/kk/hyogo/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
       {
         "area": "\u59eb\u8def\u5e02",
         "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u59eb\u8def\u5927\u6d25\n\u59eb\u8def\u5e02\u5927\u6d25\u533a\u5927\u6d25\u753a\uff12\u4e01\u76ee\uff15\u756a[MAP]\n400mL\u732e\u8840\u306e\u307f\u53d7\u4ed8\n\u3000400mL\u732e\u8840\u306e\u307fweb\u4e88\u7d04\u53ef",
@@ -21408,7 +21437,7 @@
       },
       {
         "area": "\u6771\u5e83\u5cf6\u5e02",
-        "address": "\u4e2d\u56fd\u96fb\u529b\u30b5\u30a4\u30a8\u30f3\u30b9\u30d1\u30fc\u30af\n\u6771\u5e83\u5cf6\u5e02\u93e1\u5c71\uff13\uff0d\uff19\uff0d\uff11[MAP]",
+        "address": "\u4e2d\u56fd\u96fb\u529b\u30b5\u30a4\u30a8\u30f3\u30b9\u30d1\u30fc\u30af\n\u6771\u5e83\u5cf6\u5e02\u93e1\u5c71\uff13\uff0d\uff19\uff0d\uff11[MAP]\n\u96fb\u8a71\u4e88\u7d04\u306f\u30d5\u30ea\u30fc\u30c0\u30a4\u30e4\u30eb 0120-150-554\uff08\u5e73\u65e5 8\uff1a30\uff5e17\uff1a30\uff09\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 35.857181549072266,
           "lng": 139.65078735351562
@@ -21430,7 +21459,7 @@
       },
       {
         "area": "\u5b89\u82b8\u9ad8\u7530\u5e02",
-        "address": "\u6771\u4eac\u6ffe\u5668\n\u5b89\u82b8\u9ad8\u7530\u5e02\u5411\u539f\u753a\u5742\uff13\uff16\uff10[MAP]",
+        "address": "\u6771\u4eac\u6ffe\u5668 \u5e83\u5cf6\u5de5\u5834\n\u5b89\u82b8\u9ad8\u7530\u5e02\u5411\u539f\u753a\u5742\uff13\uff16\uff10[MAP]\n\u96fb\u8a71\u4e88\u7d04\u306f\u30d5\u30ea\u30fc\u30c0\u30a4\u30e4\u30eb 0120-150-554\uff08\u5e73\u65e5 8\uff1a30\uff5e17\uff1a30\uff09\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 35.68949890136719,
           "lng": 139.69163513183594
@@ -21441,7 +21470,7 @@
       },
       {
         "area": "\u5b89\u82b8\u9ad8\u7530\u5e02",
-        "address": "\u516b\u5343\u4ee3\u75c5\u9662\n\u5b89\u82b8\u9ad8\u7530\u5e02\u516b\u5343\u4ee3\u753a\u52dd\u7530\uff14\uff14\uff18[MAP]",
+        "address": "\u516b\u5343\u4ee3\u75c5\u9662\n\u5b89\u82b8\u9ad8\u7530\u5e02\u516b\u5343\u4ee3\u753a\u52dd\u7530\uff14\uff14\uff18[MAP]\n\u96fb\u8a71\u4e88\u7d04\u306f\u30d5\u30ea\u30fc\u30c0\u30a4\u30e4\u30eb 0120-150-554\uff08\u5e73\u65e5 8\uff1a30\uff5e17\uff1a30\uff09\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 34.39659881591797,
           "lng": 132.4583282470703
@@ -21628,7 +21657,7 @@
       },
       {
         "area": "\u5357\u533a",
-        "address": "\u7a32\u8377\u753a\u7b2c\u4e00\u751f\u547d\u30d3\u30eb\n\u5357\u533a\u7a32\u8377\u753a\uff12\uff0d\uff11\uff16[MAP]",
+        "address": "\u7a32\u8377\u753a\u7b2c\u4e00\u751f\u547d\u30d3\u30eb\n\u5357\u533a\u7a32\u8377\u753a\uff12\uff0d\uff11\uff16[MAP]\n\u96fb\u8a71\u4e88\u7d04\u306f\u30d5\u30ea\u30fc\u30c0\u30a4\u30e4\u30eb 0120-150-554\uff08\u5e73\u65e5 8\uff1a30\uff5e17\uff1a30\uff09\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 35.857181549072266,
           "lng": 139.65078735351562
@@ -21650,7 +21679,7 @@
       },
       {
         "area": "\u798f\u5c71\u5e02",
-        "address": "\u30dd\u30fc\u30c8\u30d7\u30e9\u30b6\n\u798f\u5c71\u5e02\u5165\u8239\u753a\uff13\uff0d\uff11\uff0d\uff12\uff15[MAP]",
+        "address": "\u30dd\u30fc\u30c8\u30d7\u30e9\u30b6\n\u798f\u5c71\u5e02\u5165\u8239\u753a\uff13\uff0d\uff11\uff0d\uff12\uff15[MAP]\n\u96fb\u8a71\u4e88\u7d04\u306f\u30d5\u30ea\u30fc\u30c0\u30a4\u30e4\u30eb 0120-150-554\uff08\u5e73\u65e5 8\uff1a30\uff5e17\uff1a30\uff09\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 43.064109802246094,
           "lng": 141.34701538085938
@@ -21837,7 +21866,7 @@
       },
       {
         "area": "\u5b87\u90e8\u5e02",
-        "address": "\u3086\u3081\u30bf\u30a6\u30f3\u5b87\u90e8\n\u5c71\u53e3\u770c\u5b87\u90e8\u5e02\u5927\u5b57\u59bb\u5d0e\u958b\u4f5c\uff14\uff11\uff11[MAP]\n\u3010400\uff4dL\u732e\u8840\u9650\u5b9a\u3011",
+        "address": "\u3086\u3081\u30bf\u30a6\u30f3\u5b87\u90e8\n\u5c71\u53e3\u770c\u5b87\u90e8\u5e02\u5927\u5b57\u59bb\u5d0e\u958b\u4f5c\uff14\uff11\uff11[MAP]\n\u3010400\uff4dL\u732e\u8840\u9650\u5b9a\u3011\n\n\u203b\u4eca\u56de\u3001\u5f53\u4f1a\u5834\u3067\u306f\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u9650\u5b9aWeb\u4e88\u7d04\u3092\u5b9f\u65bd\uff01\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 34.184349060058594,
           "lng": 131.470947265625
@@ -21848,7 +21877,7 @@
       },
       {
         "area": "\u4e0b\u677e\u5e02",
-        "address": "\u30b5\u30f3\u30ea\u30d6\u4e0b\u677e\n\u5c71\u53e3\u770c\u4e0b\u677e\u5e02\u5357\u82b1\u5ca1\uff16\uff0d\uff18\uff0d\uff11[MAP]\n\u3010400\uff4dL\u732e\u8840\u9650\u5b9a\u3011",
+        "address": "\u30b5\u30f3\u30ea\u30d6\u4e0b\u677e\n\u5c71\u53e3\u770c\u4e0b\u677e\u5e02\u5357\u82b1\u5ca1\uff16\uff0d\uff18\uff0d\uff11[MAP]\n\u3010400\uff4dL\u732e\u8840\u9650\u5b9a\u3011\n\n\u203b\u4eca\u56de\u3001\u5f53\u4f1a\u5834\u3067\u306f\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u9650\u5b9aWeb\u4e88\u7d04\u3092\u5b9f\u65bd\uff01\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 34.184349060058594,
           "lng": 131.470947265625
@@ -21859,7 +21888,7 @@
       },
       {
         "area": "\u67f3\u4e95\u5e02",
-        "address": "\u67f3\u4e95\u5e02\u7dcf\u5408\u798f\u7949\u30bb\u30f3\u30bf\u30fc(\u30cf\u30fc\u30c8\u30d5\u30eb\u3084\u306a\u3044)\n\u5c71\u53e3\u770c\u67f3\u4e95\u5e02\u5357\u753a3-9-2[MAP]\n\u3010\u5171\u50ac\u3011\u67f3\u4e95\u5e02\u793e\u4f1a\u798f\u7949\u5354\u8b70\u4f1a\u3001\u67f3\u4e95\u30e9\u30a4\u30aa\u30f3\u30ba\u30af\u30e9\u30d6\u3001\u67f3\u4e95\u4e2d\u592e\u30e9\u30a4\u30aa\u30f3\u30ba\u30af\u30e9\u30d6\n\u3010400\uff4d\uff2c\u732e\u8840\u9650\u5b9a\u3011",
+        "address": "\u67f3\u4e95\u5e02\u7dcf\u5408\u798f\u7949\u30bb\u30f3\u30bf\u30fc(\u30cf\u30fc\u30c8\u30d5\u30eb\u3084\u306a\u3044)\n\u5c71\u53e3\u770c\u67f3\u4e95\u5e02\u5357\u753a3-9-2[MAP]\n\u3010\u5171\u50ac\u3011\u67f3\u4e95\u5e02\u793e\u4f1a\u798f\u7949\u5354\u8b70\u4f1a\u3001\u67f3\u4e95\u30e9\u30a4\u30aa\u30f3\u30ba\u30af\u30e9\u30d6\u3001\u67f3\u4e95\u4e2d\u592e\u30e9\u30a4\u30aa\u30f3\u30ba\u30af\u30e9\u30d6\n\u3010400\uff4d\uff2c\u732e\u8840\u9650\u5b9a\u3011\n\n\u203b\u4eca\u56de\u3001\u5f53\u4f1a\u5834\u3067\u306f\u30e9\u30d6\u30e9\u30c3\u30c9\u4f1a\u54e1\u9650\u5b9aWeb\u4e88\u7d04\u3092\u5b9f\u65bd\uff01\nWeb\u304b\u3089\u306e\u3054\u4e88\u7d04\u306f\u3053\u3061\u3089\u304b\u3089\uff08\u524d\u65e517\uff1a00\u307e\u3067\uff09",
         "location": {
           "lat": 34.184349060058594,
           "lng": 131.470947265625
@@ -22572,28 +22601,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u5c0f\u8c46\u5cf6\u753a",
-        "address": "\u5c0f\u8c46\u5cf6\u753a\u5f79\u5834\u5185\u6d77\u5e81\u820e\n\u5c0f\u8c46\u90e1\u5c0f\u8c46\u5cf6\u753a\u7247\u57ce\u753244-95[MAP]",
-        "location": {
-          "lat": 34.340179443359375,
-          "lng": 134.0443878173828
-        },
-        "reception_time": "10:00\uff5e11:3012:30\uff5e14:00",
-        "url": "https://www.bs.jrc.or.jp/csk/kagawa/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
-      {
-        "area": "\u5c0f\u8c46\u5cf6\u753a",
-        "address": "\u5b9d\u98df\u54c1\n\u5c0f\u8c46\u90e1\u5c0f\u8c46\u5cf6\u753a\u82d7\u7fbd\u75322226-15[MAP]",
-        "location": {
-          "lat": 35.180938720703125,
-          "lng": 136.9065399169922
-        },
-        "reception_time": "15:00\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/csk/kagawa/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
       {
         "area": "\u7dbe\u5ddd\u753a",
         "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u7dbe\u5ddd\n\u7dbe\u6b4c\u90e1\u7dbe\u5ddd\u753a\u8431\u539f822-1[MAP]\nWeb\u3054\u4e88\u7d04\u53d7\u4ed8\u4e2d\u3067\u3059\uff01\uff08\u524d\u65e517\u6642\u307e\u3067\uff09",
@@ -23630,17 +23637,6 @@
     "bus_list": [
       {
         "area": "\u9ad8\u77e5\u5e02",
-        "address": "\u30d1\u30ef\u30fc\u30bb\u30f3\u30bf\u30fc\u9ad8\u77e5\n\u9ad8\u77e5\u770c\u9ad8\u77e5\u5e02\u4ecb\u826f\u4e59\uff13\uff11\uff17\uff0d\uff11[MAP]\n\uff08\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u732e\u8840\uff09\n\u30e9\u30d6\u30e9\u30c3\u30c9Web\u4e88\u7d04\uff08\u524d\u65e517\u6642\u307e\u3067\uff09",
-        "location": {
-          "lat": 33.560890197753906,
-          "lng": 133.5312957763672
-        },
-        "reception_time": "10:00\uff5e12:0013:15\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/csk/kochi/place/m1_03_bus.html",
-        "date": "2020-02-06"
-      },
-      {
-        "area": "\u9ad8\u77e5\u5e02",
         "address": "\u30a4\u30aa\u30f3\u30e2\u30fc\u30eb\u9ad8\u77e5\n\u9ad8\u77e5\u770c\u9ad8\u77e5\u5e02\u79e6\u5357\u753a\uff11\u4e01\u76ee\uff14\uff0d\uff18[MAP]\n\u53d7\u4ed8\uff1a\uff11\u968e\u5357\u30b3\u30fc\u30c8\u6a2a\uff08\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u732e\u8840\uff09\n\u30e9\u30d6\u30e9\u30c3\u30c9Web\u4e88\u7d04\uff08\u524d\u65e517\u6642\u307e\u3067\uff09",
         "location": {
           "lat": 35.60456085205078,
@@ -24146,17 +24142,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u798f\u5ca1\u770c\u5317\u4e5d\u5dde\u5e02\u3000\u9580\u53f8\u533a",
-        "address": "\u65e5\u8d64\u8c4a\u5bff\u5712\n\u798f\u5ca1\u770c\u5317\u4e5d\u5dde\u5e02\u9580\u53f8\u533a\u5927\u5b57\u75511808-5[MAP]",
-        "location": {
-          "lat": 36.65085983276367,
-          "lng": 138.18292236328125
-        },
-        "reception_time": "09:30\uff5e11:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/fukuoka/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
       {
         "area": "\u798f\u5ca1\u770c\u5317\u4e5d\u5dde\u5e02\u3000\u5c0f\u5009\u5357\u533a",
         "address": "\u5317\u4e5d\u5dde\u5de5\u696d\u56e3\u5730\u5354\u540c\u7d44\u5408\n\u798f\u5ca1\u770c\u5317\u4e5d\u5dde\u5e02\u5c0f\u5009\u5357\u533a\u65b0\u66fd\u68398-39[MAP]\n[\u5354\u8cdb]\u6238\u7551\u30e9\u30a4\u30aa\u30f3\u30ba\u30af\u30e9\u30d6",
@@ -25186,39 +25171,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "\u5c71\u9e7f\u5e02",
-        "address": "\u5c71\u9e7f\u8b66\u5bdf\u7f72\n\u718a\u672c\u770c\u5c71\u9e7f\u5e02\u6cc9\u753a\uff11\uff10\uff12[MAP]",
-        "location": {
-          "lat": 32.78921890258789,
-          "lng": 130.74203491210938
-        },
-        "reception_time": "9:30\uff5e11:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
-      {
-        "area": "\u5c71\u9e7f\u5e02",
-        "address": "\u5c71\u9e7f\u5e02\u6c11\u533b\u7642\u30bb\u30f3\u30bf\u30fc\n\u718a\u672c\u770c\u5c71\u9e7f\u5e02\u5c71\u9e7f\uff15\uff11\uff11[MAP]",
-        "location": {
-          "lat": 32.78921890258789,
-          "lng": 130.74203491210938
-        },
-        "reception_time": "13:00\uff5e15:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
-      {
-        "area": "\u7403\u78e8\u6751",
-        "address": "\u7403\u78e8\u6751\u5f79\u5834\n\u718a\u672c\u770c\u7403\u78e8\u90e1\u7403\u78e8\u6751\u5927\u5b57\u6e21\u4e19\uff11\uff17\uff13\uff10[MAP]\n\u203b\u4e00\u822c\u306e\u65b9\u306e\u53d7\u4ed8\u306f\u884c\u3063\u3066\u304a\u308a\u307e\u305b\u3093",
-        "location": {
-          "lat": 32.78921890258789,
-          "lng": 130.74203491210938
-        },
-        "reception_time": "10:00\uff5e12:0013:15\uff5e16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
       {
         "area": "\u4e0a\u5929\u8349\u5e02",
         "address": "\u30e4\u30de\u30cf\u5929\u8349\u88fd\u9020\u3231\n\u718a\u672c\u770c\u4e0a\u5929\u8349\u5e02\u59eb\u6238\u753a\u4e8c\u9593\u6238\uff15\uff19\uff19\uff15[MAP]",
@@ -27327,61 +27279,6 @@
     ],
     "bus_list": [
       {
-        "area": "\u6d66\u6dfb\u5e02",
-        "address": "\u30d0\u30fc\u30af\u30ec\u30fc\u30ba\u30b3\u30fc\u30c8\n\u6c96\u7e04\u770c[MAP]\n\u4e88\u7d04\u53d7\u4ed8\u4e2d\uff01\u4e88\u7d04\u306f\u3053\u3061\u3089",
-        "location": {
-          "lat": 26.213300704956055,
-          "lng": 127.67962646484375
-        },
-        "reception_time": "12:00-17:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
-        "date": "2020-02-07"
-      },
-      {
-        "area": "\u672c\u90e8\u753a",
-        "address": "\u30db\u30c6\u30eb\u30aa\u30ea\u30aa\u30f3\u30e2\u30c8\u30d6\u30ea\u30be\u30fc\u30c8\uff06\u30b9\u30d1\n\u6c96\u7e04\u770c[MAP]",
-        "location": {
-          "lat": 35.60456085205078,
-          "lng": 140.12310791015625
-        },
-        "reception_time": "15:00-17:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
-      {
-        "area": "\u5609\u624b\u7d0d\u753a",
-        "address": "\uff08\u682a\uff09\u304a\u304d\u3055\u3093\u3000\u5834\u6240\uff1a\u5609\u624b\u7d0d\u753a\u5c4b\u826f\u6771\u90e8\u99d0\u8eca\u5834\n\u6c96\u7e04\u770c[MAP]",
-        "location": {
-          "lat": 26.213300704956055,
-          "lng": 127.67962646484375
-        },
-        "reception_time": "8:30-10:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
-      {
-        "area": "\u5b9c\u91ce\u6e7e\u5e02",
-        "address": "MEGA\u30c9\u30f3\u30fb\u30ad\u30db\u30fc\u30c6\n\u6c96\u7e04\u770c[MAP]",
-        "location": {
-          "lat": 26.213300704956055,
-          "lng": 127.67962646484375
-        },
-        "reception_time": "15:00-17:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
-      {
-        "area": "\u5317\u8c37\u753a",
-        "address": "\u30e1\u30a4\u30af\u30de\u30f3\u7f8e\u6d5c\u5e97\n\u6c96\u7e04\u770c[MAP]\n\u4e88\u7d04\u53d7\u4ed8\u4e2d\uff01\u4e88\u7d04\u306f\u3053\u3061\u3089",
-        "location": {
-          "lat": 26.213300704956055,
-          "lng": 127.67962646484375
-        },
-        "reception_time": "10:00-11:30\n13:00-16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
-        "date": "2020-02-08"
-      },
-      {
         "area": "\u90a3\u8987\u5e02",
         "address": "\u30bc\u30f3\u30ea\u30f3\u30a4\u30f3\u30bf\u30fc\u30f3\u30de\u30c3\u30d7\n\u6c96\u7e04\u770c[MAP]",
         "location": {
@@ -27603,12 +27500,23 @@
       },
       {
         "area": "\u90a3\u8987\u5e02",
-        "address": "\u6c96\u7e04\u30bb\u30eb\u30e9\u30fc\u96fb\u8a71\uff08\u682a\uff09\n\u6c96\u7e04\u770c[MAP]",
+        "address": "\u30b5\u30f3\u30a8\u30fc\u90a3\u8987\u30e1\u30a4\u30f3\u30d7\u30ec\u30a4\u30b9\n\u6c96\u7e04\u770c[MAP]",
         "location": {
           "lat": 26.213300704956055,
           "lng": 127.67962646484375
         },
         "reception_time": "13\uff1a00-17\uff1a00",
+        "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
+        "date": "2020-02-17"
+      },
+      {
+        "area": "\u90a3\u8987\u5e02",
+        "address": "<\u90fd\u5408\u306b\u3088\u308a\u4e2d\u6b62>\u6c96\u7e04\u30bb\u30eb\u30e9\u30fc\u96fb\u8a71\uff08\u682a\uff09\n\u6c96\u7e04\u770c[MAP]",
+        "location": {
+          "lat": 26.213300704956055,
+          "lng": 127.67962646484375
+        },
+        "reception_time": "13\uff1a00-17\uff1a00\n\u203b\u90fd\u5408\u306b\u3088\u308a\u4e2d\u6b62",
         "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
         "date": "2020-02-17"
       },
