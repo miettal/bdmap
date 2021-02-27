@@ -240,4 +240,4 @@ if __name__ == '__main__':
         center_list[i]['bus_list'] = get_bus_list(center['url'])
 
     with open('bdmap/data/center_list.json', 'w') as f:
-        f.write(json.dumps(center_list, indent=2))
+        f.write(json.dumps(center_list, ensure_ascii=False, indent=2))
