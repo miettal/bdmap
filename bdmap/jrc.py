@@ -142,11 +142,11 @@ def get_room_list(url):
                 for place in text.split('\n'):
                     if place.startswith('〒'):
                         continue
-                    location = geocode_by_dams(place)
+                    location = geocode_by_geocoodingjp(place)
                     if location is not None:
                         room['location'] = location
                         break
-                    location = geocode_by_geocoodingjp(place)
+                    location = geocode_by_dams(place)
                     if location is not None:
                         room['location'] = location
                         break
@@ -202,11 +202,11 @@ def get_bus_list(url):
                     for place in text.split('\n'):
                         if place.startswith('〒'):
                             continue
-                        location = geocode_by_dams(place)
+                        location = geocode_by_geocoodingjp(place)
                         if location is not None:
                             bus['location'] = location
                             break
-                        location = geocode_by_geocoodingjp(place)
+                        location = geocode_by_dams(place)
                         if location is not None:
                             bus['location'] = location
                             break
