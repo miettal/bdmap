@@ -26,7 +26,7 @@ def index():
 
 
 @app.route('/<center_name>/<room_name>', methods=['GET'])
-def image(qrcode_filename):
+def image(center_name, room_name):
     return 'Hello, World!'
 
 if __name__ == '__main__':

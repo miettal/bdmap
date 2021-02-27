@@ -191,7 +191,7 @@ def get_bus_list(url):
     date_p_list = [p for p in soup.select('.mod-iconIndent01 p') if re.match(pattern, p.get_text().strip())]
     for (p, table) in zip(date_p_list, soup.select('.mod-ReservationTable')):
         m = re.match(pattern, p.get_text().strip())
-        date = datetime.date(2020, int(m.group(1)), int(m.group(2)))
+        date = datetime.date(2021, int(m.group(1)), int(m.group(2)))
         for tr in table.select('tbody tr'):
             bus = {}
             for (th, td) in zip(table.select('thead tr th'), tr.select('td')):
