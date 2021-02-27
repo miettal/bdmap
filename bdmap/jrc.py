@@ -9,12 +9,16 @@ from pydams import DAMS
 
 from bs4 import BeautifulSoup
 
+import requests
+import xml.etree.ElementTree as ET
+
 
 DAMS.init_dams()
 
 
-def geocode(place):
+def geocode_by_dams(place):
     geocoded = DAMS.geocode(place)
+    print(place)
 
     if len(geocoded['candidates']) == 0:
         return None
@@ -22,6 +26,21 @@ def geocode(place):
     return {
         'lat': geocoded['candidates'][-1][0]['y'],
         'lng': geocoded['candidates'][-1][0]['x'],
+    }
+
+def geocode_by_geocoodingjp(place):
+    s = time.time()
+    response = requests.get(url='https://www.geocoding.jp/api/', params={'q': place})
+    time.sleep(max(2 - (time.time() - s), 0))
+    # time.sleep(10)
+    root = ET.fromstring(response.text)
+
+    if root.find('./coordinate') is None:
+        return None
+
+    return {
+        'lat': float(root.find('./coordinate/lat').text),
+        'lng': float(root.find('./coordinate/lng').text),
     }
 
 
@@ -123,7 +142,11 @@ def get_room_list(url):
                 for place in text.split('\n'):
                     if place.startswith('〒'):
                         continue
-                    location = geocode(place)
+                    location = geocode_by_dams(place)
+                    if location is not None:
+                        room['location'] = location
+                        break
+                    location = geocode_by_geocoodingjp(place)
                     if location is not None:
                         room['location'] = location
                         break
@@ -179,7 +202,11 @@ def get_bus_list(url):
                     for place in text.split('\n'):
                         if place.startswith('〒'):
                             continue
-                        location = geocode(place)
+                        location = geocode_by_dams(place)
+                        if location is not None:
+                            bus['location'] = location
+                            break
+                        location = geocode_by_geocoodingjp(place)
                         if location is not None:
                             bus['location'] = location
                             break
