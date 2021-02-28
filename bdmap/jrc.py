@@ -18,7 +18,6 @@ DAMS.init_dams()
 
 def geocode_by_dams(place):
     geocoded = DAMS.geocode(place)
-    print(place)
 
     if len(geocoded['candidates']) == 0:
         return None
@@ -31,7 +30,7 @@ def geocode_by_dams(place):
 def geocode_by_geocoodingjp(place):
     s = time.time()
     response = requests.get(url='https://www.geocoding.jp/api/', params={'q': place})
-    time.sleep(max(2 - (time.time() - s), 0))
+    time.sleep(max(1 - (time.time() - s), 0))
     # time.sleep(10)
     root = ET.fromstring(response.text)
 
