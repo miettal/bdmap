@@ -102,270 +102,6 @@
     ],
     "bus_list": [
       {
-        "area": "北斗市",
-        "address": "トライアル上磯店\n北海道北斗市七重浜７丁目１４－１[MAP]",
-        "location": {
-          "lat": 41.820654,
-          "lng": 140.696829
-        },
-        "reception_time": "14:30～17:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "北斗市",
-        "address": "函館開発建設部　函館道路事務所\n北海道北斗市追分４丁目１１－２[MAP]",
-        "location": {
-          "lat": 41.827972,
-          "lng": 140.687203
-        },
-        "reception_time": "09:00～10:20",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "北斗市",
-        "address": "株式会社　三豊\n北海道北斗市追分４丁目２－８[MAP]",
-        "location": {
-          "lat": 35.098408,
-          "lng": 136.924141
-        },
-        "reception_time": "10:40～11:30",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "北斗市",
-        "address": "高橋道路株式会社上磯営業所\n北海道北斗市七重浜８丁目３０－４[MAP]",
-        "location": {
-          "lat": 41.824727,
-          "lng": 140.685089
-        },
-        "reception_time": "13:00～14:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "北見市",
-        "address": "オフハウス北見南大通店\n北海道北見市とん田西町２４８－１[MAP]",
-        "location": {
-          "lat": 43.794846,
-          "lng": 143.875192
-        },
-        "reception_time": "14:30～16:30",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "北見市",
-        "address": "北海道警察北見方面本部\n北海道北見市青葉町６番１号[MAP]",
-        "location": {
-          "lat": 43.813339,
-          "lng": 143.898939
-        },
-        "reception_time": "09:00～13:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "名寄市",
-        "address": "名寄市役所風連庁舎\n北海道名寄市風連町西町[MAP]",
-        "location": {
-          "lat": 44.292325,
-          "lng": 142.414393
-        },
-        "reception_time": "10:00～12:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "名寄市",
-        "address": "ＪＡ道北なよろ（本所）\n北海道名寄市風連町本町４９番地[MAP]",
-        "location": {
-          "lat": 44.293099,
-          "lng": 142.419133
-        },
-        "reception_time": "13:30～16:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "室蘭市",
-        "address": "㈱楢崎製作所\n北海道室蘭市崎守町３８５番地[MAP]",
-        "location": {
-          "lat": 42.373433,
-          "lng": 140.924085
-        },
-        "reception_time": "13:00～15:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "室蘭市",
-        "address": "西いぶり広域連合\n北海道室蘭市石川町２２－２[MAP]",
-        "location": {
-          "lat": 42.381145,
-          "lng": 140.916388
-        },
-        "reception_time": "15:30～16:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "帯広市",
-        "address": "とかち帯広空港\n北海道帯広市泉町西９線中９番地[MAP]",
-        "location": {
-          "lat": 42.731262,
-          "lng": 143.217774
-        },
-        "reception_time": "15:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "帯広市",
-        "address": "ソネビル本館\n北海道帯広市西６条南６丁目４[MAP]",
-        "location": {
-          "lat": 42.924526,
-          "lng": 143.194924
-        },
-        "reception_time": "12:40～14:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "帯広市",
-        "address": "北王コンサルタント㈱\n北海道帯広市西７条北１丁目１１[MAP]",
-        "location": {
-          "lat": 42.932251,
-          "lng": 143.193076
-        },
-        "reception_time": "09:00～11:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市中央区",
-        "address": "戸田建設㈱札幌支店\n北海道札幌市中央区北３条東２丁目２番地[MAP]",
-        "location": {
-          "lat": 43.065991,
-          "lng": 141.359011
-        },
-        "reception_time": "12:30～14:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市中央区",
-        "address": "新栄クリエイト株式会社\n北海道札幌市中央区北１２条西１５丁目４番１号[MAP]",
-        "location": {
-          "lat": 43.072741,
-          "lng": 141.331703
-        },
-        "reception_time": "09:00～10:30",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市中央区",
-        "address": "札幌市水道局\n北海道札幌市中央区大通東１１丁目[MAP]",
-        "location": {
-          "lat": 43.06471,
-          "lng": 141.373567
-        },
-        "reception_time": "14:00～17:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市南区",
-        "address": "ひまわり真駒内店\n北海道札幌市南区真駒内本町５丁目１－２[MAP]",
-        "location": {
-          "lat": 43.005486,
-          "lng": 141.349967
-        },
-        "reception_time": "15:30～17:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市南区",
-        "address": "南地区除雪センター\n北海道札幌市南区川沿１１条１丁目藻南公園駐車場内[MAP]",
-        "location": {
-          "lat": 34.618876,
-          "lng": 135.442267
-        },
-        "reception_time": "12:30～14:30",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市南区",
-        "address": "札幌市南消防署\n北海道札幌市南区真駒内上町５丁目８－５[MAP]",
-        "location": {
-          "lat": 42.99647,
-          "lng": 141.358809
-        },
-        "reception_time": "09:00～10:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市手稲区",
-        "address": "札幌運転免許試験場\n北海道札幌市手稲区曙５条４丁目１－１[MAP]",
-        "location": {
-          "lat": 43.135752,
-          "lng": 141.229615
-        },
-        "reception_time": "09:30～12:30",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市手稲区",
-        "address": "ＪＲ札幌運転所\n北海道札幌市手稲区曙１条３丁目１ー１[MAP]",
-        "location": {
-          "lat": 43.126298,
-          "lng": 141.228101
-        },
-        "reception_time": "14:30～17:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市東区",
-        "address": "札幌がん検診センター\n北海道札幌市東区北二十六条東１４丁目１番１５号[MAP]",
-        "location": {
-          "lat": 43.096777,
-          "lng": 141.368333
-        },
-        "reception_time": "15:00～17:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "札幌市白石区",
-        "address": "㈱ネクスコエンジニアリング\n北海道札幌市白石区米里１条３丁目４番２１号[MAP]",
-        "location": {
-          "lat": 38.26627,
-          "lng": 140.879972
-        },
-        "reception_time": "10:00～12:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "釧路市",
-        "address": "北海道警察釧路方面本部\n北海道釧路市黒金町１０丁目５－１[MAP]",
-        "location": {
-          "lat": 42.98669,
-          "lng": 144.380967
-        },
-        "reception_time": "09:15～11:1512:45～17:00",
-        "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "余市郡余市町",
         "address": "余市町農業協同組合\n北海道余市郡余市町黒川町５丁目２２[MAP]",
         "location": {
@@ -688,8 +424,8 @@
         "area": "名寄市",
         "address": "北星信用金庫（本店駐車場）\n北海道名寄市西２条南５丁目[MAP]",
         "location": {
-          "lat": 43.0633,
-          "lng": 141.351122
+          "lat": 44.3508,
+          "lng": 142.461057
         },
         "reception_time": "12:30～14:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -809,8 +545,8 @@
         "area": "河西郡更別村",
         "address": "㈱山内組\n北海道河西郡更別村字更別南２線９４[MAP]",
         "location": {
-          "lat": 42.648472,
-          "lng": 143.191133
+          "lat": 37.686483,
+          "lng": 138.998657
         },
         "reception_time": "13:30～16:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -820,8 +556,8 @@
         "area": "爾志郡乙部町",
         "address": "ひやま漁業協同組合\n北海道爾志郡乙部町字元町５２０[MAP]",
         "location": {
-          "lat": 41.968912,
-          "lng": 140.131106
+          "lat": 41.866881,
+          "lng": 140.121563
         },
         "reception_time": "15:15～15:45",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1007,8 +743,8 @@
         "area": "札幌市中央区",
         "address": "札幌臨床検査センター株式会社\n北海道札幌市中央区北５条西１８丁目９－１[MAP]",
         "location": {
-          "lat": 36.62465,
-          "lng": 138.195874
+          "lat": 42.828279,
+          "lng": 141.652192
         },
         "reception_time": "15:00～16:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1029,8 +765,8 @@
         "area": "札幌市手稲区",
         "address": "札幌運転免許試験場\n北海道札幌市手稲区曙５条４丁目１－１[MAP]",
         "location": {
-          "lat": 43.135914,
-          "lng": 141.229697
+          "lat": 43.135752,
+          "lng": 141.229615
         },
         "reception_time": "09:30～12:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1139,8 +875,8 @@
         "area": "千歳市",
         "address": "日本血液製剤機構\n北海道千歳市泉沢１００７－３１[MAP]",
         "location": {
-          "lat": 42.794016,
-          "lng": 141.615453
+          "lat": 42.793971,
+          "lng": 141.615473
         },
         "reception_time": "09:30～11:3013:00～16:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1172,8 +908,8 @@
         "area": "帯広市",
         "address": "株式会社オカモト\n北海道帯広市東４条南１０丁目２[MAP]",
         "location": {
-          "lat": 35.858692,
-          "lng": 139.620961
+          "lat": 35.51041,
+          "lng": 140.082859
         },
         "reception_time": "11:20～12:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1216,8 +952,8 @@
         "area": "札幌市東区",
         "address": "東区元町まちづくりセンター\n北海道札幌市東区北２０条東２０丁目６－２２[MAP]",
         "location": {
-          "lat": 43.088105,
-          "lng": 141.382495
+          "lat": 43.088019,
+          "lng": 141.382426
         },
         "reception_time": "14:30～16:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1271,8 +1007,8 @@
         "area": "赤平市",
         "address": "ふれあいホール\n北海道赤平市東大町３丁目４[MAP]",
         "location": {
-          "lat": 35.681307,
-          "lng": 139.402848
+          "lat": 34.486982,
+          "lng": 135.401115
         },
         "reception_time": "09:30～11:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1491,8 +1227,8 @@
         "area": "上川郡鷹栖町",
         "address": "ＪＡたいせつ鷹栖支所\n北海道上川郡鷹栖町北１条２丁目[MAP]",
         "location": {
-          "lat": 43.847552,
-          "lng": 142.358212
+          "lat": 43.847578,
+          "lng": 142.357702
         },
         "reception_time": "10:50～11:50",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1513,8 +1249,8 @@
         "area": "中川郡幕別町",
         "address": "忠類農業協同組合\n北海道中川郡幕別町忠類栄町２５９[MAP]",
         "location": {
-          "lat": 42.563768,
-          "lng": 143.300153
+          "lat": 42.563774,
+          "lng": 143.300145
         },
         "reception_time": "09:30～11:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1799,8 +1535,8 @@
         "area": "函館市",
         "address": "株式会社ほくやく函館支店\n北海道函館市吉川町５－４１[MAP]",
         "location": {
-          "lat": 41.794386,
-          "lng": 140.730842
+          "lat": 41.79466,
+          "lng": 140.730904
         },
         "reception_time": "09:00～10:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1876,8 +1612,8 @@
         "area": "札幌市手稲区",
         "address": "札幌運転免許試験場\n北海道札幌市手稲区曙５条４丁目１－１[MAP]",
         "location": {
-          "lat": 43.135752,
-          "lng": 141.229615
+          "lat": 43.135914,
+          "lng": 141.229697
         },
         "reception_time": "09:30～12:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -1964,8 +1700,8 @@
         "area": "美唄市",
         "address": "総合研究機構林業試験場\n北海道美唄市光珠内町東山[MAP]",
         "location": {
-          "lat": 35.060042,
-          "lng": 134.112183
+          "lat": 43.28998,
+          "lng": 141.85381
         },
         "reception_time": "10:30～11:20",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2129,8 +1865,8 @@
         "area": "札幌市豊平区",
         "address": "産業技術総合研究所\n北海道札幌市豊平区月寒東２条１７丁目２－１[MAP]",
         "location": {
-          "lat": 35.671039,
-          "lng": 139.751784
+          "lat": 35.462204,
+          "lng": 139.390715
         },
         "reception_time": "11:00～12:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2140,8 +1876,8 @@
         "area": "滝川市",
         "address": "佐藤病院\n北海道滝川市泉町１３５－１５[MAP]",
         "location": {
-          "lat": 36.396156,
-          "lng": 138.253456
+          "lat": 34.681225,
+          "lng": 135.15274
         },
         "reception_time": "14:30～16:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2228,8 +1964,8 @@
         "area": "帯広市",
         "address": "十勝バス株式会社\n北海道帯広市西２３条北１丁目１－１[MAP]",
         "location": {
-          "lat": 42.931451,
-          "lng": 143.128512
+          "lat": 42.931492,
+          "lng": 143.128507
         },
         "reception_time": "09:00～10:20",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2261,8 +1997,8 @@
         "area": "旭川市",
         "address": "旭川事業所（新築工事現場）\n北海道旭川市宮前一条１丁目２番１８号[MAP]",
         "location": {
-          "lat": 43.771136,
-          "lng": 142.457063
+          "lat": 43.776349,
+          "lng": 142.423837
         },
         "reception_time": "09:00～10:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2316,8 +2052,8 @@
         "area": "札幌市南区",
         "address": "水道局中部水道センター\n北海道札幌市南区川沿２条２丁目２－７[MAP]",
         "location": {
-          "lat": 42.998321,
-          "lng": 141.336395
+          "lat": 34.681489,
+          "lng": 135.173871
         },
         "reception_time": "15:00～17:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2360,8 +2096,8 @@
         "area": "檜山郡上ノ国町",
         "address": "株式会社若狭組\n北海道檜山郡上ノ国町字大留１４０－２[MAP]",
         "location": {
-          "lat": 41.805515,
-          "lng": 140.122405
+          "lat": 34.672557,
+          "lng": 135.486142
         },
         "reception_time": "13:10～14:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2448,8 +2184,8 @@
         "area": "釧路市",
         "address": "新太平洋商事株式会社\n北海道釧路市知人町３－１８[MAP]",
         "location": {
-          "lat": 42.973125,
-          "lng": 144.367482
+          "lat": 42.973202,
+          "lng": 144.367615
         },
         "reception_time": "09:30～11:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2506,7 +2242,7 @@
           "lat": 42.844966,
           "lng": 141.662564
         },
-        "reception_time": "09:30～13:0014:30～16:30",
+        "reception_time": "09:30～11:3013:00～16:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
         "date": "2021-03-26"
       },
@@ -2514,8 +2250,8 @@
         "area": "千歳市",
         "address": "ＪＡ道央千歳支店\n北海道千歳市高台５丁目１－１５[MAP]",
         "location": {
-          "lat": 42.837064,
-          "lng": 141.652125
+          "lat": 42.837046,
+          "lng": 141.652174
         },
         "reception_time": "15:00～16:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2558,8 +2294,8 @@
         "area": "足寄郡足寄町",
         "address": "足寄町役場\n北海道足寄郡足寄町北１条４丁目４８[MAP]",
         "location": {
-          "lat": 43.244746,
-          "lng": 143.553959
+          "lat": 43.244832,
+          "lng": 143.553965
         },
         "reception_time": "10:00～12:00",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -2976,8 +2712,8 @@
         "area": "札幌市手稲区",
         "address": "札幌運転免許試験場\n北海道札幌市手稲区曙５条４丁目１－１[MAP]",
         "location": {
-          "lat": 43.135752,
-          "lng": 141.229615
+          "lat": 43.135914,
+          "lng": 141.229697
         },
         "reception_time": "09:30～12:30",
         "url": "https://www.bs.jrc.or.jp/hkd/hokkaido/place/m1_02_index.html",
@@ -3179,8 +2915,8 @@
         "area": "黒石市",
         "address": "南貨物自動車㈱\n黒石市松原１４３[MAP]",
         "location": {
-          "lat": 40.659044,
-          "lng": 140.601727
+          "lat": 38.126279,
+          "lng": 140.926225
         },
         "reception_time": "15:00～16:15",
         "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
@@ -3234,8 +2970,8 @@
         "area": "青森市",
         "address": "青森市役所　浪岡庁舎\n青森市浪岡大字浪岡字稲村１０１－１[MAP]",
         "location": {
-          "lat": 40.710715,
-          "lng": 140.595398
+          "lat": 40.710729,
+          "lng": 140.595405
         },
         "reception_time": "14:30～16:30",
         "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
@@ -3389,7 +3125,7 @@
         "address": "㈱丸勝小野商事\n田舎館村大字高樋字川原田３５[MAP]",
         "location": {
           "lat": 40.648003,
-          "lng": 140.566299
+          "lng": 140.566311
         },
         "reception_time": "10:00～11:30",
         "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
@@ -3421,8 +3157,8 @@
         "area": "青森市",
         "address": "丸大堀内㈱物流センター\n青森市大字合子沢字松森２５９－１４[MAP]",
         "location": {
-          "lat": 40.637632,
-          "lng": 140.483383
+          "lat": 40.761288,
+          "lng": 140.753165
         },
         "reception_time": "15:00～16:30",
         "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
@@ -3443,8 +3179,8 @@
         "area": "つがる市",
         "address": "つがる市民診療所\nつがる市木造千年４[MAP]",
         "location": {
-          "lat": 40.812219,
-          "lng": 140.380561
+          "lat": 40.812275,
+          "lng": 140.380676
         },
         "reception_time": "15:30～16:30",
         "url": "https://www.bs.jrc.or.jp/th/aomori/place/m1_03_bus.html",
@@ -3649,17 +3385,6 @@
     ],
     "bus_list": [
       {
-        "area": "陸前高田市",
-        "address": "陸前高田市コミュニティホール\n陸前高田市高田町字栃ヶ沢２１０番地３[MAP]\n※ラブラッド会員サイトから４００ｍＬ献血のご予約が可能です。ご予約はこちら",
-        "location": {
-          "lat": 39.027346,
-          "lng": 141.624109
-        },
-        "reception_time": "9:30～11:3013:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/iwate/place/m1_03_bus.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "一関市",
         "address": "一関信用金庫本店\n一関市幸町５－５[MAP]",
         "location": {
@@ -3861,8 +3586,8 @@
         "area": "花巻市",
         "address": "イトーヨーカドー花巻店\n花巻市下小舟渡１１８−１[MAP]\n※ラブラッド会員サイトから４００ｍＬ献血のご予約が可能です。ご予約はこちら",
         "location": {
-          "lat": 37.750911712646484,
-          "lng": 140.46786499023438
+          "lat": 39.393668,
+          "lng": 141.118261
         },
         "reception_time": "10:00～12:0013:30～16:00",
         "url": "https://www.bs.jrc.or.jp/th/iwate/place/m1_03_bus.html",
@@ -3905,8 +3630,8 @@
         "area": "久慈市",
         "address": "久慈市役所\n久慈市川崎町１－１[MAP]\n※ラブラッド会員サイトから４００ｍＬ献血のご予約が可能です。ご予約はこちら",
         "location": {
-          "lat": 40.190423,
-          "lng": 141.775575
+          "lat": 40.190555,
+          "lng": 141.775538
         },
         "reception_time": "9:00～11:3013:00～16:30",
         "url": "https://www.bs.jrc.or.jp/th/iwate/place/m1_03_bus.html",
@@ -3916,8 +3641,8 @@
         "area": "二戸市",
         "address": "國分屋金物店\n二戸市福岡字五日町６５[MAP]",
         "location": {
-          "lat": 40.26797,
-          "lng": 141.298477
+          "lat": 40.267923,
+          "lng": 141.298567
         },
         "reception_time": "10:00～11:00",
         "url": "https://www.bs.jrc.or.jp/th/iwate/place/m1_03_bus.html",
@@ -3949,8 +3674,8 @@
         "area": "岩手町",
         "address": "ＪＡ新いわて岩手支所\n岩手郡岩手町大字五日市１２－６０－２[MAP]",
         "location": {
-          "lat": 39.96085,
-          "lng": 141.212552
+          "lat": 39.960867,
+          "lng": 141.212688
         },
         "reception_time": "9:30～11:30",
         "url": "https://www.bs.jrc.or.jp/th/iwate/place/m1_03_bus.html",
@@ -3971,8 +3696,8 @@
         "area": "北上市",
         "address": "岩手県企業局県南施設管理所\n北上市北工業団地５－８[MAP]",
         "location": {
-          "lat": 39.335226,
-          "lng": 141.133438
+          "lat": 39.335147,
+          "lng": 141.133435
         },
         "reception_time": "9:30～11:00",
         "url": "https://www.bs.jrc.or.jp/th/iwate/place/m1_03_bus.html",
@@ -4145,116 +3870,6 @@
     ],
     "bus_list": [
       {
-        "area": "仙台市　　太白区",
-        "address": "仙台市太白区役所\n仙台市太白区長町南３－１－１５[MAP]\n※400mL献血のみ受付\n※Web予約可能",
-        "location": {
-          "lat": 38.224395,
-          "lng": 140.877215
-        },
-        "reception_time": "10:00～12:0013:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "角田市",
-        "address": "宮城県角田警察署\n角田市角田字扇町５－７[MAP]\n※400mL献血のみ受付\n※Web予約可能",
-        "location": {
-          "lat": 37.977032,
-          "lng": 140.788115
-        },
-        "reception_time": "10:00～11:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "角田市",
-        "address": "角田市役所\n角田市角田字大坊４１[MAP]\n※400mL献血のみ受付\n※Web予約可能",
-        "location": {
-          "lat": 37.977033,
-          "lng": 140.782053
-        },
-        "reception_time": "13:30～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "名取市",
-        "address": "イオンモール名取\n名取市杜せきのした５丁目３－１[MAP]\n※200mL献血は10代と初回者のみ\n※Web予約可能",
-        "location": {
-          "lat": 38.163729,
-          "lng": 140.895538
-        },
-        "reception_time": "15:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-13"
-      },
-      {
-        "area": "東松島市",
-        "address": "イオンタウン矢本\n東松島市小松字上浮足４３[MAP]\n※200mL献血は10代と初回者のみ\n※骨髄バンクドナー登録会実施\n※Web予約可能",
-        "location": {
-          "lat": 38.425586,
-          "lng": 141.203547
-        },
-        "reception_time": "10:00～11:4513:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-13"
-      },
-      {
-        "area": "栗原市",
-        "address": "ヨークベニマル若柳店\n栗原市若柳字川南堤通２３－３[MAP]\n※200mL献血は10代と初回者のみ\n※骨髄バンクドナー登録会実施\n※Web予約可能",
-        "location": {
-          "lat": 38.770374,
-          "lng": 141.121811
-        },
-        "reception_time": "10:00～11:4513:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-13"
-      },
-      {
-        "area": "仙台市　　太白区",
-        "address": "ＩＫＥＡ仙台\n仙台市太白区あすと長町２－１－１[MAP]\n※200mL献血は10代と初回者のみ\n※Web予約可能",
-        "location": {
-          "lat": 38.225513,
-          "lng": 140.886166
-        },
-        "reception_time": "10:30～12:1513:30～17:00",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "大崎市",
-        "address": "イオンタウン古川\n大崎市古川沢田字筒場浦１５[MAP]\n※200mL献血は10代と初回者のみ\n※骨髄バンクドナー登録会実施\n※Web予約可能",
-        "location": {
-          "lat": 38.598383,
-          "lng": 140.972753
-        },
-        "reception_time": "10:00～11:4513:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "富谷市",
-        "address": "イオンモール富谷\n富谷市大清水１－３３－１[MAP]\n※200mL献血は10代と初回者のみ\n※骨髄バンクドナー登録会実施\n※Web予約可能",
-        "location": {
-          "lat": 38.364771,
-          "lng": 140.875061
-        },
-        "reception_time": "10:00～11:4513:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "白石市",
-        "address": "ヨークベニマル白石店\n白石市大手町１－１２[MAP]\n※200mL献血は10代と初回者のみ\n※Web予約可能",
-        "location": {
-          "lat": 38.001603,
-          "lng": 140.619243
-        },
-        "reception_time": "10:00～11:4513:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
-        "date": "2021-03-14"
-      },
-      {
         "area": "仙台市　　宮城野区",
         "address": "仙台市ガス局\n仙台市宮城野区幸町５－１３－１[MAP]\n※400mL献血のみ受付\n※Web予約可能",
         "location": {
@@ -4269,8 +3884,8 @@
         "area": "仙台市　　若林区",
         "address": "仙台市若林区役所\n仙台市若林区保春院丁３－１[MAP]\n※400mL献血のみ受付\n※Web予約可能",
         "location": {
-          "lat": 38.24415,
-          "lng": 140.900871
+          "lat": 38.244319,
+          "lng": 140.900902
         },
         "reception_time": "13:00～16:30",
         "url": "https://www.bs.jrc.or.jp/th/miyagi/place/m1_03_bus.html",
@@ -4754,8 +4369,8 @@
         "area": "秋田県大仙市",
         "address": "興栄建設㈱\n秋田県大仙市大曲西根字西道地野５０２－２[MAP]",
         "location": {
-          "lat": 35.370993,
-          "lng": 139.22836
+          "lat": 43.056708,
+          "lng": 141.394912
         },
         "reception_time": "10:00～12:00",
         "url": "https://www.bs.jrc.or.jp/th/akita/place/m1_03_bus.html",
@@ -4875,8 +4490,8 @@
         "area": "長井市",
         "address": "道の駅「川のみなと長井」\n長井市東町２－５０[MAP]\n受付場所：レストラン内南側\n≪WEBでの事前予約ができます≫\n※通常のご来場も可能です",
         "location": {
-          "lat": 38.108986,
-          "lng": 140.043834
+          "lat": 38.108989,
+          "lng": 140.043888
         },
         "reception_time": "WEB予約⇒\n10:00～11:3013:30～15:30",
         "url": "https://www.bs.jrc.or.jp/th/yamagata/place/m1_03_bus.html",
@@ -5061,22 +4676,11 @@
     ],
     "bus_list": [
       {
-        "area": "伊達市",
-        "address": "霊山総合支所\n伊達市霊山町掛田段居45[MAP]",
-        "location": {
-          "lat": 37.777333,
-          "lng": 140.596079
-        },
-        "reception_time": "9:00 ～ 10:00",
-        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "天栄村",
         "address": "ＴＳＫ(株)\n天栄村大字飯豊大山10−２５４[MAP]",
         "location": {
-          "lat": 37.249147,
-          "lng": 140.291175
+          "lat": 36.716732,
+          "lng": 137.287278
         },
         "reception_time": "9:30 ～ 10:30",
         "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
@@ -5174,8 +4778,8 @@
         "area": "川俣町",
         "address": "アサヒ通信(株)\n川俣町鶴沢字中山1番[MAP]",
         "location": {
-          "lat": 37.663572,
-          "lng": 140.5911
+          "lat": 34.627799,
+          "lng": 133.921338
         },
         "reception_time": "13:00 ～ 15:00",
         "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
@@ -5328,8 +4932,8 @@
         "area": "二本松市",
         "address": "安達保健福祉センター\n二本松市油井砂田１０１[MAP]",
         "location": {
-          "lat": 37.607459,
-          "lng": 140.462397
+          "lat": 37.607706,
+          "lng": 140.462448
         },
         "reception_time": "15:00 ～ 16:30",
         "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
@@ -5427,7 +5031,7 @@
         "area": "南会津町",
         "address": "福島県南会津合同庁舎\n南会津町田島字根小屋4277-1[MAP]\n※ラブラッド会員サイトから献血のご予約が可能です。\nご予約はこちら",
         "location": {
-          "lat": 37.2004,
+          "lat": 37.200403,
           "lng": 139.768702
         },
         "reception_time": "15:15 ～ 16:45",
@@ -5471,8 +5075,8 @@
         "area": "福島市",
         "address": "ツイン広場\n福島市栄町５－１[MAP]\n協力：福島信陵ライオンズクラブ",
         "location": {
-          "lat": 35.696736,
-          "lng": 139.682404
+          "lat": 35.360613,
+          "lng": 136.809584
         },
         "reception_time": "11:00 ～ 16:00",
         "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
@@ -5493,8 +5097,8 @@
         "area": "いわき市",
         "address": "高久公民館\nいわき市平高久字水門１００[MAP]\n高久地区献血友の会主催",
         "location": {
-          "lat": 37.031225,
-          "lng": 140.957636
+          "lat": 37.031227,
+          "lng": 140.957783
         },
         "reception_time": "11:00 ～ 12:30",
         "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
@@ -5537,12 +5141,111 @@
         "area": "会津若松市",
         "address": "ヨークベニマル西若松店\n会津若松市住吉町24-3[MAP]\n※ラブラッド会員サイトから献血のご予約が可能です。\nご予約はこちら",
         "location": {
-          "lat": 37.485051,
-          "lng": 139.908042
+          "lat": 37.485208,
+          "lng": 139.908033
         },
         "reception_time": "10:00 ～ 11:3013:00 ～ 16:00",
         "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
         "date": "2021-03-28"
+      },
+      {
+        "area": "いわき市",
+        "address": "イオンいわき店\n平字三倉６８－１[MAP]\n志賀塗装株式会社　主催\n第２４回「愛の献血フェスティバル」\n昼継続",
+        "location": {
+          "lat": 37.050562,
+          "lng": 140.898491
+        },
+        "reception_time": "9:30 ～ 17:00",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-02"
+      },
+      {
+        "area": "いわき市",
+        "address": "鹿島ショッピングセンター「エブリア」\nいわき市鹿島町米田字日渡５[MAP]",
+        "location": {
+          "lat": 36.994128,
+          "lng": 140.905189
+        },
+        "reception_time": "10:00 ～ 11:3013:00 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-04"
+      },
+      {
+        "area": "いわき市",
+        "address": "いわき市保健所\nいわき市内郷高坂町四方木田191[MAP]",
+        "location": {
+          "lat": 37.043886,
+          "lng": 140.86359
+        },
+        "reception_time": "9:00 ～ 11:00",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-07"
+      },
+      {
+        "area": "いわき市",
+        "address": "福島県いわき合同庁舎\nいわき市平梅本15[MAP]",
+        "location": {
+          "lat": 37.050555,
+          "lng": 140.885746
+        },
+        "reception_time": "13:00 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-07"
+      },
+      {
+        "area": "いわき市",
+        "address": "いわき市役所\nいわき市平梅本21[MAP]",
+        "location": {
+          "lat": 37.050398,
+          "lng": 140.887536
+        },
+        "reception_time": "10:00 ～ 11:3013:00 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-09"
+      },
+      {
+        "area": "いわき市",
+        "address": "ヨークベニマル新谷川瀬店\nいわき市平谷川瀬3-21-10[MAP]",
+        "location": {
+          "lat": 37.045558,
+          "lng": 140.899874
+        },
+        "reception_time": "11:30 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-11"
+      },
+      {
+        "area": "いわき市",
+        "address": "いわき中央警察署\nいわき市内郷御厩町4-148[MAP]",
+        "location": {
+          "lat": 37.052403,
+          "lng": 140.877554
+        },
+        "reception_time": "9:00 ～ 11:30",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-12"
+      },
+      {
+        "area": "いわき市",
+        "address": "イオンいわき店\nいわき市平字三倉６８－１[MAP]",
+        "location": {
+          "lat": 37.050562,
+          "lng": 140.898491
+        },
+        "reception_time": "9:30 ～ 11:3013:00 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-18"
+      },
+      {
+        "area": "いわき市",
+        "address": "マルト岡小名店\nいわき市小名浜岡小名岸前47[MAP]",
+        "location": {
+          "lat": 36.962589,
+          "lng": 140.904985
+        },
+        "reception_time": "11:30 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/th/fukushima/place/m1_03_bus.html",
+        "date": "2021-04-25"
       }
     ]
   },
@@ -5799,8 +5502,8 @@
         "area": "常総市",
         "address": "常総広域消防本部\n茨城県常総市水海道山田町８０８[MAP]\n400ｍL献血限定\n【ガルパンキャンペーン対象会場】\n【春季キャンペーン対象会場】",
         "location": {
-          "lat": 36.006206,
-          "lng": 139.988285
+          "lat": 35.964677,
+          "lng": 139.97779
         },
         "reception_time": "09:30～11:00",
         "url": "https://www.bs.jrc.or.jp/ktks/ibaraki/place/m1_03_index.html",
@@ -5909,8 +5612,8 @@
         "area": "茨城町",
         "address": "ＪＡ全農いばらき\n茨城県東茨城郡茨城町下土師１９５０－１[MAP]\n400ｍL献血限定\n【ガルパンキャンペーン対象会場】\n【春季キャンペーン対象会場】",
         "location": {
-          "lat": 36.279622,
-          "lng": 140.390091
+          "lat": 36.277738,
+          "lng": 140.3865
         },
         "reception_time": "09:00～10:30",
         "url": "https://www.bs.jrc.or.jp/ktks/ibaraki/place/m1_03_index.html",
@@ -5931,8 +5634,8 @@
         "area": "桜川市",
         "address": "桜川市役所大和庁舎\n茨城県桜川市羽田１０２３[MAP]\n400ｍL献血限定\n【ガルパンキャンペーン対象会場】\n【春季キャンペーン対象会場】",
         "location": {
-          "lat": 36.327337,
-          "lng": 140.090446
+          "lat": 36.327275,
+          "lng": 140.090478
         },
         "reception_time": "09:30～13:00",
         "url": "https://www.bs.jrc.or.jp/ktks/ibaraki/place/m1_03_index.html",
@@ -6008,8 +5711,8 @@
         "area": "笠間市",
         "address": "ホームセンター山新友部店\n茨城県笠間市旭町４８４[MAP]\n400ｍL献血限定\n\n\n【ガルパンキャンペーン対象会場】\n\n※ラブラッド予約可能会場\nご予約はこちら",
         "location": {
-          "lat": 36.325857,
-          "lng": 140.32791
+          "lat": 36.325994,
+          "lng": 140.328054
         },
         "reception_time": "10:00～12:0013:15～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/ibaraki/place/m1_03_index.html",
@@ -6148,17 +5851,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "矢板市",
-        "address": "矢板市役所\n栃木県矢板市本町５－４[MAP]",
-        "location": {
-          "lat": 36.806738,
-          "lng": 139.92412
-        },
-        "reception_time": "10:00～11:4513:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/tochigi/place/m1_03_access.html",
-        "date": "2021-03-15"
-      },
       {
         "area": "足利市",
         "address": "コムファ－スト・アピタ足利店\n栃木県足利市朝倉町２４５[MAP]\n主催：足利中央ライオンズクラブ\n１２時頃から１時間程、休憩をいただきます。",
@@ -6326,7 +6018,7 @@
       },
       {
         "area": "大田原市",
-        "address": "ヨークベニマル大田原店\n栃木県大田原市美原１－３１６８－１[MAP]\n主催：那須野ヶ原ライオンズクラブ",
+        "address": "ヨークベニマル大田原店\n栃木県大田原市美原１－３１６８－１[MAP]",
         "location": {
           "lat": 36.863185,
           "lng": 140.010225
@@ -6759,8 +6451,8 @@
         "area": "館林市",
         "address": "邑楽館林農業協同組合（本所）\n群馬県館林市赤生田町８４７[MAP]",
         "location": {
-          "lat": 36.226125,
-          "lng": 139.566957
+          "lat": 36.226135,
+          "lng": 139.56693
         },
         "reception_time": "10:00～11:30",
         "url": "https://www.bs.jrc.or.jp/ktks/gunma/place/m1_03_index.html",
@@ -6916,28 +6608,6 @@
     ],
     "bus_list": [
       {
-        "area": "上尾市",
-        "address": "上尾市西消防署\n[MAP]",
-        "location": {
-          "lat": 35.972389,
-          "lng": 139.557751
-        },
-        "reception_time": "8:45-11:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "坂戸市",
-        "address": "ヤオコー坂戸千代田店\n[MAP]",
-        "location": {
-          "lat": 35.956656,
-          "lng": 139.406516
-        },
-        "reception_time": "10:00-11:45\n13:00-14:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "さいたま市",
         "address": "西大宮病院\n[MAP]",
         "location": {
@@ -7040,8 +6710,8 @@
         "area": "鴻巣市",
         "address": "鴻巣市役所川里支所\n[MAP]",
         "location": {
-          "lat": 36.107707,
-          "lng": 139.512887
+          "lat": 36.107706,
+          "lng": 139.512897
         },
         "reception_time": "9:30-11:30",
         "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
@@ -7115,7 +6785,7 @@
       },
       {
         "area": "春日部市",
-        "address": "イオンモール春日部\n[MAP]",
+        "address": "イオンモール春日部\n[MAP]\n【ラブラッドでのご予約はこちら】",
         "location": {
           "lat": 35.987733,
           "lng": 139.789071
@@ -7304,8 +6974,8 @@
         "area": "川島町",
         "address": "コミュニティセンター\n[MAP]",
         "location": {
-          "lat": 34.68601,
-          "lng": 135.141018
+          "lat": 36.388964,
+          "lng": 139.064764
         },
         "reception_time": "10:00-11:45\n13:00-16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
@@ -7568,8 +7238,8 @@
         "area": "狭山市",
         "address": "ベルク　ベスタ狭山店\n[MAP]\n【ラブラッドでのご予約はこちら】",
         "location": {
-          "lat": 35.861619,
-          "lng": 139.426387
+          "lat": 35.861728,
+          "lng": 139.426311
         },
         "reception_time": "10:00-11:45\n13:00-16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
@@ -7642,11 +7312,22 @@
         "date": "2021-03-29"
       },
       {
+        "area": "戸田市",
+        "address": "イオンモール北戸田\n[MAP]",
+        "location": {
+          "lat": 35.826337,
+          "lng": 139.652851
+        },
+        "reception_time": "10:00-11:45\n13:00-16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
+        "date": "2021-03-30"
+      },
+      {
         "area": "さいたま市",
         "address": "ＪＲ浦和駅東口\n[MAP]\n【ラブラッドでのご予約はこちら】",
         "location": {
-          "lat": 35.858194,
-          "lng": 139.65858
+          "lat": 35.858728,
+          "lng": 139.657378
         },
         "reception_time": "10:00-12:00\n13:15-16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
@@ -7662,6 +7343,17 @@
         "reception_time": "10:00-11:45\n13:00-16:30",
         "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
         "date": "2021-03-30"
+      },
+      {
+        "area": "ふじみ野市",
+        "address": "ビバモール埼玉大井\n[MAP]",
+        "location": {
+          "lat": 35.863244,
+          "lng": 139.501864
+        },
+        "reception_time": "10:00-11:45\n13:00-16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/saitama/place/m1_02_00_index.html",
+        "date": "2021-03-31"
       },
       {
         "area": "さいたま市",
@@ -7804,34 +7496,12 @@
         "area": "-",
         "address": "-\n[MAP]\n～ダブル献血(全血献血と成分献血)をお願いします～\n\n\n\n\n\n\n\n献血の流れのご案内\n\n～４０分で助かる命があります～",
         "location": {
-          "lat": 35.689552,
-          "lng": 139.697378
+          "lat": 36.232083,
+          "lng": 137.968004
         },
         "reception_time": "",
         "url": "https://www.bs.jrc.or.jp/ktks/chiba/place/m1_02_index.html",
         "date": "2021-03-11"
-      },
-      {
-        "area": "成田市",
-        "address": "イオンモール成田\n千葉県成田市ウイング土屋24[MAP]\n\n【400ｍL献血限定会場】\n\n☆16時30分まで受付を延長してお願いしています☆\n\n【予約受付実施(400mL献血)】\n・ラブラッド会員サイトから予約\n・電話で予約\n　<予約受付時間>　09:00～17:00(平日)\n　<フリーダイヤル>0120-892-760\n・ご予約日当日のキャンセル\n　ご連絡不要です。ご来場がない場合は\n　自動的にキャンセルとなります。\n\nイオンモール成田",
-        "location": {
-          "lat": 35.795575,
-          "lng": 140.318707
-        },
-        "reception_time": "10:00 ～ 11:45\n13:00 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/ktks/chiba/place/m1_02_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "神崎町",
-        "address": "神崎ふれあいプラザ(保健福祉館)\n千葉県香取郡神崎町本宿96[MAP]\n\n【予約受付実施(400mL献血)】\n・ラブラッド会員サイトから予約\n・電話で予約\n　<予約受付時間>　09:00～17:00(平日)\n　<フリーダイヤル>0120-892-760\n・ご予約日当日のキャンセル\n　ご連絡不要です。ご来場がない場合は\n　自動的にキャンセルとなります。",
-        "location": {
-          "lat": 35.901752,
-          "lng": 140.402968
-        },
-        "reception_time": "14:00 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/chiba/place/m1_02_index.html",
-        "date": "2021-03-15"
       },
       {
         "area": "南房総市",
@@ -8035,8 +7705,8 @@
         "area": "一宮町",
         "address": "一宮町保健センター\n千葉県長生郡一宮町一宮2457[MAP]\n\n【予約受付実施(400mL献血)】\n・ラブラッド会員サイトから予約\n・電話で予約\n　<予約受付時間>　09:00～17:00(平日)\n　<フリーダイヤル>0120-892-760\n・ご予約日当日のキャンセル\n　ご連絡不要です。ご来場がない場合は\n　自動的にキャンセルとなります。",
         "location": {
-          "lat": 35.372376,
-          "lng": 140.368534
+          "lat": 35.372378,
+          "lng": 140.368688
         },
         "reception_time": "10:00 ～ 11:45\n13:00 ～ 16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/chiba/place/m1_02_index.html",
@@ -8332,8 +8002,8 @@
         "area": "山武市",
         "address": "山武市成東保健福祉センター\n千葉県山武市殿台296[MAP]\n\n【予約受付実施(400mL献血)】\n・ラブラッド会員サイトから予約\n・電話で予約\n　<予約受付時間>　09:00～17:00(平日)\n　<フリーダイヤル>0120-892-760\n・ご予約日当日のキャンセル\n　ご連絡不要です。ご来場がない場合は\n　自動的にキャンセルとなります。\n\n骨髄バンクドナー登録会実施\nあなたを待っている人がいます！\nドナー登録のしおり\"チャンス\"はこちらをご覧ください",
         "location": {
-          "lat": 35.602656,
-          "lng": 140.413235
+          "lat": 35.602573,
+          "lng": 140.413176
         },
         "reception_time": "10:00 ～ 11:45\n13:00 ～ 16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/chiba/place/m1_02_index.html",
@@ -8365,8 +8035,8 @@
         "area": "長南町",
         "address": "長南町保健センター\n千葉県長生郡長南町長南2110[MAP]\n\n骨髄バンクドナー登録会実施\nあなたを待っている人がいます！\nドナー登録のしおり\"チャンス\"はこちらをご覧ください",
         "location": {
-          "lat": 35.386091,
-          "lng": 140.237392
+          "lat": 35.386097,
+          "lng": 140.237548
         },
         "reception_time": "9:30 ～ 11:30",
         "url": "https://www.bs.jrc.or.jp/ktks/chiba/place/m1_02_index.html",
@@ -8727,61 +8397,6 @@
     ],
     "bus_list": [
       {
-        "area": "品川区",
-        "address": "大井町駅前ロータリー\n品川区大井１－５０－５[MAP]\n※状況により開始時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
-        "location": {
-          "lat": 35.60665,
-          "lng": 139.7344
-        },
-        "reception_time": "14:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "府中市",
-        "address": "府中運転免許試験場\n府中市多磨町３－１－１[MAP]\n※400mL献血にご協力お願いします\n※Web予約はこちら(ラブラッド会員)",
-        "location": {
-          "lat": 35.688411,
-          "lng": 139.514979
-        },
-        "reception_time": "10:00～16:30※昼中断あり",
-        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "新宿区",
-        "address": "落合第一特別出張所\n新宿区下落合４－６－７[MAP]\n※Web予約はこちら(ラブラッド会員)",
-        "location": {
-          "lat": 35.71872,
-          "lng": 139.694994
-        },
-        "reception_time": "10:00～13:0014:15～16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "江東区",
-        "address": "ＮＢＦ豊洲キャナルフロントビル\n江東区豊洲５－６－５２[MAP]",
-        "location": {
-          "lat": 35.650589,
-          "lng": 139.799356
-        },
-        "reception_time": "09:30～11:1512:30～15:30",
-        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "渋谷区",
-        "address": "渋谷区役所新庁舎\n渋谷区宇田川町１－１[MAP]",
-        "location": {
-          "lat": 35.664339,
-          "lng": 139.698277
-        },
-        "reception_time": "10:00～11:3013:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "千代田区",
         "address": "労働金庫会館　正面玄関　横\n千代田区神田駿河台２－５－１５[MAP]",
         "location": {
@@ -9049,8 +8664,8 @@
         "area": "墨田区",
         "address": "ＪＲ錦糸町駅南口\n墨田区江東橋３－１４－５[MAP]\n※状況により受付時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 35.696779,
-          "lng": 139.813972
+          "lat": 35.694129,
+          "lng": 139.814979
         },
         "reception_time": "10:00～11:3012:50～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
@@ -9247,8 +8862,8 @@
         "area": "千代田区",
         "address": "日本化薬株式会社　\n千代田区丸の内２－１－１明治安田生命ビル[MAP]",
         "location": {
-          "lat": 35.678986,
-          "lng": 139.761896
+          "lat": 36.696771,
+          "lng": 137.209908
         },
         "reception_time": "10:00～11:3013:00～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
@@ -9306,6 +8921,17 @@
           "lng": 139.310954
         },
         "reception_time": "10:00～12:0013:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
+        "date": "2021-03-22"
+      },
+      {
+        "area": "葛飾区",
+        "address": "ＪＲ新小岩駅\n葛飾区新小岩１－４４[MAP]\n※状況により受付時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
+        "location": {
+          "lat": 35.716877,
+          "lng": 139.857812
+        },
+        "reception_time": "10:00～11:3013:00～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
         "date": "2021-03-22"
       },
@@ -9399,12 +9025,12 @@
       },
       {
         "area": "江東区",
-        "address": "江東運転免許試験場\n江東区新砂１－７－２４[MAP]\n3/11より受付開始※Web予約はこちら(ラブラッド会員)",
+        "address": "江東運転免許試験場\n江東区新砂１－７－２４[MAP]\n※都合により中止となりました。",
         "location": {
           "lat": 35.668901,
           "lng": 139.822698
         },
-        "reception_time": "9:30～15:30※昼中断あり",
+        "reception_time": "中止",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
         "date": "2021-03-25"
       },
@@ -9432,7 +9058,7 @@
       },
       {
         "area": "墨田区",
-        "address": "オリナスタワー\n墨田区太平４－１－３[MAP]\n3/12より受付開始※Web予約はこちら(ラブラッド会員)",
+        "address": "オリナスタワー\n墨田区太平４－１－３[MAP]\n※Web予約はこちら(ラブラッド会員)",
         "location": {
           "lat": 35.700861,
           "lng": 139.815092
@@ -9489,10 +9115,21 @@
         "area": "葛飾区",
         "address": "ＪＲ亀有駅南口\n葛飾区亀有３－２６－１[MAP]\n※状況により受付時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 35.765764,
-          "lng": 139.847456
+          "lat": 35.766538,
+          "lng": 139.847533
         },
         "reception_time": "10:30～11:3013:00～16:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
+        "date": "2021-03-26"
+      },
+      {
+        "area": "多摩市",
+        "address": "多摩センター駅前(ココリア横・パルテノン大通り)\n東京都多摩市落合1丁目46－1[MAP]\n※Web予約はこちら(ラブラッド会員)",
+        "location": {
+          "lat": 35.623931,
+          "lng": 139.422853
+        },
+        "reception_time": "10:00 ～ 11:3013:00 ～ 16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
         "date": "2021-03-26"
       },
@@ -9520,7 +9157,7 @@
       },
       {
         "area": "台東区",
-        "address": "台東区生涯学習センター\n台東区西浅草３－２５－１６[MAP]\n3/13より受付開始※Web予約はこちら(ラブラッド会員)",
+        "address": "台東区生涯学習センター\n台東区西浅草３－２５－１６[MAP]\n※Web予約はこちら(ラブラッド会員)",
         "location": {
           "lat": 35.717328,
           "lng": 139.78988
@@ -9533,8 +9170,8 @@
         "area": "品川区",
         "address": "ＵＲ品川八潮　サービス事務所前\n品川区八潮５－６－３７[MAP]",
         "location": {
-          "lat": 35.597988,
-          "lng": 139.750586
+          "lat": 35.597842,
+          "lng": 139.750587
         },
         "reception_time": "10:00～11:3013:00～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
@@ -9654,8 +9291,8 @@
         "area": "墨田区",
         "address": "ＪＲ錦糸町駅南口\n墨田区江東橋３－１４－５[MAP]\n※状況により受付時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 35.696779,
-          "lng": 139.813972
+          "lat": 35.694129,
+          "lng": 139.814979
         },
         "reception_time": "10:00～11:3012:50～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
@@ -9696,7 +9333,7 @@
       },
       {
         "area": "板橋区",
-        "address": "都立浮間公園\n板橋区舟渡２－１５－１[MAP]\n3/14より受付開始※Web予約はこちら(ラブラッド会員)",
+        "address": "都立浮間公園\n板橋区舟渡２－１５－１[MAP]\n※Web予約はこちら(ラブラッド会員)",
         "location": {
           "lat": 35.793863,
           "lng": 139.693653
@@ -9850,7 +9487,7 @@
       },
       {
         "area": "江東区",
-        "address": "江東運転免許試験場\n江東区新砂１－７－２４[MAP]\n3/11より受付開始※Web予約はこちら(ラブラッド会員)",
+        "address": "江東運転免許試験場\n江東区新砂１－７－２４[MAP]\n※Web予約はこちら(ラブラッド会員)",
         "location": {
           "lat": 35.668901,
           "lng": 139.822698
@@ -9896,8 +9533,8 @@
         "area": "墨田区",
         "address": "ＪＲ錦糸町駅南口\n墨田区江東橋３－１４－５[MAP]\n※状況により受付時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 35.696779,
-          "lng": 139.813972
+          "lat": 35.694129,
+          "lng": 139.814979
         },
         "reception_time": "10:00～11:3012:50～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
@@ -9940,8 +9577,8 @@
         "area": "葛飾区",
         "address": "ＪＲ亀有駅南口\n葛飾区亀有３－２６－１[MAP]\n※状況により受付時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 35.765764,
-          "lng": 139.847456
+          "lat": 35.766538,
+          "lng": 139.847533
         },
         "reception_time": "10:30～11:3013:00～16:30",
         "url": "https://www.bs.jrc.or.jp/ktks/tokyo/place/m1_03_kenbus.html",
@@ -9949,7 +9586,7 @@
       },
       {
         "area": "江東区",
-        "address": "日本赤十字社　辰巳ビル　正面玄関\n江東区辰巳２－１－６７[MAP]\n※状況により受付時間が前後する場合があります。\n3/15より受付開始※Web予約はこちら(ラブラッド会員)",
+        "address": "日本赤十字社　辰巳ビル　正面玄関\n江東区辰巳２－１－６７[MAP]\n※状況により受付時間が前後する場合があります。\n※Web予約はこちら(ラブラッド会員)",
         "location": {
           "lat": 35.64705,
           "lng": 139.813308
@@ -10097,28 +9734,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "横須賀市",
-        "address": "京急横須賀中央駅東口\n横須賀市若松町２－２５[MAP]\n ※400mL献血のご予約を受け付けております。\nご予約はこちら",
-        "location": {
-          "lat": 35.278699,
-          "lng": 139.67004
-        },
-        "reception_time": "10：00～11：30\n13：00～16：00",
-        "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "海老名市",
-        "address": "海老名中央公園　\n海老名市中央１－５－１[MAP]\n※諸事情により15日は受付開始時間が変更となっております。ご注意ください。\n平日に海老名中央公園にて400ml献血にご協力いただいた方に通常記念品ぷらす素敵な記念品をプレゼント♪\n ※400mL献血のご予約を受け付けております。\nご予約はこちら",
-        "location": {
-          "lat": 35.452336,
-          "lng": 139.393769
-        },
-        "reception_time": "11：00～12：0013：30～16：00",
-        "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
       {
         "area": "小田原市",
         "address": "文化堂印刷株式会社\n小田原市寿町１－１０－２０[MAP]",
@@ -10431,8 +10046,8 @@
         "area": "横浜市　　戸塚区",
         "address": "株式会社ミツバ\n横浜市戸塚区東俣野町１７６０[MAP]",
         "location": {
-          "lat": 36.394448,
-          "lng": 139.326602
+          "lat": 36.259599,
+          "lng": 138.90345
         },
         "reception_time": "10：00～12：00",
         "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
@@ -10563,8 +10178,8 @@
         "area": "秦野市",
         "address": "イオン　秦野店\n秦野市入船町１２－１[MAP]\n ※400mL献血のご予約を受け付けております。\nご予約はこちら",
         "location": {
-          "lat": 35.378559,
-          "lng": 139.228344
+          "lat": 35.377993,
+          "lng": 139.22833
         },
         "reception_time": "10：00～11：3013：00～16：00",
         "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
@@ -10640,8 +10255,8 @@
         "area": "相模原市　緑区",
         "address": "ＪＲ橋本駅北口\n相模原市緑区橋本[MAP]",
         "location": {
-          "lat": 35.594864,
-          "lng": 139.344922
+          "lat": 35.595984,
+          "lng": 139.34556
         },
         "reception_time": "10：00～12：0013：30～16：00",
         "url": "https://www.bs.jrc.or.jp/ktks/kanagawa/place/m1_03_index.html",
@@ -10781,44 +10396,11 @@
     ],
     "bus_list": [
       {
-        "area": "新潟県新潟市　江南区",
-        "address": "イオンモール新潟南\n新潟県新潟市江南区下早通柳田１－１－１[MAP]\n※予約実施会場です（ラブラッド会員限定）。\n　ご予約はこちらから！",
-        "location": {
-          "lat": 37.876223,
-          "lng": 139.081546
-        },
-        "reception_time": "10:00～11:4513:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
-        "date": "2021-03-13"
-      },
-      {
-        "area": "新潟県三条市",
-        "address": "イオン三条店\n新潟県三条市西裏館２－１２－２０[MAP]",
-        "location": {
-          "lat": 37.639537,
-          "lng": 138.95667
-        },
-        "reception_time": "10:00～12:1513:30～16:00",
-        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "新潟県新潟市　江南区",
-        "address": "イオンモール新潟南\n新潟県新潟市江南区下早通柳田１－１－１[MAP]\n※都合により、中止とさせていただきます。",
-        "location": {
-          "lat": 37.876223,
-          "lng": 139.081546
-        },
-        "reception_time": "",
-        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "新潟県小千谷市",
         "address": "小千谷市役所\n新潟県小千谷市城内２－７－５[MAP]",
         "location": {
-          "lat": 37.314331,
-          "lng": 138.795095
+          "lat": 37.314415,
+          "lng": 138.795158
         },
         "reception_time": "09:30～11:30",
         "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
@@ -10828,8 +10410,8 @@
         "area": "新潟県中魚沼郡　津南町",
         "address": "津南町保健センター\n新潟県中魚沼郡津南町大字下船渡丁２７９２[MAP]",
         "location": {
-          "lat": 37.016099,
-          "lng": 138.649086
+          "lat": 37.016109,
+          "lng": 138.649094
         },
         "reception_time": "14:00～16:00",
         "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
@@ -11010,6 +10592,347 @@
         "reception_time": "",
         "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
         "date": "2021-03-31"
+      },
+      {
+        "area": "新潟県南魚沼市",
+        "address": "南魚沼地域振興局\n新潟県南魚沼市六日町９６０[MAP]",
+        "location": {
+          "lat": 37.055964,
+          "lng": 138.871524
+        },
+        "reception_time": "14:00～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-02"
+      },
+      {
+        "area": "新潟県新発田市",
+        "address": "コモタウン（受付ＰＩＯ２１内）\n新潟県新発田市舟入町３－９－２３[MAP]",
+        "location": {
+          "lat": 37.957726,
+          "lng": 139.302452
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-04"
+      },
+      {
+        "area": "新潟県村上市",
+        "address": "村上プラザ\n新潟県村上市仲間町２００[MAP]",
+        "location": {
+          "lat": 38.22088,
+          "lng": 139.491368
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-04"
+      },
+      {
+        "area": "新潟県南魚沼市",
+        "address": "南魚沼市役所　本庁舎\n新潟県南魚沼市六日町１８０－１[MAP]",
+        "location": {
+          "lat": 37.065546,
+          "lng": 138.876039
+        },
+        "reception_time": "10:00～11:4513:00～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-05"
+      },
+      {
+        "area": "新潟県上越市",
+        "address": "イオン上越店\n新潟県上越市富岡３４５７[MAP]",
+        "location": {
+          "lat": 37.15278,
+          "lng": 138.258531
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-06"
+      },
+      {
+        "area": "新潟県五泉市",
+        "address": "原信　五泉店\n新潟県五泉市太田１１４２－１[MAP]",
+        "location": {
+          "lat": 37.743402,
+          "lng": 139.184058
+        },
+        "reception_time": "12:30～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-07"
+      },
+      {
+        "area": "新潟県新潟市　秋葉区",
+        "address": "新潟市　秋葉区役所\n新潟県新潟市秋葉区程島２００９[MAP]",
+        "location": {
+          "lat": 37.788125,
+          "lng": 139.114318
+        },
+        "reception_time": "09:30～11:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-08"
+      },
+      {
+        "area": "新潟県新潟市　江南区",
+        "address": "イオンモール新潟南\n新潟県新潟市江南区下早通柳田１－１－１[MAP]",
+        "location": {
+          "lat": 37.876223,
+          "lng": 139.081546
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-10"
+      },
+      {
+        "area": "新潟県三条市",
+        "address": "イオン三条店\n新潟県三条市西裏館２－１２－２０[MAP]",
+        "location": {
+          "lat": 37.639537,
+          "lng": 138.95667
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-11"
+      },
+      {
+        "area": "新潟県上越市",
+        "address": "柿崎区総合事務所\n新潟県上越市柿崎区柿崎６４０６[MAP]",
+        "location": {
+          "lat": 37.276612,
+          "lng": 138.390982
+        },
+        "reception_time": "10:00～11:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-13"
+      },
+      {
+        "area": "新潟県見附市",
+        "address": "見附市役所\n新潟県見附市学校町２－１３－３０[MAP]",
+        "location": {
+          "lat": 37.531603,
+          "lng": 138.912826
+        },
+        "reception_time": "09:00～10:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-14"
+      },
+      {
+        "area": "新潟県長岡市",
+        "address": "長岡市　越路支所\n新潟県長岡市浦７１５[MAP]",
+        "location": {
+          "lat": 37.394092,
+          "lng": 138.788686
+        },
+        "reception_time": "10:00～11:45",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-14"
+      },
+      {
+        "area": "新潟県上越市",
+        "address": "吉川保健センター\n新潟県上越市吉川区原之町１１２６[MAP]",
+        "location": {
+          "lat": 35.891159,
+          "lng": 139.841961
+        },
+        "reception_time": "10:00～11:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-15"
+      },
+      {
+        "area": "新潟県上越市",
+        "address": "浦川原コミュニティプラザ\n新潟県上越市浦川原区釜淵５[MAP]",
+        "location": {
+          "lat": 37.159472,
+          "lng": 138.428814
+        },
+        "reception_time": "13:30～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-15"
+      },
+      {
+        "area": "新潟県柏崎市",
+        "address": "柏崎市元気館\n柏崎市栄町１８－２６[MAP]",
+        "location": {
+          "lat": 37.375863,
+          "lng": 138.555062
+        },
+        "reception_time": "09:30～11:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-16"
+      },
+      {
+        "area": "新潟県柏崎市",
+        "address": "ＭＥＧＡ・ドン．キホーテ柏崎店\n新潟県柏崎市東長浜町４－１５[MAP]",
+        "location": {
+          "lat": 37.368154,
+          "lng": 138.579059
+        },
+        "reception_time": "10:00～12:0013:30～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-17"
+      },
+      {
+        "area": "新潟県上越市",
+        "address": "イオン上越店\n新潟県上越市富岡３４５７[MAP]",
+        "location": {
+          "lat": 37.15278,
+          "lng": 138.258531
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-18"
+      },
+      {
+        "area": "新潟県妙高市",
+        "address": "新井ショッピングセンター\n新潟県妙高市栗原４－７－１１[MAP]",
+        "location": {
+          "lat": 37.054293,
+          "lng": 138.261514
+        },
+        "reception_time": "10:00～12:0013:30～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-18"
+      },
+      {
+        "area": "新潟県新潟市　中央区",
+        "address": "新潟県庁\n新潟県新潟市中央区新光町４－１[MAP]",
+        "location": {
+          "lat": 37.902242,
+          "lng": 139.023511
+        },
+        "reception_time": "13:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-20"
+      },
+      {
+        "area": "新潟県新潟市　西蒲区",
+        "address": "新潟市　西蒲区役所\n新潟県新潟市西蒲区巻甲２６９０－１[MAP]",
+        "location": {
+          "lat": 37.760469,
+          "lng": 138.889292
+        },
+        "reception_time": "09:30～11:45",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-21"
+      },
+      {
+        "area": "新潟県上越市",
+        "address": "イオン上越店\n新潟県上越市富岡３４５７[MAP]",
+        "location": {
+          "lat": 37.15278,
+          "lng": 138.258531
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-25"
+      },
+      {
+        "area": "新潟県佐渡市",
+        "address": "佐渡中央会館\n新潟県佐渡市河原田本町３９４[MAP]",
+        "location": {
+          "lat": 37.998106,
+          "lng": 138.322405
+        },
+        "reception_time": "09:00～10:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-26"
+      },
+      {
+        "area": "新潟県佐渡市",
+        "address": "佐渡地域振興局\n新潟県佐渡市相川二町目浜町２０－１[MAP]",
+        "location": {
+          "lat": 38.030558,
+          "lng": 138.240642
+        },
+        "reception_time": "12:30～15:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-26"
+      },
+      {
+        "area": "新潟県佐渡市",
+        "address": "金井コミュニティセンター\n新潟県佐渡市千種２３２[MAP]",
+        "location": {
+          "lat": 38.018152,
+          "lng": 138.367509
+        },
+        "reception_time": "09:00～11:0012:30～15:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-27"
+      },
+      {
+        "area": "新潟県十日町市",
+        "address": "十日町地域消防本部\n新潟県十日町市四日町新田１０４１番地[MAP]",
+        "location": {
+          "lat": 37.14744,
+          "lng": 138.756561
+        },
+        "reception_time": "13:00～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-27"
+      },
+      {
+        "area": "新潟県十日町市",
+        "address": "十日町市総合体育館\n新潟県十日町市西本町１[MAP]",
+        "location": {
+          "lat": 37.141723,
+          "lng": 138.755913
+        },
+        "reception_time": "10:00～11:4513:00～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-27"
+      },
+      {
+        "area": "新潟県佐渡市",
+        "address": "佐渡市役所　両津支所\n新潟県佐渡市両津湊１９８[MAP]",
+        "location": {
+          "lat": 38.080449,
+          "lng": 138.434972
+        },
+        "reception_time": "13:30～14:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-28"
+      },
+      {
+        "area": "新潟県新潟市　中央区",
+        "address": "新潟県庁\n新潟県新潟市中央区新光町４－１[MAP]",
+        "location": {
+          "lat": 37.902242,
+          "lng": 139.023511
+        },
+        "reception_time": "09:30～11:4513:00～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-28"
+      },
+      {
+        "area": "新潟県南蒲原郡　田上町",
+        "address": "田上町総合保健福祉センター\n新潟県南蒲原郡田上町大字原ケ崎新田３０７０[MAP]",
+        "location": {
+          "lat": 37.698857,
+          "lng": 139.057993
+        },
+        "reception_time": "09:00～11:3013:30～15:30",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-29"
+      },
+      {
+        "area": "新潟県新潟市　中央区",
+        "address": "新潟県赤十字血液センター\n新潟県新潟市中央区美咲町１丁目６番１５号[MAP]",
+        "location": {
+          "lat": 37.895057,
+          "lng": 139.016692
+        },
+        "reception_time": "09:00～11:3013:00～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-30"
+      },
+      {
+        "area": "新潟県新潟市　江南区",
+        "address": "イオンモール新潟南\n新潟県新潟市江南区下早通柳田１－１－１[MAP]",
+        "location": {
+          "lat": 37.876223,
+          "lng": 139.081546
+        },
+        "reception_time": "10:00～12:0013:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/ktks/niigata/place/m1_03_bus_schedule.html",
+        "date": "2021-04-30"
       }
     ]
   },
@@ -11118,8 +11041,8 @@
         "area": "北杜市",
         "address": "北杜市【高根総合支所】\n山梨県北杜市高根町村山北割３２６１[MAP]\n【ゆるキャン△献血キャンペーン対象会場】\n詳細はこちら",
         "location": {
-          "lat": 35.837486,
-          "lng": 138.413391
+          "lat": 35.837351,
+          "lng": 138.413385
         },
         "reception_time": "9:30～11:30",
         "url": "https://www.bs.jrc.or.jp/ktks/yamanashi/place/m1_03_index.html",
@@ -11472,8 +11395,8 @@
         "area": "池田町",
         "address": "池田町総合福祉センター\n長野県北安曇郡池田町大字池田２００５－１[MAP]\n400mL献血限定",
         "location": {
-          "lat": 36.422578,
-          "lng": 137.879219
+          "lat": 36.422768,
+          "lng": 137.879204
         },
         "reception_time": "13:00～14:00",
         "url": "https://www.bs.jrc.or.jp/ktks/nagano/./place/m1_02_01_index.html",
@@ -11687,17 +11610,6 @@
     ],
     "bus_list": [
       {
-        "area": "金沢市",
-        "address": "金沢上堤町ビル(日本郵便㈱北陸支社)\n金沢市上堤町1-15[MAP]",
-        "location": {
-          "lat": 36.568565,
-          "lng": 136.654628
-        },
-        "reception_time": "13:00 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/tkhr/ishikawa/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "輪島市",
         "address": "輪島市役所 門前総合支所\n輪島市門前町走出6-69[MAP]",
         "location": {
@@ -11863,39 +11775,6 @@
     ],
     "bus_list": [
       {
-        "area": "鯖江市",
-        "address": "サンリーブ　本社\n福井県鯖江市杉本町１５－２２[MAP]",
-        "location": {
-          "lat": 35.678012,
-          "lng": 139.735597
-        },
-        "reception_time": "09:30～11:00",
-        "url": "https://www.bs.jrc.or.jp/tkhr/fukui/place/m1_02_sche.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "越前市",
-        "address": "南越合同庁舎\n福井県越前市上太田町４１－５[MAP]\n　　　　　\n【４００ｍＬ献血のみ受け付けます】",
-        "location": {
-          "lat": 35.903197,
-          "lng": 136.151161
-        },
-        "reception_time": "13:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/tkhr/fukui/place/m1_02_sche.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "福井市",
-        "address": "福井市役所\n福井県福井市大手３－１０－１[MAP]\n　　　　　\n【４００ｍＬ献血のみ受け付けます】\n Web予約 \n（前日17：00まで）",
-        "location": {
-          "lat": 36.064062,
-          "lng": 136.21954
-        },
-        "reception_time": "10:00～12:0013:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/tkhr/fukui/place/m1_02_sche.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "坂井市",
         "address": "坂井市役所春江支所\n福井県坂井市春江町随応寺１７－１０[MAP]\n　　　　　\n【４００ｍＬ献血のみ受け付けます】\n Web予約 \n（前日17：00まで）",
         "location": {
@@ -11974,7 +11853,7 @@
       },
       {
         "area": "南越前町",
-        "address": "南越前町役場\n福井県南条郡南越前町東大道２９－１[MAP]\n　　　　　\n【４００ｍＬ献血のみ受け付けます】",
+        "address": "南越前町役場\n福井県南条郡南越前町東大道２９－１[MAP]\n　　　　　\n【４００ｍＬ献血のみ受け付けます】\n Web予約 \n（前日17：00まで）",
         "location": {
           "lat": 35.834862,
           "lng": 136.194334
@@ -11985,7 +11864,7 @@
       },
       {
         "area": "越前市",
-        "address": "越前市役所\n福井県越前市府中１－１３－７[MAP]\n　　　　　\n【４００ｍＬ献血のみ受け付けます】",
+        "address": "越前市役所\n福井県越前市府中１－１３－７[MAP]\n　　　　　\n【４００ｍＬ献血のみ受け付けます】\n Web予約 \n（前日17：00まで）",
         "location": {
           "lat": 35.903891,
           "lng": 136.168804
@@ -12095,28 +11974,6 @@
     ],
     "bus_list": [
       {
-        "area": "岐阜市",
-        "address": "岐阜市木田環境事務所 \n岐阜県岐阜市木田５－５４[MAP]\n【400mL献血限定会場】",
-        "location": {
-          "lat": 35.452388,
-          "lng": 136.724346
-        },
-        "reception_time": "14:00～16:30",
-        "url": "https://www.bs.jrc.or.jp/tkhr/gifu/place/m1_03_bussc.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "養老町",
-        "address": "藤井ハウス産業㈱ \n岐阜県養老郡養老町押越１９７４[MAP]",
-        "location": {
-          "lat": 35.299665,
-          "lng": 136.563242
-        },
-        "reception_time": "9:30～11:30",
-        "url": "https://www.bs.jrc.or.jp/tkhr/gifu/place/m1_03_bussc.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "中津川市",
         "address": "中部電力パワーグリッド㈱中津川営業所\n岐阜県中津川市太田町２－１－１７[MAP]",
         "location": {
@@ -12165,7 +12022,7 @@
         "address": "めぐみの農業協同組合本店\n岐阜県関市若草通１－１[MAP]",
         "location": {
           "lat": 35.496835,
-          "lng": 136.913978
+          "lng": 136.913976
         },
         "reception_time": "13:30～16:00",
         "url": "https://www.bs.jrc.or.jp/tkhr/gifu/place/m1_03_bussc.html",
@@ -12186,8 +12043,8 @@
         "area": "岐南町",
         "address": "岐阜ダイハツ販売㈱本社\n岐阜県岐阜市手力町２番１２号[MAP]\n※駐車場はございませんので、公共交通機関をご利用ください。",
         "location": {
-          "lat": 35.41468,
-          "lng": 136.770367
+          "lat": 35.392236,
+          "lng": 136.797748
         },
         "reception_time": "9:30～11:30",
         "url": "https://www.bs.jrc.or.jp/tkhr/gifu/place/m1_03_bussc.html",
@@ -12285,8 +12142,8 @@
         "area": "郡上市",
         "address": "郡上市役所白鳥庁舎\n岐阜県郡上市白鳥町白鳥３８－１[MAP]\n【400mL献血限定会場】\n　\n・Web予約可\n予約をご希望される方はラブラッドからお願いします。\n（会員登録が必要です）\n※Web予約は開催日の前日17:00まで承っています。",
         "location": {
-          "lat": 35.881777,
-          "lng": 136.859241
+          "lat": 35.881791,
+          "lng": 136.859481
         },
         "reception_time": "10:00～11:3013:00～16:00",
         "url": "https://www.bs.jrc.or.jp/tkhr/gifu/place/m1_03_bussc.html",
@@ -12384,7 +12241,7 @@
         "area": "羽島市",
         "address": "正木コミュニティセンター \n岐阜県羽島市正木町坂丸４－54－2[MAP]",
         "location": {
-          "lat": 35.329218,
+          "lat": 35.329173,
           "lng": 136.731038
         },
         "reception_time": "9:00～12:0013:15～15:00",
@@ -12395,8 +12252,8 @@
         "area": "可児市",
         "address": "可児工業団地組合会館 \n岐阜県可児市姫ヶ丘２－８[MAP]",
         "location": {
-          "lat": 35.407221,
-          "lng": 137.046303
+          "lat": 35.407128,
+          "lng": 137.04631
         },
         "reception_time": "9:30～11:3012:30～16:00",
         "url": "https://www.bs.jrc.or.jp/tkhr/gifu/place/m1_03_bussc.html",
@@ -12417,8 +12274,8 @@
         "area": "笠松町",
         "address": "笠松刑務所 　\n岐阜県羽島郡笠松町中川町２３[MAP]\n※駐車場はございませんので、公共交通機関をご利用ください。",
         "location": {
-          "lat": 35.372994,
-          "lng": 136.756814
+          "lat": 35.372998,
+          "lng": 136.756805
         },
         "reception_time": "9:00～12:00",
         "url": "https://www.bs.jrc.or.jp/tkhr/gifu/place/m1_03_bussc.html",
@@ -12683,8 +12540,8 @@
         "area": "牧之原市",
         "address": "スーパーラック相良店\n静岡県牧之原市波津３－５１[MAP]\n主催：榛南ライオンズクラブ",
         "location": {
-          "lat": 34.686731,
-          "lng": 138.190576
+          "lat": 34.686867,
+          "lng": 138.190533
         },
         "reception_time": "9：30～12：15\n13：30～16：00",
         "url": "https://www.bs.jrc.or.jp/tkhr/shizuoka/place/m1_03_index.html",
@@ -12705,8 +12562,8 @@
         "area": "浜松市 北区",
         "address": "細江警察署\n静岡県浜松市北区細江町気賀２０７[MAP]",
         "location": {
-          "lat": 34.805962,
-          "lng": 137.649421
+          "lat": 34.805903,
+          "lng": 137.649477
         },
         "reception_time": "9：15～10：45",
         "url": "https://www.bs.jrc.or.jp/tkhr/shizuoka/place/m1_03_index.html",
@@ -13112,7 +12969,7 @@
         "area": "富士市",
         "address": "富士市役所\n静岡県富士市永田町１－１００[MAP]\n※Web予約実施中。ご予約はこちら",
         "location": {
-          "lat": 35.161458,
+          "lat": 35.161459,
           "lng": 138.67624
         },
         "reception_time": "9：30～12：00\n13：15～16：00",
@@ -13156,8 +13013,8 @@
         "area": "藤枝市",
         "address": "ＪＡおおいがわ　岡部支店\n静岡県藤枝市岡部町内谷６４６－１[MAP]",
         "location": {
-          "lat": 34.906817,
-          "lng": 138.280848
+          "lat": 34.906792,
+          "lng": 138.280761
         },
         "reception_time": "15：15～16：30",
         "url": "https://www.bs.jrc.or.jp/tkhr/shizuoka/place/m1_03_index.html",
@@ -13291,17 +13148,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "天白区",
-        "address": "愛知県警察運転免許試験場\n天白区平針南3-605[MAP]\n※400ｍL献血のみの受付となります。\n途中で昼休憩をいただきます。駐車場はございません。都合により中止する場合がございますので、ご了承ください。",
-        "location": {
-          "lat": 35.107272,
-          "lng": 137.006215
-        },
-        "reception_time": "9:30~15:30",
-        "url": "https://www.bs.jrc.or.jp/tkhr/aichi/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
       {
         "area": "天白区",
         "address": "愛知県警察運転免許試験場\n天白区平針南3-605[MAP]\n※400ｍL献血のみの受付となります。\n途中で昼休憩をいただきます。駐車場はございません。都合により中止する場合がございますので、ご了承ください。",
@@ -13482,8 +13328,8 @@
         "area": "長久手市",
         "address": "イオンモール長久手　４階イオンホール\n長久手市長久手中央土地区画整理事業地内５・１０・１１街区[MAP]\n※400ｍL献血のみの受付となります。\n12:00～13:30昼休憩をいただく予定です。(状況により30分前後することもあります。）\n午前の部（10:00～12:00）はご予約の方限定になります。（コロナ感染症対策のため）\n※ご予約は、献血Web会員サービス「ラブラッド」にてお受けしております。\n予約をご希望される方はこちらからお願いします。\n（会員登録が必要です）\n※Web予約は開催日の前日17:00まで承っています。\n当日参加ご希望の方は午後の部（13:30～16:30）のご参加をよろしくお願いいたします。",
         "location": {
-          "lat": 35.173457,
-          "lng": 137.050418
+          "lat": 35.60456085205078,
+          "lng": 140.12310791015625
         },
         "reception_time": "10:00~16:30",
         "url": "https://www.bs.jrc.or.jp/tkhr/aichi/place/m1_03_index.html",
@@ -13878,17 +13724,6 @@
     "bus_list": [
       {
         "area": "四日市市",
-        "address": "三重県四日市庁舎\n[MAP]",
-        "location": {
-          "lat": 34.954364,
-          "lng": 136.614106
-        },
-        "reception_time": "9：30～11：30",
-        "url": "https://www.bs.jrc.or.jp/tkhr/mie/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "四日市市",
         "address": "四日市市役所\n[MAP]",
         "location": {
           "lat": 34.9651,
@@ -13996,6 +13831,28 @@
         "reception_time": "10：00～12：0013：30～16：00",
         "url": "https://www.bs.jrc.or.jp/tkhr/mie/place/m1_03_index.html",
         "date": "2021-03-28"
+      },
+      {
+        "area": "伊賀市",
+        "address": "伊賀市役所\n[MAP]",
+        "location": {
+          "lat": 34.749548,
+          "lng": 136.142165
+        },
+        "reception_time": "9：30～11：3013：00～16：00",
+        "url": "https://www.bs.jrc.or.jp/tkhr/mie/place/m1_03_index.html",
+        "date": "2021-03-30"
+      },
+      {
+        "area": "鈴鹿市",
+        "address": "鈴鹿ハンター\n[MAP]",
+        "location": {
+          "lat": 34.873459,
+          "lng": 136.54639
+        },
+        "reception_time": "10：00～11：3013：00～16：30",
+        "url": "https://www.bs.jrc.or.jp/tkhr/mie/place/m1_03_index.html",
+        "date": "2021-03-30"
       }
     ]
   },
@@ -14109,8 +13966,8 @@
         "area": "滋賀県東近江市",
         "address": "東近江市役所\n滋賀県東近江市八日市緑町１０ー５[MAP]\n受付時間は状況により変更する場合がございます。",
         "location": {
-          "lat": 35.112606,
-          "lng": 136.20759
+          "lat": 35.11272,
+          "lng": 136.207608
         },
         "reception_time": "09:30～11:3013:00～15:30",
         "url": "https://www.bs.jrc.or.jp/kk/shiga/place/m1_03_index.html",
@@ -14450,8 +14307,8 @@
         "area": "滋賀県彦根市",
         "address": "株式会社平和堂本部\n滋賀県彦根市西今町１番地[MAP]\n受付時間は状況により変更する場合がございます。",
         "location": {
-          "lat": 35.673203,
-          "lng": 139.774825
+          "lat": 35.243543,
+          "lng": 136.24733
         },
         "reception_time": "09:30～12:0013:00～15:30\n(400mL献血限定)",
         "url": "https://www.bs.jrc.or.jp/kk/shiga/place/m1_03_index.html",
@@ -14771,8 +14628,8 @@
         "area": "綾部市",
         "address": "バザールタウン綾部ストック館\n京都府綾部市西町3丁目北大坪1-2[MAP]\n400mL献血のみ受付",
         "location": {
-          "lat": 35.302626,
-          "lng": 135.256689
+          "lat": 35.302652,
+          "lng": 135.256435
         },
         "reception_time": "9:30～12:0013:00～16:00",
         "url": "https://www.bs.jrc.or.jp/kk/kyoto/place/m1_03_index.html",
@@ -14837,8 +14694,8 @@
         "area": "京田辺市",
         "address": "京都府山城北保健所 綴喜分室\n京都府京田辺市田辺明田1[MAP]\n200mL献血の受付は1名まで",
         "location": {
-          "lat": 34.822921,
-          "lng": 135.770054
+          "lat": 34.822912,
+          "lng": 135.769834
         },
         "reception_time": "9:45～11:45",
         "url": "https://www.bs.jrc.or.jp/kk/kyoto/place/m1_03_index.html",
@@ -15221,7 +15078,7 @@
       },
       {
         "name": "御堂筋献血ルーム CROSS CAFÉ",
-        "address": "〒542-0086\n大阪市中央区西心斎橋1-4-5　\n御堂筋ビル地下1階※大阪メトロ心斎橋駅から御堂筋献血ルームへの行き方はこちら（音楽が流れます）\n[MAP]",
+        "address": "〒542-0086\n大阪市中央区西心斎橋1-4-5　\n御堂筋ビル地下1階\n[MAP]",
         "location": {
           "lat": 34.672945,
           "lng": 135.499936
@@ -15306,39 +15163,6 @@
     ],
     "bus_list": [
       {
-        "area": "大阪府大阪市　都島区",
-        "address": "京橋駅前広場\n大阪府大阪市都島区東野田町２－１[MAP]\n◆学生キャンペーン実施会場◆　詳しくは　→　\n◆トミカ引換会場◆\n※引換には引換券（配付終了）とWeb予約が必要です。 ◆Web予約◆\n ラブラッド会員の方はラブラッドサイトからご予約可能です。\n骨髄ドナー登録会あり\n　　　（献血受付時間終了の15分前まで受付）",
-        "location": {
-          "lat": 34.69669,
-          "lng": 135.533912
-        },
-        "reception_time": "10:00～12:3013:30～16:30\n400mL献血限定",
-        "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "大阪府池田市",
-        "address": "ダイエー池田駅前店\n大阪府池田市満寿美町２－２[MAP]\n◆トミカ引換会場◆\n※引換には引換券（配付終了）とWeb予約が必要です。 ◆Web予約◆\n ラブラッド会員の方はラブラッドサイトからご予約可能です。\n骨髄ドナー登録会あり\n　　　（献血受付時間終了の15分前まで受付）",
-        "location": {
-          "lat": 34.820832,
-          "lng": 135.426115
-        },
-        "reception_time": "10:00～12:0013:00～16:30\n400mL献血限定\n※ライオンズクラブ",
-        "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "大阪府茨木市",
-        "address": "大阪府赤十字血液センター北大阪事業所\n大阪府茨木市宮島２－１－１５[MAP]",
-        "location": {
-          "lat": 34.682195,
-          "lng": 135.538179
-        },
-        "reception_time": "9:30～11:00\n400mL献血限定",
-        "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "大阪府八尾市",
         "address": "近鉄八尾駅前（噴水前広場）\n大阪府八尾市光町１－５０７[MAP]\n◆トミカ引換会場◆\n※引換には引換券（配付終了）とWeb予約が必要です。 ◆Web予約◆\n ラブラッド会員の方はラブラッドサイトからご予約可能です。",
         "location": {
@@ -15397,8 +15221,8 @@
         "area": "大阪府東大阪市",
         "address": "近鉄布施駅北側バスロータリー　\n大阪府東大阪市長堂１丁目[MAP]\n◆学生キャンペーン実施会場◆　詳しくは　→　\n◆トミカ引換会場◆\n※引換には引換券（配付終了）とWeb予約が必要です。 ◆Web予約◆\n ラブラッド会員の方はラブラッドサイトからご予約可能です。",
         "location": {
-          "lat": 34.664166,
-          "lng": 135.563666
+          "lat": 34.664082,
+          "lng": 135.563416
         },
         "reception_time": "14:00～16:30\n400mL献血限定",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
@@ -15496,8 +15320,8 @@
         "area": "大阪府岸和田市",
         "address": "ＫＮ村田産業㈱\n大阪府岸和田市松風町１１－２[MAP]\n受付：２階食堂",
         "location": {
-          "lat": 34.487281,
-          "lng": 135.382542
+          "lat": 34.487335,
+          "lng": 135.382423
         },
         "reception_time": "13:30～16:30\n400mL献血限定",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
@@ -15513,6 +15337,17 @@
         "reception_time": "09:30～11:30\n400mL献血限定",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
         "date": "2021-03-17"
+      },
+      {
+        "area": "大阪府堺市　北区",
+        "address": "イオンモール堺北花田\n大阪府堺市北区東浅香山町４－１－１２[MAP]",
+        "location": {
+          "lat": 34.584548,
+          "lng": 135.515011
+        },
+        "reception_time": "10:00～12:0013:00～16:30\n400mL献血限定",
+        "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
+        "date": "2021-03-18"
       },
       {
         "area": "大阪府堺市",
@@ -15639,8 +15474,8 @@
         "area": "大阪府東大阪市",
         "address": "近鉄布施駅北側バスロータリー\n大阪府東大阪市長堂１丁目[MAP]",
         "location": {
-          "lat": 34.664166,
-          "lng": 135.563666
+          "lat": 34.664082,
+          "lng": 135.563416
         },
         "reception_time": "14:00～16:30\n400mL献血限定",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
@@ -16046,8 +15881,8 @@
         "area": "大阪府吹田市",
         "address": "株式会社ビケンテクノ\n大阪府吹田市南金田２－１２－１[MAP]",
         "location": {
-          "lat": 35.623508,
-          "lng": 139.749317
+          "lat": 34.755309,
+          "lng": 135.505498
         },
         "reception_time": "10:00～12:0013:00～16:00\n400mL献血限定",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
@@ -16167,8 +16002,8 @@
         "area": "大阪府枚方市",
         "address": "京阪樟葉駅前\n大阪府枚方市樟葉花園町１５[MAP]",
         "location": {
-          "lat": 34.861979,
-          "lng": 135.675372
+          "lat": 34.861418,
+          "lng": 135.675457
         },
         "reception_time": "14:00～16:30\n400mL献血限定",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
@@ -16266,8 +16101,8 @@
         "area": "大阪府堺市　中区",
         "address": "アンディイズミヤ泉北店\n大阪府堺市中区小阪２７０[MAP]\n◆トミカ引換会場◆\n※引換には引換券（配付終了）とWeb予約が必要です。 ◆Web予約◆\n ラブラッド会員の方はラブラッドサイトからご予約可能です。\n骨髄ドナー登録会あり\n　　　（献血受付時間終了の15分前まで受付）",
         "location": {
-          "lat": 34.521686,
-          "lng": 135.492936
+          "lat": 34.521667,
+          "lng": 135.492778
         },
         "reception_time": "10:00～16:30\n400mL献血限定\n※ライオンズクラブ",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
@@ -16365,8 +16200,8 @@
         "area": "大阪府枚方市",
         "address": "京阪樟葉駅前\n大阪府枚方市楠葉花園町１５[MAP]\n◆学生キャンペーン実施会場◆　詳しくは　→　\n◆トミカ引換会場◆\n※引換には引換券（配付終了）とWeb予約が必要です。 ◆Web予約◆\n ラブラッド会員の方はラブラッドサイトからご予約可能です。",
         "location": {
-          "lat": 34.861979,
-          "lng": 135.675372
+          "lat": 34.861418,
+          "lng": 135.675457
         },
         "reception_time": "10:00～16:30\n400mL献血限定",
         "url": "https://www.bs.jrc.or.jp/kk/osaka/place/m1_03_search.html",
@@ -16632,28 +16467,6 @@
     ],
     "bus_list": [
       {
-        "area": "三木市",
-        "address": "三木工場公園ともえ会館\n三木市別所町巴５８[MAP]",
-        "location": {
-          "lat": 34.787273,
-          "lng": 134.952744
-        },
-        "reception_time": "09:30～16:00",
-        "url": "https://www.bs.jrc.or.jp/kk/hyogo/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "豊岡市",
-        "address": "豊岡市但東庁舎\n豊岡市但東町出合１５０[MAP]\n　400mL献血のみweb予約可",
-        "location": {
-          "lat": 35.470549,
-          "lng": 134.950007
-        },
-        "reception_time": "10:00～11:4513:00～15:30",
-        "url": "https://www.bs.jrc.or.jp/kk/hyogo/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "豊岡市",
         "address": "コープデイズ豊岡\n豊岡市加広町７－３２[MAP]",
         "location": {
@@ -16723,8 +16536,8 @@
         "area": "養父市",
         "address": "大屋地域局\n養父市大屋町大屋市場２０－１[MAP]",
         "location": {
-          "lat": 35.333372,
-          "lng": 134.665269
+          "lat": 35.333373,
+          "lng": 134.665302
         },
         "reception_time": "09:30～11:30",
         "url": "https://www.bs.jrc.or.jp/kk/hyogo/place/m1_03_index.html",
@@ -16864,7 +16677,7 @@
       },
       {
         "area": "姫路市",
-        "address": "イオンモール姫路大津\n姫路市大津区大津町２－５[MAP]\n400mL献血のみ受付",
+        "address": "イオンモール姫路大津\n姫路市大津区大津町２－５[MAP]\n400mL献血のみ受付\n　400mL献血のみweb予約可",
         "location": {
           "lat": 34.806532,
           "lng": 134.606683
@@ -16877,8 +16690,8 @@
         "area": "加古川市",
         "address": "加古川市環境美化センター\n加古川市野口町水足１４５２[MAP]\n400mL献血のみ受付",
         "location": {
-          "lat": 34.770744,
-          "lng": 134.863843
+          "lat": 34.770788,
+          "lng": 134.863784
         },
         "reception_time": "09:30～12:00",
         "url": "https://www.bs.jrc.or.jp/kk/hyogo/place/m1_03_index.html",
@@ -16886,7 +16699,7 @@
       },
       {
         "area": "姫路市",
-        "address": "イオンモール姫路リバーシティー\n姫路市飾磨区細江２５６０[MAP]\n400mL献血のみ受付",
+        "address": "イオンモール姫路リバーシティー\n姫路市飾磨区細江２５６０[MAP]\n400mL献血のみ受付\n　400mL献血のみweb予約可",
         "location": {
           "lat": 34.79853,
           "lng": 134.668243
@@ -16919,7 +16732,7 @@
       },
       {
         "area": "宍粟市",
-        "address": "咲ランド・イオン山崎店\n宍粟市山崎町中井７－４[MAP]\n400mL献血のみ受付",
+        "address": "咲ランド・イオン山崎店\n宍粟市山崎町中井７－４[MAP]\n400mL献血のみ受付\n　400mL献血のみweb予約可",
         "location": {
           "lat": 35.002249,
           "lng": 134.543416
@@ -16963,7 +16776,7 @@
       },
       {
         "area": "宍粟市",
-        "address": "宍粟市役所\n宍粟市山崎町中広瀬１３３－６[MAP]",
+        "address": "宍粟市役所\n宍粟市山崎町中広瀬１３３－６[MAP]\n　400mL献血のみweb予約可",
         "location": {
           "lat": 35.004386,
           "lng": 134.549438
@@ -17007,7 +16820,7 @@
       },
       {
         "area": "赤穂市",
-        "address": "赤穂市役所前\n赤穂市加里屋８１[MAP]",
+        "address": "赤穂市役所前\n赤穂市加里屋８１[MAP]\n　400mL献血のみweb予約可",
         "location": {
           "lat": 34.755721,
           "lng": 134.3896
@@ -17241,8 +17054,8 @@
         "area": "天理市",
         "address": "天理教庁南門前輸送部事務所前\n天理市三島町４８２－５[MAP]",
         "location": {
-          "lat": 34.601344,
-          "lng": 135.837784
+          "lat": 34.60098,
+          "lng": 135.843244
         },
         "reception_time": "10:00～11:3012:30～16:00",
         "url": "https://www.bs.jrc.or.jp/kk/nara/place/m1_03_index.html",
@@ -17736,8 +17549,8 @@
         "area": "和歌山県日高郡　みなべ町",
         "address": "株式会社　梅一番井口\n和歌山県日高郡みなべ町西本庄１２２４[MAP]",
         "location": {
-          "lat": 33.807914,
-          "lng": 135.330304
+          "lat": 33.807887,
+          "lng": 135.330402
         },
         "reception_time": "12:30～14:00",
         "url": "https://www.bs.jrc.or.jp/kk/wakayama/place/m1_03_index.html",
@@ -18055,8 +17868,8 @@
         "area": "和歌山県紀の川市",
         "address": "ＭＥＧＡドン・キホーテ紀の川店\n和歌山県紀の川市打田１３６３[MAP]\n⇨Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 34.261763,
-          "lng": 135.364846
+          "lat": 34.261642,
+          "lng": 135.364853
         },
         "reception_time": "10:00～12:0013:00～16:30",
         "url": "https://www.bs.jrc.or.jp/kk/wakayama/place/m1_03_index.html",
@@ -18121,8 +17934,8 @@
         "area": "和歌山県伊都郡　かつらぎ町",
         "address": "かつらぎ町保健福祉センター\n和歌山県伊都郡かつらぎ町大字丁ノ町２１４８－１[MAP]\n⇨Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 34.295682,
-          "lng": 135.504378
+          "lat": 34.296409,
+          "lng": 135.503697
         },
         "reception_time": "10:00～12:30",
         "url": "https://www.bs.jrc.or.jp/kk/wakayama/place/m1_03_index.html",
@@ -18242,8 +18055,8 @@
         "area": "和歌山県紀の川市",
         "address": "株式会社松源　粉河店\n和歌山県紀の川市粉河７８５番地[MAP]\n⇨Web予約はこちら(ラブラッド会員)",
         "location": {
-          "lat": 34.269296,
-          "lng": 135.404831
+          "lat": 34.269268,
+          "lng": 135.405014
         },
         "reception_time": "13:00～15:00",
         "url": "https://www.bs.jrc.or.jp/kk/wakayama/place/m1_03_index.html",
@@ -18394,7 +18207,7 @@
           "lng": 134.215355
         },
         "phone": "(0857)24-8101",
-        "reception_time": "【成分献血】\n\n\t\t\t\t\t\t\t\t9：00～16：00 （7/1以降　9：00～12：30、13：30～16：00）\n\t\t\t\t\t\t\t\n【400・200mL】\n\n\t\t\t\t\t\t\t\t9：00～16：45（7/1以降　9：00～12：30、13：30～16：45）",
+        "reception_time": "【成分献血】\n\n\t\t\t\t\t\t\t\t9：00～12：30、13：30～16：00\n\t\t\t\t\t\t\t\n【400・200mL】\n\n\t\t\t\t\t\t\t\t9：00～12：30、13：30～16：45",
         "regular_holiday": "土曜日、木曜日　＊水・金・日曜日については祝祭日の場合も開所します",
         "url": "https://www.bs.jrc.or.jp/csk/tottori/place/m1_01_01_index.html"
       },
@@ -18590,7 +18403,7 @@
       },
       {
         "area": "松江市",
-        "address": "松江赤十字病院\n〒690-0886 島根県松江市母衣町２００[MAP]\n※松江葵ライオンズクラブ後援",
+        "address": "松江赤十字病院\n〒690-0886 島根県松江市母衣町２００[MAP]\n※松江葵ライオンズクラブ後援\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 35.470998,
           "lng": 133.057051
@@ -18601,7 +18414,7 @@
       },
       {
         "area": "松江市",
-        "address": "ミック\n〒690-0826 島根県松江市学園南２丁目１０−10番14号 タイムプラザビル 1F[MAP]\n※松江湖城ライオンズクラブ後援",
+        "address": "ミック\n〒690-0826 島根県松江市学園南２丁目１０−10番14号 タイムプラザビル 1F[MAP]\n※松江湖城ライオンズクラブ後援\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 35.688785,
           "lng": 139.711043
@@ -18623,7 +18436,7 @@
       },
       {
         "area": "浜田市",
-        "address": "ＪＡしまね　いわみ中央地区本部\n〒697-0024 島根県浜田市黒川町３７４１[MAP]\n※骨髄バンクドナー登録会同時開催",
+        "address": "ＪＡしまね　いわみ中央地区本部\n〒697-0024 島根県浜田市黒川町３７４１[MAP]\n※骨髄バンクドナー登録会同時開催\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 34.900614,
           "lng": 132.093994
@@ -18634,7 +18447,7 @@
       },
       {
         "area": "江津市",
-        "address": "江津市桜江総合センター\n〒699-4226 島根県江津市桜江町川戸11－1[MAP]\n※桜江ライオンズクラブ後援\n※骨髄バンクドナー登録会同時開催",
+        "address": "江津市桜江総合センター\n〒699-4226 島根県江津市桜江町川戸11－1[MAP]\n※桜江ライオンズクラブ後援\n※骨髄バンクドナー登録会同時開催\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 34.958216,
           "lng": 132.335502
@@ -18645,7 +18458,7 @@
       },
       {
         "area": "江津市",
-        "address": "江津市役所\n〒695-8501 島根県江津市江津町１５２５[MAP]",
+        "address": "江津市役所\n〒695-8501 島根県江津市江津町１５２５[MAP]\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 35.011219,
           "lng": 132.221076
@@ -18656,7 +18469,7 @@
       },
       {
         "area": "川本町",
-        "address": "島根県川本合同庁舎\n〒696-0001 島根県邑智郡川本町川本２６５−３[MAP]\n※骨髄バンクドナー登録会同時開催",
+        "address": "島根県川本合同庁舎\n〒696-0001 島根県邑智郡川本町川本２６５−３[MAP]\n※骨髄バンクドナー登録会同時開催\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 34.995518,
           "lng": 132.496077
@@ -18667,7 +18480,7 @@
       },
       {
         "area": "大田市",
-        "address": "イオン大田店\n694-0044   島根県大田市長久町土江97[MAP]\n※大田ライオンズクラブ後援",
+        "address": "イオン大田店\n694-0044   島根県大田市長久町土江97[MAP]\n※大田ライオンズクラブ後援\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 35.199044,
           "lng": 132.48056
@@ -18678,7 +18491,7 @@
       },
       {
         "area": "出雲市",
-        "address": "ゆめタウン出雲\n〒693-0063 島根県出雲市大塚町６５０−１[MAP]",
+        "address": "ゆめタウン出雲【受付場所：１階西側出入口付近】\n〒693-0063 島根県出雲市大塚町６５０−１[MAP]\n \n ※献血できた方に\n ・使い捨てカイロ３枚\n ・ポッキー１箱＆プリッツ１箱\n  全部まとめて差し上げます！\n\n  全国的な新型コロナウイルス感染症の拡大の影響で、\n  ご協力を頂くのが難しい状況が続いております。\n  温かいご協力をよろしくお願いいたします。\n\n※Web予約はこちらから！キャンペーン実施中につきご予約いただいて献血された方には記念品を差し上げます！",
         "location": {
           "lat": 35.376993,
           "lng": 132.754284
@@ -18745,17 +18558,6 @@
     "bus_list": [
       {
         "area": "総社市",
-        "address": "総社市保健センター\n総社市中央１－１－３[MAP]\n・Webからのご予約はこちらから\n（前日17：00まで） \n・電話での予約はこちらの番号から\n　0120-256-639（平日8：30～17：00）",
-        "location": {
-          "lat": 34.672821,
-          "lng": 133.746578
-        },
-        "reception_time": "10:00～11:30\n12:45～16:00",
-        "url": "https://www.bs.jrc.or.jp/csk/okayama/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "総社市",
         "address": "テクノパーク総社\n総社市赤浜５５０[MAP]\n・Webからのご予約はこちらから\n（前日17：00まで） \n・電話での予約はこちらの番号から\n　0120-256-639（平日8：30～17：00）",
         "location": {
           "lat": 34.680853,
@@ -18813,8 +18615,8 @@
         "area": "和気町",
         "address": "和気町佐伯庁舎（佐伯中央公民館）\n和気町矢田３０５[MAP]\n・Webからのご予約はこちらから\n（前日17：00まで） \n・電話での予約はこちらの番号から\n　0120-256-639（平日8：30～17：00）",
         "location": {
-          "lat": 34.799633,
-          "lng": 134.1534
+          "lat": 34.849727,
+          "lng": 134.097859
         },
         "reception_time": "11:10～12:00",
         "url": "https://www.bs.jrc.or.jp/csk/okayama/place/m1_03_index.html",
@@ -18956,8 +18758,8 @@
         "area": "倉敷市",
         "address": "東中国スズキ自動車\n倉敷市沖８－１[MAP]\n・Webからのご予約はこちらから\n（前日17：00まで） \n・電話での予約はこちらの番号から\n　0120-256-639（平日8：30～17：00）",
         "location": {
-          "lat": 34.720839,
-          "lng": 134.045006
+          "lat": 34.65677,
+          "lng": 133.921799
         },
         "reception_time": "9:00～10:30",
         "url": "https://www.bs.jrc.or.jp/csk/okayama/place/m1_03_index.html",
@@ -19159,24 +18961,9 @@
         "reception_time": "【成分献血】\n\n\t\t\t\t\t\t\t\t平日…10：30～13：30、15：00～18：30土日祝日…10：30～18：30\n\t\t\t\t\t\t\t\n【400・200mL】\n\n\t\t\t\t\t\t\t\t平日…10：30～13：30、15：00～18：30土日祝日…10：30～18：30",
         "regular_holiday": "なし",
         "url": "https://www.bs.jrc.or.jp/csk/hiroshima/place/m1_01_02_index.html"
-      },
-      {
-        "name": "献血ルーム「ばら」閉所のお知らせ",
-        "url": "https://www.bs.jrc.or.jp/csk/hiroshima/place/m1_01_03_index.html"
       }
     ],
     "bus_list": [
-      {
-        "area": "西区",
-        "address": "広島ミクシスビル（予約優先）\n広島市西区草津新町１－２１－３５[MAP]\n電話予約はフリーダイヤル 0120-150-554（平日 8：30～17：30）\nWebからのご予約はこちらから（前日17：00まで）",
-        "location": {
-          "lat": 34.39659881591797,
-          "lng": 132.4583282470703
-        },
-        "reception_time": "14：00～16：30",
-        "url": "https://www.bs.jrc.or.jp/csk/hiroshima/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
       {
         "area": "庄原市",
         "address": "庄原市役所東城支所（予約優先）\n庄原市東城町川東１１７５[MAP]\n電話予約はフリーダイヤル 0120-150-554（平日 8：30～17：30）\nWebからのご予約はこちらから（前日17：00まで）",
@@ -19247,8 +19034,8 @@
         "area": "東区",
         "address": "スパーク中山店（予約優先）\n東区中山東２－３－１５[MAP]\n電話予約はフリーダイヤル 0120-150-554（平日 8：30～17：30）\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
-          "lat": 34.409483,
-          "lng": 132.503756
+          "lat": 34.409286,
+          "lng": 132.50386
         },
         "reception_time": "10：00～13：0014：15～16：00",
         "url": "https://www.bs.jrc.or.jp/csk/hiroshima/place/m1_03_index.html",
@@ -19355,12 +19142,12 @@
       },
       {
         "area": "三原市",
-        "address": "興生総合病院（予約優先）\n三原市円一町２－５－１[MAP]\n電話予約はフリーダイヤル 0120-150-554（平日 8：30～17：30）\nWebからのご予約はこちらから（前日17：00まで）",
+        "address": "興生総合病院(中止)\n三原市円一町２－５－１[MAP]",
         "location": {
           "lat": 34.392514,
           "lng": 133.077124
         },
-        "reception_time": "10：00～11：0012：00～16：00",
+        "reception_time": "諸事情により中止となりました。",
         "url": "https://www.bs.jrc.or.jp/csk/hiroshima/place/m1_03_index.html",
         "date": "2021-03-25"
       },
@@ -19390,8 +19177,8 @@
         "area": "尾道市",
         "address": "ええじゃん尾道・尾道店（予約優先）\n広島県尾道市東尾道13-1[MAP]\n電話予約はフリーダイヤル 0120-150-554（平日 8：30～17：30）\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
-          "lat": 34.42482,
-          "lng": 133.234504
+          "lat": 34.424747,
+          "lng": 133.234699
         },
         "reception_time": "09：30～12：0013：00～16：00",
         "url": "https://www.bs.jrc.or.jp/csk/hiroshima/place/m1_03_index.html",
@@ -19533,8 +19320,8 @@
         "area": "山口市",
         "address": "国保連合会（国保会館）\n山口県山口市朝田１９８０－７[MAP]\n【400ｍＬ献血限定】",
         "location": {
-          "lat": 35.64262,
-          "lng": 138.587301
+          "lat": 35.178158,
+          "lng": 136.913306
         },
         "reception_time": "13:30～16:00",
         "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
@@ -19548,17 +19335,6 @@
           "lng": 131.392267
         },
         "reception_time": "10:00～12:00\n13:15～16:00",
-        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
-        "date": "2021-03-16"
-      },
-      {
-        "area": "上関町",
-        "address": "上関町総合文化センター\n山口県熊毛郡上関町室津９０４−１５[MAP]\n【400ｍＬ献血限定】",
-        "location": {
-          "lat": 33.834059,
-          "lng": 132.116773
-        },
-        "reception_time": "9:30～12:00",
         "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
         "date": "2021-03-16"
       },
@@ -19599,8 +19375,8 @@
         "area": "周防大島町",
         "address": "周防大島町 日良居庁舎\n山口県周防大島町土居１３２５－１[MAP]\n【協力】大島オレンジライオンズクラブ\n【400ｍＬ献血限定】",
         "location": {
-          "lat": 33.917393,
-          "lng": 132.302908
+          "lat": 33.917361,
+          "lng": 132.302726
         },
         "reception_time": "12:30～13:45",
         "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
@@ -19610,8 +19386,8 @@
         "area": "周防大島町",
         "address": "東和総合センター\n山口県大島郡周防大島町大字平野２６９－４４[MAP]\n【協力】大島オレンジライオンズクラブ\n【400ｍＬ献血限定】",
         "location": {
-          "lat": 33.908894,
-          "lng": 132.356018
+          "lat": 33.908898,
+          "lng": 132.35601
         },
         "reception_time": "9:30～10:45",
         "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
@@ -19718,7 +19494,7 @@
       },
       {
         "area": "周南市",
-        "address": "コアプラザかの\n山口県周南市鹿野上９１０[MAP]\n【400ｍＬ献血限定】",
+        "address": "コアプラザかの\n山口県周南市鹿野上９１０[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 34.22643,
           "lng": 131.813865
@@ -19729,7 +19505,7 @@
       },
       {
         "area": "周南市",
-        "address": "周南市役所\n山口県周南市岐山通１－１[MAP]\n【400ｍＬ献血限定】",
+        "address": "周南市役所\n山口県周南市岐山通１－１[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 34.055219,
           "lng": 131.806331
@@ -19740,7 +19516,7 @@
       },
       {
         "area": "岩国市",
-        "address": "岩国市錦総合支所\n山口県岩国市錦町広瀬１２－８[MAP]\n【400ｍＬ献血限定】",
+        "address": "岩国市錦総合支所\n山口県岩国市錦町広瀬１２－８[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 34.26279,
           "lng": 131.959666
@@ -19751,7 +19527,7 @@
       },
       {
         "area": "平生町",
-        "address": "平生町役場\n山口県熊毛郡平生町大字平生町２１０－１[MAP]\n【400ｍＬ献血限定】",
+        "address": "平生町役場\n山口県熊毛郡平生町大字平生町２１０－１[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 33.938056,
           "lng": 132.073056
@@ -19762,7 +19538,7 @@
       },
       {
         "area": "宇部市",
-        "address": "宇部・山陽小野田消防局\n山口県宇部市港町２－３－３０[MAP]\n【400ｍＬ献血限定】",
+        "address": "宇部・山陽小野田消防局\n山口県宇部市港町２－３－３０[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 33.942579,
           "lng": 131.249519
@@ -19773,7 +19549,7 @@
       },
       {
         "area": "防府市",
-        "address": "防府市消防本部\n山口県防府市佐波二丁目１１番２５号[MAP]\n【400ｍＬ献血限定】",
+        "address": "防府市消防本部\n山口県防府市佐波二丁目１１番２５号[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 34.056998,
           "lng": 131.563289
@@ -19795,7 +19571,7 @@
       },
       {
         "area": "防府市",
-        "address": "イオンタウン防府\n山口県防府市鐘紡町７－１[MAP]\n【400ｍＬ献血限定】",
+        "address": "イオンタウン防府\n山口県防府市鐘紡町７－１[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 34.048431,
           "lng": 131.590163
@@ -19806,7 +19582,7 @@
       },
       {
         "area": "下松市",
-        "address": "サンリブ下松\n山口県下松市南花岡６－８－１[MAP]\n【400ｍL献血限定】",
+        "address": "サンリブ下松\n山口県下松市南花岡６－８－１[MAP]\n【400ｍL献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 34.030392,
           "lng": 131.86542
@@ -19817,7 +19593,7 @@
       },
       {
         "area": "宇部市",
-        "address": "ゆめタウン宇部\n山口県宇部市大字妻崎開作４１１[MAP]\n【400ｍＬ献血限定】",
+        "address": "ゆめタウン宇部\n山口県宇部市大字妻崎開作４１１[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 33.984716,
           "lng": 131.206237
@@ -19839,7 +19615,7 @@
       },
       {
         "area": "山陽小野田市",
-        "address": "山陽小野田市水道局\n山口県山陽小野田市新生１－８－２２[MAP]\n【400ｍＬ献血限定】",
+        "address": "山陽小野田市水道局\n山口県山陽小野田市新生１－８－２２[MAP]\n【400ｍＬ献血限定】\n\n※今回、当会場ではラブラッド会員限定Web予約を実施！\nWebからのご予約はこちらから（前日17：00まで）",
         "location": {
           "lat": 33.9999,
           "lng": 131.180523
@@ -19847,6 +19623,182 @@
         "reception_time": "10:00～11:30",
         "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
         "date": "2021-03-31"
+      },
+      {
+        "area": "下関市",
+        "address": "ゆめシティ\n山口県下関市伊倉新町３－１－１[MAP]\n【主催】下関西ライオンズクラブ\n【400ｍL献血限定】",
+        "location": {
+          "lat": 34.00632,
+          "lng": 130.933663
+        },
+        "reception_time": "10:00～12:00\n13:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-03"
+      },
+      {
+        "area": "防府市",
+        "address": "イオンタウン防府\n山口県防府市鐘紡町７－１[MAP]\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 34.048431,
+          "lng": 131.590163
+        },
+        "reception_time": "10:00～12:00\n13:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-03"
+      },
+      {
+        "area": "下松市",
+        "address": "サンリブ下松\n山口県下松市南花岡６－８－１[MAP]\n【400ｍL献血限定】",
+        "location": {
+          "lat": 34.030392,
+          "lng": 131.86542
+        },
+        "reception_time": "10:00～12:00\n13:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-04"
+      },
+      {
+        "area": "下関市",
+        "address": "パワータウン新下関コスパ\n山口県下関市大字石原３０３[MAP]\n【主催】下関新下関ライオンズクラブ\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 34.014842,
+          "lng": 130.949927
+        },
+        "reception_time": "10:00～12:00\n13:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-04"
+      },
+      {
+        "area": "岩国市",
+        "address": "ゆめタウン南岩国\n山口県岩国市南岩国町１－２０－３０[MAP]\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 34.134725,
+          "lng": 132.202604
+        },
+        "reception_time": "9:30～12:00\n13:15～15:30",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-04"
+      },
+      {
+        "area": "山口市",
+        "address": "山口県セミナーパーク\n山口県山口市秋穂二島１０６２[MAP]\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 34.059934,
+          "lng": 131.435888
+        },
+        "reception_time": "9:00～10:15",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-06"
+      },
+      {
+        "area": "山口市",
+        "address": "日本たばこ産業㈱山口支店\n山口県山口市小郡若草町２−６[MAP]\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 34.085461,
+          "lng": 131.395434
+        },
+        "reception_time": "11:30～12:45",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-06"
+      },
+      {
+        "area": "山口市",
+        "address": "ＪＡ全農やまぐちアグリ総合センター\n山口県山口市佐山産業団地南１２００－１[MAP]\n【400ｍL献血限定】",
+        "location": {
+          "lat": 34.041327,
+          "lng": 131.36399
+        },
+        "reception_time": "14:45～16:30",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-06"
+      },
+      {
+        "area": "山口市",
+        "address": "山口県庁\n山口県山口市滝町１－１[MAP]\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 34.185934,
+          "lng": 131.470726
+        },
+        "reception_time": "9:30～11:00\n12:15～16:30",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-07"
+      },
+      {
+        "area": "和木町",
+        "address": "和木町保健相談センター\n山口県玖珂郡和木町和木２－１５－１[MAP]\n【400ｍL献血限定】",
+        "location": {
+          "lat": 34.207513,
+          "lng": 132.221344
+        },
+        "reception_time": "10:00～12:00\n13:00～15:30",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-07"
+      },
+      {
+        "area": "長門市",
+        "address": "フジ長門店\n山口県長門市仙崎字綱田３２２－２[MAP]\n【主催】長門ライオンズクラブ\n【400ｍL献血限定】",
+        "location": {
+          "lat": 34.376854,
+          "lng": 131.193879
+        },
+        "reception_time": "10:00～12:00\n13:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-07"
+      },
+      {
+        "area": "宇部市",
+        "address": "大栄建設㈱\n山口県宇部市北琴芝２－１２－１－２[MAP]\n【400ｍL献血限定】",
+        "location": {
+          "lat": 35.343082,
+          "lng": 139.611773
+        },
+        "reception_time": "13:30～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-08"
+      },
+      {
+        "area": "山口市",
+        "address": "山口県庁\n山口県山口市滝町１－１[MAP]\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 34.185934,
+          "lng": 131.470726
+        },
+        "reception_time": "9:30～11:00\n12:15～16:30",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-08"
+      },
+      {
+        "area": "下松市",
+        "address": "サンリブ下松\n山口県下松市南花岡６－８－１[MAP]\n【400ｍL献血限定】",
+        "location": {
+          "lat": 34.030392,
+          "lng": 131.86542
+        },
+        "reception_time": "10:00～12:00\n13:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-11"
+      },
+      {
+        "area": "宇部市",
+        "address": "ゆめタウン宇部\n山口県宇部市大字妻崎開作４１１[MAP]\n【主催】宇部新川ライオンズクラブ\n【400ｍＬ献血限定】",
+        "location": {
+          "lat": 33.984716,
+          "lng": 131.206237
+        },
+        "reception_time": "10:00～12:00\n13:15～16:00",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-11"
+      },
+      {
+        "area": "柳井市",
+        "address": "ゆめタウン柳井\n山口県柳井市南町４－５－３[MAP]\n【400ｍL献血限定】",
+        "location": {
+          "lat": 33.961218,
+          "lng": 132.106027
+        },
+        "reception_time": "9:30～12:00\n13:15～15:30",
+        "url": "https://www.bs.jrc.or.jp/csk/yamaguchi/place/m1_03_index.html",
+        "date": "2021-04-11"
       }
     ]
   },
@@ -19893,83 +19845,6 @@
     ],
     "bus_list": [
       {
-        "area": "鳴門市",
-        "address": "鳴門市役所（南側駐車場）\n鳴門市撫養町南浜字東浜170[MAP]",
-        "location": {
-          "lat": 34.172576,
-          "lng": 134.608753
-        },
-        "reception_time": "9:30 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
-        "date": "2021-03-10"
-      },
-      {
-        "area": "徳島市",
-        "address": "徳島日産自動車株式会社\n徳島市昭和町8丁目44-5[MAP]",
-        "location": {
-          "lat": 34.056243,
-          "lng": 134.570897
-        },
-        "reception_time": "9:30 ～ 10:30",
-        "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "名西郡石井町",
-        "address": "百姓一\n名西郡石井町石井字重松639-5[MAP]",
-        "location": {
-          "lat": 34.074521,
-          "lng": 134.433694
-        },
-        "reception_time": "8:40 ～ 11:40",
-        "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "徳島市",
-        "address": "誉建設株式会社\n徳島市国府町北岩延中屋敷30-3[MAP]",
-        "location": {
-          "lat": 35.759407,
-          "lng": 139.549383
-        },
-        "reception_time": "9:30 ～ 11:00",
-        "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "徳島市",
-        "address": "マルナカ徳島店\n徳島市西新浜町1丁目6-1[MAP]",
-        "location": {
-          "lat": 34.044407,
-          "lng": 134.558812
-        },
-        "reception_time": "13:00 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "名西郡石井町",
-        "address": "石井町中央公民館\n名西郡石井町石井字石井480-1[MAP]",
-        "location": {
-          "lat": 34.06786,
-          "lng": 134.446567
-        },
-        "reception_time": "13:30 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "板野郡藍住町",
-        "address": "シミズ精工株式会社\n板野郡藍住町奥野字和田124[MAP]",
-        "location": {
-          "lat": 34.675337,
-          "lng": 135.521244
-        },
-        "reception_time": "9:00 ～ 10:20",
-        "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "美馬市",
         "address": "美馬警察署\n美馬市脇町字拝原1976-1[MAP]",
         "location": {
@@ -19984,8 +19859,8 @@
         "area": "吉野川市",
         "address": "キョーエイ山川店\n吉野川市山川町前川197-1[MAP]\n【主催：鴨島ライオンズクラブ】",
         "location": {
-          "lat": 34.058672,
-          "lng": 134.239989
+          "lat": 34.058694,
+          "lng": 134.239531
         },
         "reception_time": "12:40 ～ 14:10",
         "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
@@ -20116,8 +19991,8 @@
         "area": "名西郡石井町",
         "address": "石井公民館 藍畑分館\n名西郡石井町藍畑字東覚円671-1 [MAP]",
         "location": {
-          "lat": 34.09793,
-          "lng": 134.43956
+          "lat": 34.097888,
+          "lng": 134.439386
         },
         "reception_time": "8:40 ～ 12:30",
         "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
@@ -20149,8 +20024,8 @@
         "area": "名西郡石井町",
         "address": "竜王集会所\n名西郡石井町藍畑字竜王52番地10[MAP]",
         "location": {
-          "lat": 34.431018,
-          "lng": 132.444623
+          "lat": 35.062183,
+          "lng": 136.124343
         },
         "reception_time": "14:00 ～ 16:00",
         "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
@@ -20226,8 +20101,8 @@
         "area": "阿南市",
         "address": "キョーエイ羽ノ浦\n阿南市羽ノ浦町宮倉日開元15[MAP]",
         "location": {
-          "lat": 33.963256,
-          "lng": 134.619662
+          "lat": 33.963146,
+          "lng": 134.619891
         },
         "reception_time": "14:00 ～ 16:30",
         "url": "https://www.bs.jrc.or.jp/csk/tokushima/place/m1_03_index.html",
@@ -20435,8 +20310,8 @@
         "area": "三木町",
         "address": "高松東警察署\n木田郡三木町平木55-2[MAP]",
         "location": {
-          "lat": 34.270397,
-          "lng": 134.12866
+          "lat": 34.27037,
+          "lng": 134.128802
         },
         "reception_time": "09:15～11:30",
         "url": "https://www.bs.jrc.or.jp/csk/kagawa/place/m1_03_index.html",
@@ -20446,8 +20321,8 @@
         "area": "三豊市",
         "address": "新タック化成\n三豊市豊中町上高野4148[MAP]",
         "location": {
-          "lat": 34.725169,
-          "lng": 135.443506
+          "lat": 35.189539,
+          "lng": 136.891441
         },
         "reception_time": "09:15～11:30",
         "url": "https://www.bs.jrc.or.jp/csk/kagawa/place/m1_03_index.html",
@@ -20523,8 +20398,8 @@
         "area": "三木町",
         "address": "三木町役場（農村環境改善センター）\n木田郡三木町氷上310[MAP]",
         "location": {
-          "lat": 34.268363,
-          "lng": 134.135189
+          "lat": 34.268449,
+          "lng": 134.135211
         },
         "reception_time": "09:30～11:3012:30～16:00",
         "url": "https://www.bs.jrc.or.jp/csk/kagawa/place/m1_03_index.html",
@@ -20809,8 +20684,8 @@
         "area": "松山市",
         "address": "コープ余戸\n松山市余戸中４丁目１０−１７[MAP]",
         "location": {
-          "lat": 33.818015,
-          "lng": 132.726899
+          "lat": 33.818138,
+          "lng": 132.726898
         },
         "reception_time": "15：30-16：30",
         "url": "https://www.bs.jrc.or.jp/csk/ehime/place/m1_03_index.html",
@@ -21590,8 +21465,8 @@
         "area": "日高村",
         "address": "村の駅ひだか\n高知県高岡郡日高村本郷１４７８－９[MAP]\nラブラッドWeb予約（前日17時まで）",
         "location": {
-          "lat": 33.531361,
-          "lng": 133.354899
+          "lat": 33.531273,
+          "lng": 133.354898
         },
         "reception_time": "10:00～12:0013:15～16:00",
         "url": "https://www.bs.jrc.or.jp/csk/kochi/place/m1_03_bus.html",
@@ -21623,8 +21498,8 @@
         "area": "中土佐町",
         "address": "町民交流会館\n高知県高岡郡中土佐町久礼６５８４－１[MAP]\nラブラッドWeb予約（前日17時まで）",
         "location": {
-          "lat": 36.273489,
-          "lng": 138.315117
+          "lat": 37.699201,
+          "lng": 139.059063
         },
         "reception_time": "10:00～12:00",
         "url": "https://www.bs.jrc.or.jp/csk/kochi/place/m1_03_bus.html",
@@ -21678,8 +21553,8 @@
         "area": "宿毛市",
         "address": "フジ宿毛店\n高知県宿毛市宿毛５３８０－１[MAP]\nラブラッドWeb予約（前日17時まで）",
         "location": {
-          "lat": 32.92966,
-          "lng": 132.709219
+          "lat": 32.928693,
+          "lng": 132.707683
         },
         "reception_time": "12:00～15:30",
         "url": "https://www.bs.jrc.or.jp/csk/kochi/place/m1_03_bus.html",
@@ -21918,50 +21793,6 @@
     ],
     "bus_list": [
       {
-        "area": "福岡県北九州市　小倉北区",
-        "address": "北九州市水道局東部工事事務所\n福岡県北九州市小倉南区八幡町35-1[MAP]\n[受付]１階廊下\n※ラブラッドで予約できます。",
-        "location": {
-          "lat": 33.85939,
-          "lng": 130.877311
-        },
-        "reception_time": "14:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/fukuoka/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "福岡県朝倉市",
-        "address": "福岡県朝倉警察署\n福岡県朝倉市甘木２２５－１[MAP]",
-        "location": {
-          "lat": 33.414513,
-          "lng": 130.658518
-        },
-        "reception_time": "09:30～12:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/fukuoka/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "福岡県福岡市　東区",
-        "address": "ゆめタウン博多\n福岡県福岡市東区東浜１－１－１[MAP]",
-        "location": {
-          "lat": 33.611707,
-          "lng": 130.411685
-        },
-        "reception_time": "10:00～12:0013:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/fukuoka/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
-        "area": "福岡県筑紫野市",
-        "address": "イオンモール筑紫野\n福岡県筑紫野市立明寺４３４－１[MAP]",
-        "location": {
-          "lat": 33.481642,
-          "lng": 130.52756
-        },
-        "reception_time": "14:00～16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/fukuoka/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
-      {
         "area": "福岡県三潴郡　大木町",
         "address": "イオン大木店\n福岡県三潴郡大木町大字蛭池１２００[MAP]",
         "location": {
@@ -22075,8 +21906,8 @@
         "area": "福岡県久留米市",
         "address": "田主丸総合支所\n福岡県久留米市田主丸町田主丸４５９－１１[MAP]",
         "location": {
-          "lat": 33.343177,
-          "lng": 130.694228
+          "lat": 33.343274,
+          "lng": 130.694232
         },
         "reception_time": "10:00～13:0014:00～15:30",
         "url": "https://www.bs.jrc.or.jp/bc9/fukuoka/place/m1_03_index.html",
@@ -22097,8 +21928,8 @@
         "area": "福岡県直方市",
         "address": "国土交通省遠賀河川事務所\n福岡県直方市溝堀1-1-1[MAP]\n[受付]１階ロビー",
         "location": {
-          "lat": 33.740134,
-          "lng": 130.731166
+          "lat": 33.655134,
+          "lng": 130.68687
         },
         "reception_time": "14:00～16:00",
         "url": "https://www.bs.jrc.or.jp/bc9/fukuoka/place/m1_03_index.html",
@@ -22280,17 +22111,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "吉野ヶ里町",
-        "address": "吉野ヶ里保健福祉センター「きらら館」\n[MAP]\n共催：神埼ロータリークラブ",
-        "location": {
-          "lat": 33.352473,
-          "lng": 130.397829
-        },
-        "reception_time": "9:00 ～ 12:0013：30 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/saga/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
       {
         "area": "上峰町",
         "address": "上峰町役場\n[MAP]\n共催：三養基ライオンズクラブ",
@@ -22514,336 +22334,6 @@
     "bus_list": [
       {
         "area": "壱岐市",
-        "address": "壱岐市役所　郷ノ浦庁舎\n長崎県壱岐市郷ノ浦町本村触５６２[MAP]",
-        "location": {
-          "lat": 33.749967,
-          "lng": 129.691357
-        },
-        "reception_time": "09:00 ～ 12:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-08"
-      },
-      {
-        "area": "壱岐市",
-        "address": "長崎県病院企業団　長崎県壱岐病院\n長崎県壱岐市郷ノ浦町本村触１６２６番地[MAP]",
-        "location": {
-          "lat": 33.756213,
-          "lng": 129.70928
-        },
-        "reception_time": "14:00 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-08"
-      },
-      {
-        "area": "大村市",
-        "address": "林辰産業株式会社\n長崎県大村市溝陸町１０２５ー６[MAP]",
-        "location": {
-          "lat": 32.855233,
-          "lng": 130.010423
-        },
-        "reception_time": "11:00 ～ 13:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-08"
-      },
-      {
-        "area": "諫早市",
-        "address": "コカ･コーラ ボトラーズジャパン株式会社諫早拠点\n長崎県諫早市貝津町１２８２ー５[MAP]",
-        "location": {
-          "lat": 32.730907,
-          "lng": 129.826705
-        },
-        "reception_time": "08:00 ～ 10:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-08"
-      },
-      {
-        "area": "諫早市",
-        "address": "大和容器株式会社　本社長崎工場　※\n[MAP]\n※一般の受付は行っておりません。",
-        "location": {
-          "lat": 32.821195,
-          "lng": 130.003197
-        },
-        "reception_time": "15:00 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-08"
-      },
-      {
-        "area": "壱岐市",
-        "address": "勝本町漁業協同組合\n長崎県壱岐市勝本町勝本浦３４５[MAP]",
-        "location": {
-          "lat": 33.853872,
-          "lng": 129.695489
-        },
-        "reception_time": "13:30 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "壱岐市",
-        "address": "壱岐市役所　勝本庁舎\n長崎県壱岐市勝本町西戸触１８２－５[MAP]",
-        "location": {
-          "lat": 33.848642,
-          "lng": 129.692105
-        },
-        "reception_time": "09:00 ～ 12:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "大村市",
-        "address": "イオン九州株式会社マックスバリュ空港通り店\n長崎県大村市古賀島町５２５－４[MAP]",
-        "location": {
-          "lat": 33.602846,
-          "lng": 130.443297
-        },
-        "reception_time": "15:00 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "大村市",
-        "address": "国土交通省九州地方整備局　長崎河川国道事務所　大村維持出張所\n長崎県大村市富の原２丁目１６６４[MAP]",
-        "location": {
-          "lat": 32.949974,
-          "lng": 129.940241
-        },
-        "reception_time": "09:00 ～ 10:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "大村市",
-        "address": "大村Ｊボウル\n長崎県大村市協和町７８０[MAP]",
-        "location": {
-          "lat": 32.916986,
-          "lng": 129.949091
-        },
-        "reception_time": "11:30 ～ 13:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "島原市",
-        "address": "島原市医師会看護学校\n長崎県島原市萩原１ー１２３０[MAP]",
-        "location": {
-          "lat": 32.785739,
-          "lng": 130.366425
-        },
-        "reception_time": "09:00 ～ 12:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "島原市",
-        "address": "株式会社県北衛生社　島原リサイクルプラント\n長崎県島原市西町丙１３９７ー１[MAP]",
-        "location": {
-          "lat": 32.803568,
-          "lng": 130.330896
-        },
-        "reception_time": "14:00 ～ 15:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-09"
-      },
-      {
-        "area": "壱岐市",
-        "address": "壱岐市役所　芦辺庁舎\n長崎県壱岐市芦辺町芦辺浦５６２[MAP]",
-        "location": {
-          "lat": 33.8021,
-          "lng": 129.762725
-        },
-        "reception_time": "12:15 ～ 15:45",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-10"
-      },
-      {
-        "area": "壱岐市",
-        "address": "壱岐市役所　那賀事務所\n長崎県壱岐市芦辺町中野郷西触３６３[MAP]",
-        "location": {
-          "lat": 33.790276,
-          "lng": 129.721436
-        },
-        "reception_time": "09:00 ～ 10:45",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-10"
-      },
-      {
-        "area": "諫早市",
-        "address": "医療法人祥仁会　西諫早病院\n長崎県諫早市貝津町３０１５[MAP]",
-        "location": {
-          "lat": 32.837181,
-          "lng": 130.020072
-        },
-        "reception_time": "15:00 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-10"
-      },
-      {
-        "area": "諫早市",
-        "address": "県央県南広域環境組合県央県南クリーンセンター\n長崎県諫早市福田町１２５０[MAP]",
-        "location": {
-          "lat": 32.872092,
-          "lng": 130.061718
-        },
-        "reception_time": "11:00 ～ 13:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-10"
-      },
-      {
-        "area": "諫早市",
-        "address": "諫早印刷株式会社\n長崎県諫早市福田町２０ー２６[MAP]",
-        "location": {
-          "lat": 32.84989,
-          "lng": 130.06085
-        },
-        "reception_time": "08:30 ～ 10:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-10"
-      },
-      {
-        "area": "壱岐市",
-        "address": "長崎県壱岐振興局\n長崎県壱岐市郷ノ浦町本村触５７０[MAP]",
-        "location": {
-          "lat": 33.749164,
-          "lng": 129.691916
-        },
-        "reception_time": "09:00 ～ 13:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-11"
-      },
-      {
-        "area": "諫早市",
-        "address": "ドラッグストアモリ諫早幸町店\n長崎県諫早市幸町３９ー４２[MAP]",
-        "location": {
-          "lat": 32.838349,
-          "lng": 130.065544
-        },
-        "reception_time": "15:00 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-11"
-      },
-      {
-        "area": "諫早市",
-        "address": "株式会社西原商会九州長崎営業所\n長崎県諫早市津久葉町６番地１５[MAP]",
-        "location": {
-          "lat": 32.822495,
-          "lng": 130.013162
-        },
-        "reception_time": "08:30 ～ 10:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-11"
-      },
-      {
-        "area": "諫早市",
-        "address": "長崎県諫早警察署\n長崎県諫早市小船越町１０３６－１[MAP]",
-        "location": {
-          "lat": 32.839943,
-          "lng": 130.034058
-        },
-        "reception_time": "09:00 ～ 13:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-11"
-      },
-      {
-        "area": "諫早市",
-        "address": "長崎県金属工業協同組合\n長崎県諫早市貝津町２１４８番地２[MAP]",
-        "location": {
-          "lat": 32.834489,
-          "lng": 130.01589
-        },
-        "reception_time": "12:30 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-11"
-      },
-      {
-        "area": "大村市",
-        "address": "スーパーセンタートライアル大村店\n長崎県大村市松並２丁目９２番１[MAP]\n◎ラブラッド で予約できます。",
-        "location": {
-          "lat": 32.923986,
-          "lng": 129.947833
-        },
-        "reception_time": "09:30 ～ 12:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "大村市",
-        "address": "長崎県環境保健研究センター\n長崎県大村市池田２丁目１３０６ー１１[MAP]",
-        "location": {
-          "lat": 32.939085,
-          "lng": 129.978602
-        },
-        "reception_time": "14:30 ～ 16:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "長崎市",
-        "address": "九電工長崎営業所　平和町事務所\n長崎市平和町１７ー１９[MAP]",
-        "location": {
-          "lat": 32.775299,
-          "lng": 129.864409
-        },
-        "reception_time": "13:00 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "長崎市",
-        "address": "株式会社九電工　長崎配電工事営業所\n長崎県長崎市神ノ島町１丁目３３１ー２５神ノ島工業団地内[MAP]",
-        "location": {
-          "lat": 32.775299,
-          "lng": 129.864409
-        },
-        "reception_time": "09:00 ～ 11:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-12"
-      },
-      {
-        "area": "壱岐市",
-        "address": "マリンパル壱岐\n長崎県壱岐市石田町印通寺浦４７１－２[MAP]",
-        "location": {
-          "lat": 33.743763,
-          "lng": 129.755478
-        },
-        "reception_time": "13:30 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-13"
-      },
-      {
-        "area": "壱岐市",
-        "address": "壱岐の島ホール（地下駐車場）\n長崎県壱岐市郷ノ浦町本村触４４５番地[MAP]",
-        "location": {
-          "lat": 33.749063,
-          "lng": 129.687112
-        },
-        "reception_time": "09:00 ～ 11:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-13"
-      },
-      {
-        "area": "長崎市",
-        "address": "ゆめタウン夢彩都\n長崎県長崎市元船町１０－１[MAP]\n◎ラブラッド で予約できます。\nトミカキャンペーン実施会場",
-        "location": {
-          "lat": 32.746263,
-          "lng": 129.870253
-        },
-        "reception_time": "09:30 ～ 11:3013:00 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-13"
-      },
-      {
-        "area": "壱岐市",
-        "address": "イオン九州株式会社イオン壱岐店\n長崎県壱岐市芦辺町瀬戸浦箱崎中山触字干拓２６０４－２[MAP]",
-        "location": {
-          "lat": 33.81024,
-          "lng": 129.751437
-        },
-        "reception_time": "09:00 ～ 11:3013:00 ～ 16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
-        "date": "2021-03-14"
-      },
-      {
-        "area": "壱岐市",
         "address": "壱岐市役所　石田庁舎\n長崎県壱岐市石田町石田西触１２９０[MAP]",
         "location": {
           "lat": 33.747758,
@@ -22954,7 +22444,7 @@
       },
       {
         "area": "佐世保市",
-        "address": "イオン佐世保白岳ショッピングセンター\n長崎県佐世保市白岳町５０番１[MAP]\nみんなで献血キャンペーン",
+        "address": "イオン佐世保白岳ショッピングセンター\n長崎県佐世保市白岳町５０番１[MAP]\n\n◎ラブラッド で予約できます。\nみんなで献血キャンペーン",
         "location": {
           "lat": 33.151328,
           "lng": 129.747383
@@ -22965,7 +22455,7 @@
       },
       {
         "area": "島原市",
-        "address": "島原市役所\n長崎県島原市上の町537番地[MAP]\nみんなで献血キャンペーン",
+        "address": "島原市役所\n長崎県島原市上の町537番地[MAP]\n\nみんなで献血キャンペーン",
         "location": {
           "lat": 32.787905,
           "lng": 130.370031
@@ -22976,7 +22466,7 @@
       },
       {
         "area": "諫早市",
-        "address": "諫早市役所\n長崎県諫早市東小路町７－１[MAP]\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
+        "address": "諫早市役所\n長崎県諫早市東小路町７－１[MAP]\n\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
         "location": {
           "lat": 32.84359,
           "lng": 130.053257
@@ -22987,7 +22477,7 @@
       },
       {
         "area": "佐世保市",
-        "address": "マックスバリュ早岐店\n長崎県佐世保市広田３丁目１ー３９[MAP]\nみんなで献血キャンペーン\n骨髄バンクドナー登録できます。",
+        "address": "マックスバリュ早岐店\n長崎県佐世保市広田３丁目１ー３９[MAP]\n\n◎ラブラッド で予約できます。\nみんなで献血キャンペーン\n骨髄バンクドナー登録できます。",
         "location": {
           "lat": 33.124413,
           "lng": 129.801123
@@ -22998,7 +22488,7 @@
       },
       {
         "area": "長崎市",
-        "address": "イオン東長崎ショッピングセンター\n長崎県長崎市田中町１０２７ー８[MAP]\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
+        "address": "イオン東長崎ショッピングセンター\n長崎県長崎市田中町１０２７ー８[MAP]\n\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
         "location": {
           "lat": 32.768357,
           "lng": 129.952117
@@ -23009,7 +22499,7 @@
       },
       {
         "area": "長崎市",
-        "address": "フレスポ福田Ｗｅｓｔ\n長崎県長崎市小浦町７１４ー８[MAP]\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
+        "address": "フレスポ福田Ｗｅｓｔ\n長崎県長崎市小浦町７１４ー８[MAP]\n\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
         "location": {
           "lat": 32.747566,
           "lng": 129.825701
@@ -23020,7 +22510,7 @@
       },
       {
         "area": "大村市",
-        "address": "株式会社エレナ大村中央店\n長崎県大村市杭出津２丁目７４４ー１[MAP]\nみんなで献血キャンペーン",
+        "address": "株式会社エレナ大村中央店\n長崎県大村市杭出津２丁目７４４ー１[MAP]\n\n◎ラブラッド で予約できます。\nみんなで献血キャンペーン",
         "location": {
           "lat": 32.911973,
           "lng": 129.952209
@@ -23031,7 +22521,7 @@
       },
       {
         "area": "西彼杵郡　時津町",
-        "address": "株式会社ミスターマックス時津店\n長崎県西彼杵郡時津町左底郷１８３２ー１[MAP]\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
+        "address": "株式会社ミスターマックス時津店\n長崎県西彼杵郡時津町左底郷１８３２ー１[MAP]\n\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
         "location": {
           "lat": 32.83493,
           "lng": 129.844264
@@ -23042,7 +22532,7 @@
       },
       {
         "area": "長崎市",
-        "address": "フレスポ深堀\n長崎県長崎市深堀町１ー１４５ー２４[MAP]\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
+        "address": "フレスポ深堀\n長崎県長崎市深堀町１ー１４５ー２４[MAP]\n\nみんなで献血キャンペーン\n◎ラブラッド で予約できます。",
         "location": {
           "lat": 32.684758,
           "lng": 129.833802
@@ -23050,6 +22540,226 @@
         "reception_time": "09:30 ～ 11:3013:00 ～ 16:00",
         "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
         "date": "2021-03-21"
+      },
+      {
+        "area": "諫早市",
+        "address": "医療法人祐里会　姉川病院\n長崎県諫早市小野島町２３７８－２[MAP]",
+        "location": {
+          "lat": 32.850775,
+          "lng": 130.088532
+        },
+        "reception_time": "15:00 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-22"
+      },
+      {
+        "area": "諫早市",
+        "address": "有限会社北村工業所\n長崎県諫早市津久葉町５ー１１３[MAP]",
+        "location": {
+          "lat": 32.819703,
+          "lng": 130.01111
+        },
+        "reception_time": "11:30 ～ 13:00",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-22"
+      },
+      {
+        "area": "諫早市",
+        "address": "長崎冷凍工業株式会社冷蔵部諫早冷蔵庫\n長崎県諫早市貝津町１８３０－１５[MAP]",
+        "location": {
+          "lat": 32.829808,
+          "lng": 130.014531
+        },
+        "reception_time": "09:00 ～ 10:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-22"
+      },
+      {
+        "area": "佐世保市",
+        "address": "陸上自衛隊水陸機動団（相浦駐屯地）　※\n[MAP]\n※一般の受付は行っておりません。",
+        "location": {
+          "lat": 33.177202,
+          "lng": 129.65719
+        },
+        "reception_time": "10:00 ～ 13:0014:00 ～ 17:00",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-23"
+      },
+      {
+        "area": "雲仙市",
+        "address": "雲仙市役所\n長崎県雲仙市吾妻町牛口名７１４[MAP]",
+        "location": {
+          "lat": 32.835217,
+          "lng": 130.187511
+        },
+        "reception_time": "09:30 ～ 11:0012:30 ～ 16:00",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-23"
+      },
+      {
+        "area": "南島原市",
+        "address": "南島原市　加津佐保健センター\n長崎県南島原市加津佐町己３５１３－１[MAP]",
+        "location": {
+          "lat": 32.631013,
+          "lng": 130.159186
+        },
+        "reception_time": "09:30 ～ 11:0012:30 ～ 15:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-24"
+      },
+      {
+        "area": "東彼杵郡　波佐見町",
+        "address": "波佐見町役場\n長崎県東彼杵郡波佐見町宿郷６６０[MAP]",
+        "location": {
+          "lat": 33.137893,
+          "lng": 129.895548
+        },
+        "reception_time": "09:00 ～ 12:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-24"
+      },
+      {
+        "area": "東彼杵郡　波佐見町",
+        "address": "波佐見病院\n長崎県東彼杵郡波佐見町稗木場郷７９２ー１[MAP]",
+        "location": {
+          "lat": 33.126749,
+          "lng": 129.87164
+        },
+        "reception_time": "14:30 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-24"
+      },
+      {
+        "area": "南島原市",
+        "address": "深江ふるさと伝承館\n長崎県南島原市深江町丁２２６６－１[MAP]",
+        "location": {
+          "lat": 32.71785,
+          "lng": 130.353266
+        },
+        "reception_time": "09:30 ～ 11:0012:30 ～ 15:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-25"
+      },
+      {
+        "area": "西海市",
+        "address": "西海市役所（本庁舎前）\n長崎県西海市大瀬戸町瀬戸樫浦郷２２２２[MAP]",
+        "location": {
+          "lat": 32.932932,
+          "lng": 129.6429
+        },
+        "reception_time": "09:00 ～ 11:0012:20 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-25"
+      },
+      {
+        "area": "雲仙市",
+        "address": "雲仙市国見総合支所\n長崎県雲仙市国見町土黒甲１１００[MAP]",
+        "location": {
+          "lat": 32.874232,
+          "lng": 130.302062
+        },
+        "reception_time": "13:00 ～ 16:00",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-25"
+      },
+      {
+        "area": "雲仙市",
+        "address": "ＪＡ島原雲仙国見支店\n長崎県雲仙市国見町神代己４７６[MAP]",
+        "location": {
+          "lat": 32.872641,
+          "lng": 130.282316
+        },
+        "reception_time": "09:30 ～ 11:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-25"
+      },
+      {
+        "area": "東彼杵郡　東彼杵町",
+        "address": "東彼杵町総合会館\n長崎県東彼杵郡東彼杵町彼杵宿郷７０６－４[MAP]",
+        "location": {
+          "lat": 33.036411,
+          "lng": 129.920181
+        },
+        "reception_time": "09:00 ～ 12:3014:00 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-26"
+      },
+      {
+        "area": "西彼杵郡　時津町",
+        "address": "有限会社　五輪工業所\n長崎県西彼杵郡時津町浦郷５４９[MAP]",
+        "location": {
+          "lat": 32.833202,
+          "lng": 129.845683
+        },
+        "reception_time": "12:00 ～ 13:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-26"
+      },
+      {
+        "area": "西彼杵郡　時津町",
+        "address": "社会福祉法人時津会　特別養護老人ホーム時津荘\n長崎県西彼杵郡時津町西時津郷１２３５[MAP]",
+        "location": {
+          "lat": 32.845876,
+          "lng": 129.856035
+        },
+        "reception_time": "14:30 ～ 16:00",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-26"
+      },
+      {
+        "area": "西彼杵郡　時津町",
+        "address": "長崎機器株式会社\n長崎県西彼杵郡時津町元村郷８２０[MAP]",
+        "location": {
+          "lat": 32.824116,
+          "lng": 129.848877
+        },
+        "reception_time": "09:00 ～ 10:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-26"
+      },
+      {
+        "area": "雲仙市",
+        "address": "雲仙市　千々石総合支所\n長崎県雲仙市千々石町戊[MAP]",
+        "location": {
+          "lat": 32.783785,
+          "lng": 130.202112
+        },
+        "reception_time": "09:30 ～ 11:0012:30 ～ 16:00",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-26"
+      },
+      {
+        "area": "佐世保市",
+        "address": "イオン大塔ショッピングセンター\n長崎県佐世保市大塔町１４ー２[MAP]\n◎ラブラッド で予約できます。\n骨髄バンクドナー登録できます。",
+        "location": {
+          "lat": 33.148545,
+          "lng": 129.779987
+        },
+        "reception_time": "10:00 ～ 12:0013:30 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-27"
+      },
+      {
+        "area": "大村市",
+        "address": "イオン大村ショッピングセンター\n長崎県大村市幸町２５番地２００[MAP]\n◎ラブラッド で予約できます。",
+        "location": {
+          "lat": 32.901587,
+          "lng": 129.953478
+        },
+        "reception_time": "10:00 ～ 12:0013:30 ～ 16:30",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-28"
+      },
+      {
+        "area": "長崎市",
+        "address": "イオン東長崎ショッピングセンター\n長崎県長崎市田中町１０２７ー８[MAP]\n◎ラブラッド で予約できます。\nトミカキャンペーン実施会場",
+        "location": {
+          "lat": 32.768357,
+          "lng": 129.952117
+        },
+        "reception_time": "09:30 ～ 11:3013:00 ～ 16:00",
+        "url": "https://www.bs.jrc.or.jp/bc9/nagasaki/place/m1_03_index.html",
+        "date": "2021-03-28"
       }
     ]
   },
@@ -23107,17 +22817,6 @@
       }
     ],
     "bus_list": [
-      {
-        "area": "山鹿市",
-        "address": "Ｍｒ．Ｍａｘ山鹿店\n熊本県山鹿市方保田[MAP]\nWebからご予約ができます。\n→献血Webサービス「ラブラッド」",
-        "location": {
-          "lat": 33.005915,
-          "lng": 130.724187
-        },
-        "reception_time": "9:30～11:3012:45～16:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
-        "date": "2021-03-15"
-      },
       {
         "area": "熊本市",
         "address": "国土交通省熊本河川国道事務所\n熊本県熊本市東区西原１－１２－１[MAP]",
@@ -23422,18 +23121,7 @@
           "lat": 32.842955,
           "lng": 130.808669
         },
-        "reception_time": "9:30～11:30",
-        "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
-        "date": "2021-03-24"
-      },
-      {
-        "area": "菊陽町",
-        "address": "熊本リハビリテーション病院\n熊本県菊池郡菊陽町大字曲手７６０[MAP]",
-        "location": {
-          "lat": 32.840266,
-          "lng": 130.835317
-        },
-        "reception_time": "13:15～16:00",
+        "reception_time": "9:30～12:3013:30～16:00",
         "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
         "date": "2021-03-24"
       },
@@ -23441,8 +23129,8 @@
         "area": "あさぎり町",
         "address": "あさぎり町役場本庁舎\n熊本県球磨郡あさぎり町免田東１１９９番地[MAP]",
         "location": {
-          "lat": 32.240317,
-          "lng": 130.89781
+          "lat": 32.240379,
+          "lng": 130.897808
         },
         "reception_time": "9:30～11:4513:00～15:30",
         "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
@@ -23455,18 +23143,7 @@
           "lat": 32.938732,
           "lng": 131.114217
         },
-        "reception_time": "9:30～12:00",
-        "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
-        "date": "2021-03-24"
-      },
-      {
-        "area": "阿蘇市",
-        "address": "阿蘇医療センター\n熊本県阿蘇市黒川１１７８[MAP]",
-        "location": {
-          "lat": 32.935709,
-          "lng": 131.083371
-        },
-        "reception_time": "13:45～16:00",
+        "reception_time": "9:30～12:0013:15～15:30",
         "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
         "date": "2021-03-24"
       },
@@ -23485,8 +23162,8 @@
         "area": "長洲町",
         "address": "長洲町役場\n熊本県玉名郡長洲町大字長洲２７６６[MAP]",
         "location": {
-          "lat": 32.929756,
-          "lng": 130.452703
+          "lat": 32.929889,
+          "lng": 130.452653
         },
         "reception_time": "9:30～11:3012:45～15:30",
         "url": "https://www.bs.jrc.or.jp/bc9/kumamoto/place/m1_03_index.html",
@@ -23760,7 +23437,7 @@
         "area": "九重町",
         "address": "九重町役場\n〒879-4895 大分県玖珠郡九重町後野上８番地１[MAP]\n協力：九重ライオンズクラブ",
         "location": {
-          "lat": 33.22864,
+          "lat": 33.228577,
           "lng": 131.188705
         },
         "reception_time": "10:00 ～ 16:00",
@@ -23958,8 +23635,8 @@
         "area": "小林市",
         "address": "友愛会館（保健福祉センター）\n[MAP]\n【主催】野尻町商工会",
         "location": {
-          "lat": 35.651644,
-          "lng": 139.755557
+          "lat": 35.889064,
+          "lng": 140.663024
         },
         "reception_time": "9:30-12:0013:30-16:00",
         "url": "https://www.bs.jrc.or.jp/bc9/miyazaki/place/m1_03_index.html",
@@ -24256,8 +23933,8 @@
         "area": "鹿児島市",
         "address": "南九州福山通運株式会社鹿児島支店\n鹿児島市西別府町３２００－３[MAP]",
         "location": {
-          "lat": 31.362297,
-          "lng": 130.431325
+          "lat": 31.590054,
+          "lng": 130.502554
         },
         "reception_time": "12:15～14:00",
         "url": "https://www.bs.jrc.or.jp/bc9/kagoshima/place/m1_03_index.html",
@@ -24366,8 +24043,8 @@
         "area": "阿久根市",
         "address": "阿久根市役所\n阿久根市鶴見町200[MAP]\n☆草の根献血☆\n★阿久根ライオンズクラブ主催★",
         "location": {
-          "lat": 32.014184,
-          "lng": 130.19287
+          "lat": 32.014197,
+          "lng": 130.192727
         },
         "reception_time": "09:30～11:3012:45～16:00",
         "url": "https://www.bs.jrc.or.jp/bc9/kagoshima/place/m1_03_index.html",
@@ -24487,8 +24164,8 @@
         "area": "指宿市",
         "address": "今林整形外科病院\n指宿市十町352-2[MAP]",
         "location": {
-          "lat": 35.655567,
-          "lng": 139.73481
+          "lat": 31.254252,
+          "lng": 130.633343
         },
         "reception_time": "09:30～12:0013:30～16:30",
         "url": "https://www.bs.jrc.or.jp/bc9/kagoshima/place/m1_03_index.html",
@@ -24828,8 +24505,8 @@
         "area": "日置市",
         "address": "ＪＡさつま日置吹上支所\n日置市吹上町中原２７６３－１[MAP]\n★吹上ライオンズクラブ協力★",
         "location": {
-          "lat": 31.509299,
-          "lng": 130.34416
+          "lat": 31.509238,
+          "lng": 130.344165
         },
         "reception_time": "15:00～16:30",
         "url": "https://www.bs.jrc.or.jp/bc9/kagoshima/place/m1_03_index.html",
@@ -25070,8 +24747,8 @@
         "area": "名護市",
         "address": "沖縄県シークヮーサー消費推進協議会　場所：JAおきなわ羽地支店\n沖縄県[MAP]",
         "location": {
-          "lat": 26.612852,
-          "lng": 128.003471
+          "lat": 26.120191,
+          "lng": 127.702501
         },
         "reception_time": "9:00-11:30\n13:00-17:00",
         "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
@@ -25103,7 +24780,7 @@
         "area": "浦添市",
         "address": "沖縄県中央卸売市場協会\n沖縄県[MAP]",
         "location": {
-          "lat": 26.248759,
+          "lat": 26.24697,
           "lng": 127.669758
         },
         "reception_time": "9:30-12:00",
@@ -25125,8 +24802,8 @@
         "area": "浦添市",
         "address": "（株）金城商事\n沖縄県[MAP]",
         "location": {
-          "lat": 35.729001,
-          "lng": 139.53031
+          "lat": 26.252534,
+          "lng": 127.686429
         },
         "reception_time": "9:00-12:00",
         "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
@@ -25334,8 +25011,8 @@
         "area": "西原町",
         "address": "沖縄森永乳業株式会社\n沖縄県[MAP]",
         "location": {
-          "lat": 26.217959,
-          "lng": 127.776029
+          "lat": 36.224369,
+          "lng": 137.959053
         },
         "reception_time": "13:30-16:30",
         "url": "https://www.bs.jrc.or.jp/bc9/okinawa/place/m1_03_index.html",
